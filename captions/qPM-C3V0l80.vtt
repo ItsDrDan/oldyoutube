@@ -1,0 +1,1449 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:08.109 --> 00:00:08.170
+Welcome
+
+00:00:14.120 --> 00:00:17.969
+back to another video from ItsDrDan,
+and this time we're going to be
+
+00:00:17.970 --> 00:00:22.560
+doing an introduction to heat and
+energy for introductory chemistry.
+
+00:00:23.145 --> 00:00:27.235
+So for whenever we have come
+across heat and energy problems,
+
+00:00:27.235 --> 00:00:30.615
+these can be extremely confusing,
+especially the first time you were
+
+00:00:30.615 --> 00:00:34.455
+seeing them because they involve a
+lot of simple algebraic equations.
+
+00:00:34.465 --> 00:00:36.754
+So let's try to break it down
+to see what you're going to be
+
+00:00:36.754 --> 00:00:38.164
+seeing in these kinds of problems.
+
+00:00:38.775 --> 00:00:41.444
+So the first thing is, is
+you're going to be coming across
+
+00:00:41.454 --> 00:00:43.695
+heating and cooling curves.
+
+00:00:44.075 --> 00:00:47.495
+So a lot of times you're going to get
+different types of diagrams that look
+
+00:00:47.495 --> 00:00:50.714
+similar to the ones that I have here,
+where there's going to be temperature
+
+00:00:50.715 --> 00:00:53.655
+on one axis, energy on the other.
+
+00:00:53.995 --> 00:00:58.765
+So if something is being heated,
+what we generally see that as is
+
+00:00:58.795 --> 00:01:01.634
+as a slope that is going upwards.
+
+00:01:02.195 --> 00:01:07.414
+And if something is being cooled,
+it is as a slope going downwards.
+
+00:01:07.874 --> 00:01:11.285
+So these are the two things
+that we're going to be seeing.
+
+00:01:11.285 --> 00:01:13.675
+So we have cooling and heating.
+
+00:01:15.050 --> 00:01:22.120
+So whenever this is happening, the whole
+idea with slopes is that the way that we
+
+00:01:22.130 --> 00:01:28.910
+can do mathematical calculations regarding
+these is using the MCAT equation.
+
+00:01:28.920 --> 00:01:33.220
+So it's q is equal to m c Delta T.
+
+00:01:33.500 --> 00:01:37.330
+So anyone that's a pre med out there
+who might want to be a doctor one day,
+
+00:01:37.420 --> 00:01:39.540
+MCAT, it's a quick way to remember it.
+
+00:01:40.090 --> 00:01:42.850
+So what is all that
+really broken down into?
+
+00:01:42.850 --> 00:01:44.329
+What does all these
+different symbols mean?
+
+00:01:44.890 --> 00:01:48.450
+So for this one, it's all about change.
+
+00:01:48.789 --> 00:01:51.030
+So slope is all about change.
+
+00:01:51.120 --> 00:01:52.220
+It's the same idea.
+
+00:01:52.710 --> 00:01:56.860
+So whenever we have Q,
+that represents heat.
+
+00:01:57.595 --> 00:02:03.215
+And that's generally written in
+the units of joules or calories.
+
+00:02:03.615 --> 00:02:07.615
+Very similar to the calories
+that we ingest every day.
+
+00:02:08.255 --> 00:02:11.285
+We also have m for mass.
+
+00:02:12.195 --> 00:02:14.635
+That is going to be shown in grams.
+
+00:02:15.345 --> 00:02:20.425
+We have C, which C in this
+case is for specific heat.
+
+00:02:20.875 --> 00:02:28.225
+Now, specific heat is for a specific
+substance, meaning that it is unique
+
+00:02:28.275 --> 00:02:31.865
+for every single material that exists.
+
+00:02:32.055 --> 00:02:34.559
+Okay, so specific heat.
+
+00:02:35.350 --> 00:02:40.950
+So this is unique, so
+I'll write that down.
+
+00:02:41.250 --> 00:02:44.869
+So, when it comes to specific heat,
+the big thing with that one is it
+
+00:02:44.900 --> 00:02:48.750
+reveals the units that are going
+to be used in the entire equation.
+
+00:02:49.140 --> 00:02:53.059
+So this one is Joules,
+grams, over Celsius.
+
+00:02:53.910 --> 00:02:57.130
+And then when it comes to delta
+T, well, all right, well, what
+
+00:02:57.130 --> 00:02:58.480
+does that all break down to?
+
+00:02:58.480 --> 00:03:02.410
+Well, if you ever see a delta
+symbol, that's telling you that
+
+00:03:02.410 --> 00:03:04.650
+you have a change in something.
+
+00:03:05.300 --> 00:03:09.670
+And the way that that is calculated
+is the final temperature.
+
+00:03:09.840 --> 00:03:15.059
+So wherever your final cooling spot is,
+wherever your, your, uh, end point is.
+
+00:03:15.329 --> 00:03:18.320
+minus your initial starting temperature.
+
+00:03:18.320 --> 00:03:21.550
+So if you're doing this in the lab, most
+likely what you're going to be doing is
+
+00:03:21.550 --> 00:03:24.719
+taking a thermometer, measuring something
+at the very start of your experiment,
+
+00:03:25.019 --> 00:03:28.379
+mixing some chemicals together, and then
+you're going to see a temperature change.
+
+00:03:29.010 --> 00:03:34.189
+So from there, what kind of,
+what other things might we see?
+
+00:03:34.699 --> 00:03:39.779
+So another type of representation
+using these types of curves
+
+00:03:40.190 --> 00:03:42.640
+is by showing plateaus.
+
+00:03:43.050 --> 00:03:47.200
+So if I have this heating curve
+again, and I just want to show it by
+
+00:03:47.200 --> 00:03:55.630
+a flat line, so a plateau, this is
+representing that you are going through
+
+00:03:55.709 --> 00:04:00.339
+a phase change, or a phase transition.
+
+00:04:01.140 --> 00:04:05.030
+So what that means is that this
+is something that requires a lot
+
+00:04:05.030 --> 00:04:09.015
+of energy, And all it's doing is
+going from maybe from a solid to
+
+00:04:09.015 --> 00:04:11.815
+a liquid or a liquid to a gas.
+
+00:04:12.225 --> 00:04:16.024
+So, and those are represented
+by very specific terminology.
+
+00:04:16.414 --> 00:04:22.320
+So if I'm going from a solid
+To a liquid or vice versa.
+
+00:04:23.450 --> 00:04:29.940
+This is always in representation of
+melting and freezing, but we're going
+
+00:04:29.940 --> 00:04:36.020
+to be talking about things in a more
+thermodynamic or heat sense meaning
+
+00:04:36.400 --> 00:04:41.960
+that this is represented by Fusion
+meaning we're bringing together or
+
+00:04:41.970 --> 00:04:47.030
+bringing atoms closer together or slat
+are starting to bring them apart So for
+
+00:04:47.050 --> 00:04:53.490
+this one, it's also represented by heat
+So this is a different version of Q.
+
+00:04:54.270 --> 00:04:59.039
+So, I'm going to label
+it as Q, but, or as heat.
+
+00:05:00.359 --> 00:05:08.320
+And this is moles, so n for
+moles, times delta H of fusion.
+
+00:05:09.109 --> 00:05:12.889
+Okay, and this one's generally
+in kilojoules, is what that
+
+00:05:12.900 --> 00:05:14.090
+one's going to be represented by.
+
+00:05:15.000 --> 00:05:24.280
+Now we also have when a liquid can
+turn into a gas, so when that occurs,
+
+00:05:24.990 --> 00:05:29.820
+this is when we're vaporizing something
+or we're turning it into particles.
+
+00:05:30.060 --> 00:05:34.650
+So when that's occurring, this is
+gonna be another type of heat equation.
+
+00:05:34.650 --> 00:05:35.490
+Very similar.
+
+00:05:35.490 --> 00:05:44.090
+So it's Q heat and that's moles
+times delta H of vaporization.
+
+00:05:45.995 --> 00:05:49.975
+And this one's occurring whenever
+we have something that's boiling
+
+00:05:50.575 --> 00:05:52.465
+or going through condensation.
+
+00:05:53.025 --> 00:05:58.714
+So if you were kind of in class recently
+and your teacher is going over all kinds
+
+00:05:58.714 --> 00:06:03.524
+of different parts of phase changes, this
+is where we have to pay attention and
+
+00:06:03.524 --> 00:06:09.895
+see where are the temperatures rising to
+our, is it going to cross a phase change?
+
+00:06:10.245 --> 00:06:12.665
+So what kind of problems
+can we see with all this?
+
+00:06:12.880 --> 00:06:16.740
+This is a lot of information
+that we're going to kind of
+
+00:06:16.750 --> 00:06:18.640
+start to see how we can apply it.
+
+00:06:18.650 --> 00:06:21.560
+So we have how many
+different equations here?
+
+00:06:21.740 --> 00:06:23.919
+We have two major or
+three different equations.
+
+00:06:23.930 --> 00:06:26.309
+So let's kind of highlight
+those for ourselves.
+
+00:06:26.310 --> 00:06:27.830
+So we have the MCAT equation.
+
+00:06:27.879 --> 00:06:28.779
+That is one of them.
+
+00:06:28.849 --> 00:06:30.020
+Extremely important.
+
+00:06:30.344 --> 00:06:31.275
+Definitely write it down.
+
+00:06:32.115 --> 00:06:37.905
+Then you have your two, um, your two, uh,
+different phase change equations, which
+
+00:06:37.905 --> 00:06:42.324
+are similar, but they're going to require
+different constants that are applied.
+
+00:06:42.324 --> 00:06:45.904
+So Delta H is a constant
+that will be given to you.
+
+00:06:46.645 --> 00:06:47.185
+All right.
+
+00:06:47.275 --> 00:06:49.635
+So I probably, I've made
+a couple of questions.
+
+00:06:49.645 --> 00:06:56.325
+So the first one here is how much
+heat is absorbed when 10 grams
+
+00:06:56.344 --> 00:06:59.604
+of water goes from 15 degrees C.
+
+00:07:03.914 --> 00:07:10.534
+So, being that this type of problem talks
+about a phase change, or sorry not a
+
+00:07:10.534 --> 00:07:15.004
+phase change, a change in temperature,
+apologies, that means that we are
+
+00:07:15.004 --> 00:07:18.175
+going to be using the MCAT equation.
+
+00:07:18.985 --> 00:07:23.815
+And that's because in this problem, you
+can see that we're changing temperature.
+
+00:07:24.314 --> 00:07:28.874
+So when we're doing this problem,
+we want to write everything down.
+
+00:07:29.215 --> 00:07:32.584
+So as we're kind of seeing,
+going, looking at this problem,
+
+00:07:33.044 --> 00:07:34.874
+we can see a couple of key things.
+
+00:07:34.904 --> 00:07:38.664
+We see that, all right,
+there's 10 grams of water.
+
+00:07:39.614 --> 00:07:42.054
+That is also a good part of information.
+
+00:07:42.114 --> 00:07:43.124
+This is water.
+
+00:07:43.460 --> 00:07:48.300
+Meaning we need to see what its
+specific value is for specific heat.
+
+00:07:48.330 --> 00:07:53.909
+That's why I include the table to the left
+and we have temperatures here as well.
+
+00:07:53.920 --> 00:07:59.370
+So we need to make sure we clearly label
+what each of these values represent.
+
+00:08:00.170 --> 00:08:03.730
+So first thing is for MCAT
+equation, we need mass.
+
+00:08:04.360 --> 00:08:07.750
+Mass in this problem is 10 grams.
+
+00:08:08.740 --> 00:08:10.230
+Now we have water.
+
+00:08:10.230 --> 00:08:11.470
+So C.
+
+00:08:12.185 --> 00:08:16.445
+It's gonna go off of this table
+that I have on the left, and we can
+
+00:08:16.445 --> 00:08:21.894
+see water down here at the bottom,
+and what that says is that's 4.
+
+00:08:21.944 --> 00:08:22.334
+184.
+
+00:08:23.804 --> 00:08:28.455
+Now, those units are written on
+the top of that column, so that's
+
+00:08:28.455 --> 00:08:32.395
+joules over grams by Celsius.
+
+00:08:33.750 --> 00:08:35.069
+Now, what else do we have?
+
+00:08:35.120 --> 00:08:39.909
+We have Ti, so your initial starting
+point, and that mentions it's going
+
+00:08:39.909 --> 00:08:46.400
+to start at 15 grams, or sorry,
+not 15 grams, 15 degrees Celsius.
+
+00:08:46.999 --> 00:08:49.030
+And then we have final temperature.
+
+00:08:49.580 --> 00:08:52.480
+which is 50 degrees Celsius.
+
+00:08:54.230 --> 00:08:57.060
+The first thing we want to do
+really quickly for ourselves to
+
+00:08:57.060 --> 00:09:00.870
+help make our problem a little bit
+easier is we can calculate what
+
+00:09:00.880 --> 00:09:05.340
+our change in temperature is, which
+is your final minus your initial.
+
+00:09:05.919 --> 00:09:07.949
+So we'll take those two values.
+
+00:09:07.949 --> 00:09:12.800
+So delta T is your final,
+which is 50 degrees.
+
+00:09:14.040 --> 00:09:18.810
+Minus your initial, which is
+50 degrees C, and that's going
+
+00:09:18.810 --> 00:09:22.520
+to equal 35 degrees Celsius.
+
+00:09:23.120 --> 00:09:27.449
+Okay, now that is going to get
+plugged into our MCAT equation.
+
+00:09:27.449 --> 00:09:39.090
+So what that's going to be is that
+Q is equal to 10 grams times the 4.
+
+00:09:39.130 --> 00:09:45.199
+184 joules over grams by Celsius.
+
+00:09:46.020 --> 00:09:49.819
+So when we do that, we're going to
+take all those values, plug them in.
+
+00:09:50.960 --> 00:09:55.710
+We're now going to put in our temperature,
+which is 35 degrees C, and we're
+
+00:09:55.710 --> 00:09:57.710
+going to multiply all these values.
+
+00:09:57.710 --> 00:09:59.744
+So we take 10, Times 4.
+
+00:09:59.745 --> 00:10:03.224
+184 times 35.
+
+00:10:03.885 --> 00:10:08.665
+So, when you get that, you should get
+the following value from your calculator.
+
+00:10:08.795 --> 00:10:12.225
+You'll get 1, 464.
+
+00:10:12.895 --> 00:10:13.705
+4 joules.
+
+00:10:15.525 --> 00:10:18.064
+Now, is that a right
+way to represent this?
+
+00:10:18.074 --> 00:10:22.494
+If you remember from your beginning days
+of chem, significant figures, right?
+
+00:10:22.565 --> 00:10:25.405
+So that's always something that's
+going to plague us for all eternity.
+
+00:10:25.485 --> 00:10:27.775
+It's something we're always going
+to see throughout chemistry.
+
+00:10:28.390 --> 00:10:31.420
+So, in this problem, all your
+starting values, you go off your
+
+00:10:31.420 --> 00:10:36.280
+lowest one, in terms of sig figs,
+and all of our starting ones are 3
+
+00:10:36.310 --> 00:10:38.990
+and 4 sig figs, 3 being the lowest.
+
+00:10:39.310 --> 00:10:43.010
+So, we're going to round
+our answer to 1460 joules.
+
+00:10:45.295 --> 00:10:48.465
+And that would be our
+final answer for heat.
+
+00:10:49.395 --> 00:10:55.665
+Now, what if I ask you to convert
+the previous answer to calories?
+
+00:10:55.675 --> 00:11:00.245
+So sometimes in these different problems,
+you're going to be given, you're going
+
+00:11:00.245 --> 00:11:04.574
+to be told to make it in calories, which
+is because it's a more relatable unit to
+
+00:11:04.574 --> 00:11:08.165
+the health sciences field, and which is
+one of our biggest points of this channel
+
+00:11:08.165 --> 00:11:09.895
+is trying to help health science majors.
+
+00:11:10.405 --> 00:11:11.705
+So with that.
+
+00:11:12.460 --> 00:11:18.780
+What we will do is we'll take our
+original value before we rounded it off.
+
+00:11:19.030 --> 00:11:22.560
+So that way we get the most
+accurate representation of calories.
+
+00:11:22.939 --> 00:11:26.640
+And then we'll round that
+calorie value to 3 sig figs.
+
+00:11:27.639 --> 00:11:29.139
+So, let's do it.
+
+00:11:29.564 --> 00:11:33.615
+So how, what is the conversion
+from calories to joules?
+
+00:11:33.645 --> 00:11:35.365
+Well, it's actually a pretty easy one.
+
+00:11:35.365 --> 00:11:38.295
+It's the same thing as a
+specific heat of water.
+
+00:11:38.305 --> 00:11:40.574
+A lot of our science is based on water.
+
+00:11:41.745 --> 00:11:45.494
+So, with this one, it's 4.
+
+00:11:45.614 --> 00:11:49.394
+184 joules is equal to 1 calorie.
+
+00:11:50.145 --> 00:11:51.915
+And that's a lowercase c.
+
+00:11:52.675 --> 00:11:55.824
+So, with that, we'll take the 464.
+
+00:11:55.825 --> 00:11:57.615
+4 joules.
+
+00:11:58.545 --> 00:11:59.985
+We'll write our t table.
+
+00:12:02.235 --> 00:12:04.495
+And now we've got to
+cancel out our units, so 4.
+
+00:12:04.495 --> 00:12:11.455
+184 joules, we're going to show that
+cancellation, if I can get this to
+
+00:12:12.415 --> 00:12:17.345
+cooperate, joules will cancel joules,
+they are opposite each other, and then
+
+00:12:17.345 --> 00:12:22.874
+calories is on top, that's the only
+thing that remains, so we take 1464.
+
+00:12:22.875 --> 00:12:25.694
+4 divided by 4.
+
+00:12:25.695 --> 00:12:33.484
+184 and we will get 350
+calories as our answer.
+
+00:12:34.490 --> 00:12:37.870
+So, now we know how to do two things,
+we know how to do slopes for heating,
+
+00:12:38.060 --> 00:12:41.310
+which was our previous problem,
+and now we can convert to calories.
+
+00:12:42.000 --> 00:12:43.309
+What other type of problems do you have?
+
+00:12:43.310 --> 00:12:46.670
+A big one that you're kind of given
+a lot when it comes to a lab based
+
+00:12:46.670 --> 00:12:50.859
+course is you might be given an unknown
+metal that you have to actually try
+
+00:12:50.859 --> 00:12:52.769
+to figure out what is it made out of.
+
+00:12:53.189 --> 00:12:59.040
+Now, being that every substance has
+its own unique value to it, you can...
+
+00:12:59.320 --> 00:13:01.090
+You can identify what it is.
+
+00:13:01.100 --> 00:13:05.200
+You can figure out if it's brass
+or silver, gold, lead, you name it.
+
+00:13:05.230 --> 00:13:09.479
+The value exists in different tables
+to figure out what it could be.
+
+00:13:10.120 --> 00:13:18.310
+So, if I have a sample of an unknown
+metal with a mass of 125 grams, and
+
+00:13:18.310 --> 00:13:24.560
+it rises in temperature by 10 degrees
+Celsius when 481 joules of heat is
+
+00:13:24.650 --> 00:13:27.454
+added, What element is the metal?
+
+00:13:27.714 --> 00:13:33.415
+So what we're trying to do is we're
+trying to solve for C or specific heat.
+
+00:13:33.925 --> 00:13:37.494
+So when we have this equation,
+we're going to be using our MCAT
+
+00:13:37.495 --> 00:13:42.714
+equation, but we're going to be
+rearranging it to get C by itself.
+
+00:13:43.224 --> 00:13:44.824
+So what's the easiest way to do that?
+
+00:13:44.865 --> 00:13:52.275
+Well, if I divide both sides by m
+and delta t, we'll have a couple
+
+00:13:52.285 --> 00:13:53.795
+things that will cancel out.
+
+00:13:54.185 --> 00:14:00.385
+m will cancel and then delta t
+will cancel, leaving c by itself.
+
+00:14:01.364 --> 00:14:08.574
+So what this equation is going to turn
+into is c is equal to q m delta t.
+
+00:14:09.375 --> 00:14:11.695
+So now we can plug in all of our values.
+
+00:14:11.695 --> 00:14:18.235
+So our q, in this case,
+Was the 481 joules.
+
+00:14:19.515 --> 00:14:29.015
+We had a mass, which was 125 grams, and
+then we had a delta T of 10 degrees C.
+
+00:14:30.024 --> 00:14:36.455
+Now, when we plug all that in, so we
+do 481, and we divide by 125 times 10
+
+00:14:36.515 --> 00:14:40.464
+in parenthesis, and you should get 0.
+
+00:14:40.584 --> 00:14:50.564
+385 joules over grams by Celsius, which
+is your units of, of, of specific heat.
+
+00:14:51.084 --> 00:14:55.555
+So now when we have that value,
+now our, our big thing is, is try
+
+00:14:55.555 --> 00:14:56.775
+to figure out what metal is it?
+
+00:14:56.775 --> 00:14:57.854
+Well, how do I do that?
+
+00:14:57.854 --> 00:14:59.614
+Well, hopefully you're given a table.
+
+00:14:59.614 --> 00:15:02.055
+If not, you might need, you
+need to look in your textbook.
+
+00:15:02.074 --> 00:15:03.964
+There's usually tables at the end of them.
+
+00:15:04.524 --> 00:15:06.555
+So, but for us, we have
+a little table here.
+
+00:15:06.775 --> 00:15:08.365
+So we had 0.
+
+00:15:08.365 --> 00:15:08.674
+385.
+
+00:15:08.854 --> 00:15:13.319
+So with that, you can see that, oh,
+That matches the value of copper.
+
+00:15:13.319 --> 00:15:21.459
+So our experiment showed that we have
+copper as our unknown metal, which is
+
+00:15:21.510 --> 00:15:23.339
+great, that's exactly what we want.
+
+00:15:24.369 --> 00:15:27.890
+Now, what's the hardest
+type of problem you can see?
+
+00:15:28.459 --> 00:15:29.359
+Let's go through it.
+
+00:15:30.290 --> 00:15:35.959
+So whenever you're given a problem,
+sometimes you might have a type of problem
+
+00:15:35.959 --> 00:15:41.169
+that goes through many different phase
+changes and heating, meaning it's putting
+
+00:15:41.169 --> 00:15:43.660
+it all together in one super problem.
+
+00:15:44.300 --> 00:15:46.130
+So what does that mean?
+
+00:15:46.130 --> 00:15:47.030
+What is it going to look like?
+
+00:15:47.030 --> 00:15:48.060
+So here's an example.
+
+00:15:48.990 --> 00:15:52.630
+If I ask you, how much heat in kilojoules?
+
+00:15:53.195 --> 00:15:59.565
+is required to turn 100 grams
+of ice at negative 100 degrees
+
+00:15:59.575 --> 00:16:03.615
+C to steam at 250 degrees C.
+
+00:16:04.675 --> 00:16:06.295
+Why the heck do you even calculate that?
+
+00:16:06.295 --> 00:16:08.605
+So I give a bunch of C values for it.
+
+00:16:08.904 --> 00:16:15.055
+Notice how the specific heat
+changes from ice to water to steam.
+
+00:16:15.685 --> 00:16:21.945
+So one huge tip for any heating,
+cooling, phase change problem is you
+
+00:16:21.945 --> 00:16:28.330
+want to go back through it And try
+to diagram it out using slopes and
+
+00:16:28.340 --> 00:16:33.679
+plateaus so that you can see what
+calculations you need to complete.
+
+00:16:34.280 --> 00:16:37.419
+Because for every slope,
+meaning every point between a
+
+00:16:37.419 --> 00:16:39.910
+transition, use the MCAT equation.
+
+00:16:40.659 --> 00:16:44.090
+For every flat point, you're going
+to be using either the fusion
+
+00:16:44.410 --> 00:16:45.960
+or the vaporization formula.
+
+00:16:46.770 --> 00:16:49.079
+So, let's map out R's.
+
+00:16:49.660 --> 00:16:53.320
+So for this one, it says that we
+start at negative 100 degrees C.
+
+00:16:53.359 --> 00:16:54.500
+That's really cold.
+
+00:16:54.920 --> 00:16:58.219
+So what we have to do is remember
+what the freezing point and
+
+00:16:58.219 --> 00:17:00.650
+the boiling point is of water.
+
+00:17:00.750 --> 00:17:04.909
+So for us, I put down here
+the the melting point here.
+
+00:17:05.050 --> 00:17:08.690
+So the melting point for
+water is 0 degrees C.
+
+00:17:09.300 --> 00:17:13.549
+So our original temperature is
+going to be starting somewhere
+
+00:17:13.550 --> 00:17:16.940
+around 100, negative 100 degrees.
+
+00:17:17.520 --> 00:17:20.819
+So it's really cold, so negative 100.
+
+00:17:21.660 --> 00:17:23.760
+And what that's going to be
+doing is it's going to be
+
+00:17:23.770 --> 00:17:27.770
+heating up to its first plateau.
+
+00:17:28.159 --> 00:17:31.539
+So we're just going to arbitrarily
+label these, so we're going to say
+
+00:17:31.539 --> 00:17:33.720
+this is 0 degrees right around here.
+
+00:17:34.519 --> 00:17:39.710
+Now, at the first plateau, that
+is going to be a flat spot.
+
+00:17:40.469 --> 00:17:45.840
+So meaning that at our first slope
+we're going to do one calculation, our
+
+00:17:45.840 --> 00:17:50.790
+first plateau we're going to do a second
+one, so we can kind of map these out.
+
+00:17:52.125 --> 00:17:53.625
+That we had a slope first.
+
+00:17:54.905 --> 00:17:57.455
+That is going to be an MCAT equation.
+
+00:17:59.535 --> 00:18:05.745
+Our second one we're gonna be doing
+using the, and we'll label these
+
+00:18:05.745 --> 00:18:09.705
+Q one, Q two, just to kind of keep
+ourselves, keep our brain straight.
+
+00:18:10.715 --> 00:18:14.825
+We're gonna be using the heat of
+fusion for that one, 'cause the
+
+00:18:14.825 --> 00:18:19.024
+delta H for fusion was for melting.
+
+00:18:23.530 --> 00:18:25.710
+Now, do, does our problem stop?
+
+00:18:25.730 --> 00:18:31.420
+Well, it said we're going to
+250 degrees, so from 0 to 100
+
+00:18:31.900 --> 00:18:34.120
+is where the boiling point ends.
+
+00:18:34.120 --> 00:18:37.899
+So what we're gonna have
+another, another curve going up.
+
+00:18:38.290 --> 00:18:45.790
+So, for that one, we're once
+again gonna be heating, and that's
+
+00:18:45.900 --> 00:18:48.930
+gonna be our third calculation.
+
+00:18:50.050 --> 00:18:53.080
+So we'll have three, and that
+one's gonna be identical,
+
+00:18:53.150 --> 00:18:54.540
+very similar to the first one.
+
+00:18:55.125 --> 00:18:58.075
+We're going to be doing
+another MCAT equation.
+
+00:19:00.055 --> 00:19:03.905
+Now keep in mind, we got to remember
+what phase all these are in.
+
+00:19:04.305 --> 00:19:11.805
+So the first one was ice, and we became a
+liquid, so the third one is referring to
+
+00:19:11.805 --> 00:19:19.165
+a liquid, and if the one that we get to
+a fifth one, that's going to be as steam.
+
+00:19:20.865 --> 00:19:28.665
+All right, so then we'll have another
+plateau, which is now referring to
+
+00:19:30.024 --> 00:19:37.125
+When we take our n value and times
+that by our heat of vaporization,
+
+00:19:40.764 --> 00:19:44.384
+then we will have one
+more going all the way up.
+
+00:19:44.495 --> 00:19:51.504
+So, this is 100 degrees C, and
+then up here is 250 degrees C.
+
+00:19:52.364 --> 00:19:54.604
+So that water is getting steaming hot.
+
+00:19:56.205 --> 00:20:01.165
+So, when we take that, this
+is all of our equations.
+
+00:20:01.165 --> 00:20:03.174
+We're just mapping out what we need to do.
+
+00:20:03.525 --> 00:20:05.155
+So, how do you find out the heat?
+
+00:20:05.195 --> 00:20:05.715
+Well...
+
+00:20:06.209 --> 00:20:08.929
+We just did it for five different things.
+
+00:20:09.249 --> 00:20:12.019
+So you have to add them all up in the end.
+
+00:20:12.560 --> 00:20:17.389
+So to find the total energy, what
+we're going to be doing is adding
+
+00:20:17.389 --> 00:20:24.860
+up one plus two plus three plus four
+and five when you go through these.
+
+00:20:25.409 --> 00:20:32.499
+So it's going to be a lot of calculations
+and making sure your numbers are correct.
+
+00:20:33.050 --> 00:20:35.960
+So let's try to do it together
+and see if we can do it.
+
+00:20:35.960 --> 00:20:39.120
+And like I mentioned, this
+is a challenge problem.
+
+00:20:39.590 --> 00:20:45.450
+It's something that takes a little longer
+to do, so it can be extremely difficult.
+
+00:20:45.450 --> 00:20:49.240
+So with that, let's start with number one.
+
+00:20:49.259 --> 00:20:51.749
+So one was referring to ice.
+
+00:20:52.260 --> 00:20:57.200
+So with the ice calculation, the big
+thing with this one is that we had a
+
+00:20:57.200 --> 00:20:58.850
+lot of different pieces of information.
+
+00:20:59.430 --> 00:21:01.580
+We have that, um, we can kind of.
+
+00:21:02.429 --> 00:21:05.159
+Write it all out here again for
+ourselves before we get started.
+
+00:21:05.770 --> 00:21:08.320
+The mass was 100 grams.
+
+00:21:09.980 --> 00:21:12.740
+A lot of the, uh, the second and
+third, or second and fourth part
+
+00:21:12.740 --> 00:21:14.440
+of this calculation require moles.
+
+00:21:14.989 --> 00:21:18.660
+So we could quickly try to calculate
+the number of moles of this too.
+
+00:21:19.729 --> 00:21:23.490
+So moles, how can we do that?
+
+00:21:23.519 --> 00:21:26.770
+Well it's 100 grams of water.
+
+00:21:28.520 --> 00:21:30.050
+So we need to convert it to moles.
+
+00:21:30.050 --> 00:21:32.240
+The best way to do that
+is to use molar mass.
+
+00:21:33.389 --> 00:21:36.079
+So if we have 18 grams of water.
+
+00:21:36.745 --> 00:21:41.645
+For every one mole, and that's
+from your periodic table, these
+
+00:21:41.645 --> 00:21:46.034
+are going to cancel, and that's
+going to give us roughly about 5.
+
+00:21:46.035 --> 00:21:49.694
+56 moles of water.
+
+00:21:49.835 --> 00:21:51.705
+So we have that value for ourselves.
+
+00:21:52.815 --> 00:21:56.575
+Um, let's see, and is there any
+other values that were given
+
+00:21:56.595 --> 00:21:57.905
+other than the temperatures?
+
+00:21:57.915 --> 00:21:59.375
+So we have a lot of temperatures.
+
+00:21:59.895 --> 00:22:02.655
+So, let's do number one.
+
+00:22:03.605 --> 00:22:06.705
+So, one is taking our MCAT equation.
+
+00:22:09.899 --> 00:22:14.210
+Which requires us to go through
+writing, uh, taking our mass.
+
+00:22:17.199 --> 00:22:21.929
+This is when it was ice, so we
+gotta take our ice specific heat.
+
+00:22:22.490 --> 00:22:25.320
+So ice was an orange, so that was 2.
+
+00:22:25.389 --> 00:22:25.639
+04.
+
+00:22:28.129 --> 00:22:33.870
+Joules per grams per Celsius,
+and that's going from negative
+
+00:22:33.970 --> 00:22:39.930
+100 degrees C to 0 degrees C.
+
+00:22:41.159 --> 00:22:46.499
+So that's a change of, so we have
+final minus initial, so that's a
+
+00:22:46.500 --> 00:22:51.800
+hundred degrees Celsius of change that
+this is going to be going through.
+
+00:22:52.480 --> 00:22:56.900
+So when we take all those different parts,
+we multiply them all together, we're going
+
+00:22:56.900 --> 00:23:04.945
+to be getting over 20 1, 400 joules of
+energy, which being that we're planning
+
+00:23:04.945 --> 00:23:09.085
+on putting it on kilojoules, we can do
+a quick little conversion for ourselves.
+
+00:23:10.935 --> 00:23:16.764
+1, 000 joules, that's one
+kilojoule, meaning that we have 20.
+
+00:23:16.875 --> 00:23:18.454
+4 kilojoules, and that's for part one.
+
+00:23:20.784 --> 00:23:26.855
+One now part two with this one.
+
+00:23:26.855 --> 00:23:30.125
+This is our first phase change, but
+we already did most of the work for it
+
+00:23:30.135 --> 00:23:37.754
+So what we have to do is take our heat
+value and we're gonna have moles times
+
+00:23:37.814 --> 00:23:47.304
+our Delta H of Fusion so our moles
+was five point five six moles Times
+
+00:23:47.315 --> 00:23:51.885
+our Delta H of fusion which we grabbed
+from our table and that's six point.
+
+00:23:51.965 --> 00:23:53.865
+Oh two kilojoules
+
+00:23:58.044 --> 00:24:02.325
+Okay, now when we multiply these
+values, we're gonna get 33.
+
+00:24:02.365 --> 00:24:07.205
+5 kilojoules for our first transition.
+
+00:24:08.775 --> 00:24:13.915
+Our next part was heating it again,
+so it's keeping it straight, so
+
+00:24:13.915 --> 00:24:18.915
+now we're here on the curve, so
+we're going from 0 degrees to 100
+
+00:24:18.915 --> 00:24:20.635
+degrees, so we're doing it again.
+
+00:24:21.465 --> 00:24:28.785
+So when we go through that, that heating
+process again, We're going to take our
+
+00:24:28.785 --> 00:24:35.665
+same MCAT equation, so we're going to
+take 100 grams, times it by the value for
+
+00:24:35.675 --> 00:24:40.665
+water, for C, which was in blue, was 4.
+
+00:24:40.695 --> 00:24:45.864
+184 joules per grams by Celsius.
+
+00:24:47.594 --> 00:24:54.795
+We're then going to be taking our Tf minus
+Ti, which would be 100 minus 0, so it's
+
+00:24:54.795 --> 00:24:57.175
+going to be once again 100 degrees C.
+
+00:24:58.125 --> 00:25:06.274
+And that's going to give us a
+value of 41, 840 joules, which
+
+00:25:06.274 --> 00:25:09.055
+we can then convert to 41.
+
+00:25:09.145 --> 00:25:11.055
+8 kilojoules.
+
+00:25:13.115 --> 00:25:14.905
+Keep in mind, we're going to be
+adding up all these in the end.
+
+00:25:16.850 --> 00:25:17.560
+What a problem.
+
+00:25:18.880 --> 00:25:23.270
+Alright, so, now, when we take this,
+we got our last phase change, which
+
+00:25:23.280 --> 00:25:28.560
+is, once again, taking the number
+of moles times the vaporization.
+
+00:25:29.340 --> 00:25:30.949
+So, we have 40.
+
+00:25:30.949 --> 00:25:32.410
+7 as our constant for this.
+
+00:25:32.739 --> 00:25:34.040
+We're going to times that by our moles.
+
+00:25:35.359 --> 00:25:36.570
+So, Q4.
+
+00:25:37.560 --> 00:25:40.249
+is our moles, so 5.
+
+00:25:40.249 --> 00:25:43.229
+56 moles times the 40.
+
+00:25:43.229 --> 00:25:46.370
+7 kilojoules per mole.
+
+00:25:46.989 --> 00:25:53.259
+Notice how it takes way more energy
+to, to turn something into a gas.
+
+00:25:53.689 --> 00:25:59.980
+So when that happens, that's going
+to be a value of 226 kilojoules.
+
+00:26:03.649 --> 00:26:07.689
+Now the last part is going
+to be one more MCAT equation.
+
+00:26:08.659 --> 00:26:17.929
+Where now we're going from Tf being 250
+degrees and our Ti is 100 degrees C.
+
+00:26:18.840 --> 00:26:20.509
+So, let's plug it all in.
+
+00:26:20.519 --> 00:26:23.449
+So our last one is we
+had a 100 gram sample.
+
+00:26:24.600 --> 00:26:27.449
+We're gonna plug it, we're
+gonna times it by our C value.
+
+00:26:28.165 --> 00:26:30.185
+Which, for steam, was 2.
+
+00:26:30.245 --> 00:26:30.905
+09
+
+00:26:36.495 --> 00:26:41.654
+times 150 degrees, which was
+our difference, or our delta T.
+
+00:26:42.865 --> 00:26:46.144
+So, when we go through
+this, we have 100 times 2.
+
+00:26:46.145 --> 00:26:51.044
+09 times 150, and then we have
+our final calculation, which,
+
+00:26:51.095 --> 00:26:53.194
+in this case, is going to be 31.
+
+00:26:53.804 --> 00:26:55.304
+4 kilojoules.
+
+00:26:57.140 --> 00:27:00.000
+Alright, so now what are we
+going to do for our final total?
+
+00:27:00.010 --> 00:27:03.050
+We're going to add up all
+the circled information.
+
+00:27:03.890 --> 00:27:06.900
+So for number one, so
+what are we going to do?
+
+00:27:06.900 --> 00:27:14.080
+We're going to take 1, plus
+2, plus 3, plus 4, and plus 5.
+
+00:27:14.089 --> 00:27:15.920
+So let's write all those out.
+
+00:27:16.449 --> 00:27:18.379
+So we had 31.
+
+00:27:18.380 --> 00:27:22.190
+4 kilojoules for 5, 226.
+
+00:27:25.990 --> 00:27:29.410
+For 4, and this is really important to
+make sure they're all the same units,
+
+00:27:29.790 --> 00:27:32.020
+when we're adding these, we had 41.
+
+00:27:32.020 --> 00:27:34.250
+8 kilojoules for 3, 33.
+
+00:27:34.440 --> 00:27:42.140
+5 kilojoules for 2, and then we had 20.
+
+00:27:42.489 --> 00:27:43.040
+4 for 1.
+
+00:27:44.799 --> 00:27:49.059
+Alright, so when we add up all
+these values together, we're going
+
+00:27:49.059 --> 00:27:54.620
+to get a total final value of 353.
+
+00:27:54.730 --> 00:27:58.990
+1 kilojoules for overall energy and heat.
+
+00:27:59.960 --> 00:28:04.120
+This is the hardest type problem you
+can have for this, where it's something
+
+00:28:04.120 --> 00:28:07.740
+that involves many page, a lot of
+calculations going through it, but it's
+
+00:28:07.740 --> 00:28:09.860
+the same type of algebraic equation.
+
+00:28:10.380 --> 00:28:15.219
+The most important part is staying
+organized from the start, so that way
+
+00:28:15.219 --> 00:28:20.460
+you can label your slopes, label your
+plateaus, so you can map out your
+
+00:28:20.470 --> 00:28:21.920
+equations when you're going through it.
+
+00:28:23.165 --> 00:28:25.815
+And you're going to be using your
+different values going through it.
+
+00:28:26.245 --> 00:28:29.275
+So it's mainly using the MCAT
+equation, which is the most
+
+00:28:29.275 --> 00:28:31.175
+important one to know how to use.
+
+00:28:31.545 --> 00:28:35.285
+The phase changes usually are not as
+much, it's more important to focus
+
+00:28:35.285 --> 00:28:37.115
+on how to use that MCAT equation.
+
+00:28:37.625 --> 00:28:38.945
+So hopefully this video helped.
+
+00:28:38.945 --> 00:28:41.435
+It was a little bit of a longer one,
+but there was a lot of information
+
+00:28:41.445 --> 00:28:46.114
+to talk about So please consider
+to like and subscribe for future
+
+00:28:46.114 --> 00:28:50.785
+videos, and I'll try to be help making
+more content as we go All right.
+
+00:28:50.805 --> 00:28:51.245
+Bye now
+

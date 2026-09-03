@@ -1,0 +1,976 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.150 --> 00:00:09.490
+Hello, and welcome back to another video
+with ItsDrDan, and today we're going to
+
+00:00:09.500 --> 00:00:12.150
+be looking at specific heat capacity.
+
+00:00:12.730 --> 00:00:16.520
+So for this particular video, we're going
+to go into a short, sweet definition
+
+00:00:16.520 --> 00:00:18.549
+of what specific heat capacity is.
+
+00:00:18.890 --> 00:00:23.660
+and how you can use it to calculate heat
+and some very common type of problems
+
+00:00:23.660 --> 00:00:28.480
+that you'll use in introductory general
+chemistry to how to use this value.
+
+00:00:28.889 --> 00:00:33.349
+So whenever specific heat is used, this
+is always something that is referred
+
+00:00:33.349 --> 00:00:39.840
+to as the amount of heat required to
+increase something by one degree Celsius.
+
+00:00:40.200 --> 00:00:45.070
+Now, when we're raising that temperature,
+this is for one gram of a substance.
+
+00:00:45.545 --> 00:00:50.375
+So, specific heat is unique for every
+single material that you would come
+
+00:00:50.375 --> 00:00:52.714
+across in the lab or in your home.
+
+00:00:53.085 --> 00:00:55.824
+Every single thing takes
+so much energy to heat up.
+
+00:00:56.230 --> 00:01:00.960
+So the way that we like, I like to look at
+this is think of it is there are numbers
+
+00:01:00.960 --> 00:01:03.760
+that are assigned for these, these are,
+these are things that have been measured
+
+00:01:03.800 --> 00:01:08.679
+within laboratory settings and the whole
+idea is if I look at both of these two
+
+00:01:08.679 --> 00:01:14.129
+substances, I have water on the right
+hand side, I have iron on the left.
+
+00:01:14.590 --> 00:01:17.320
+So what exactly will it do?
+
+00:01:17.320 --> 00:01:20.520
+So if I apply, let's say the
+same amount of heat to both.
+
+00:01:20.910 --> 00:01:22.670
+Well, which one's going to heat faster?
+
+00:01:22.990 --> 00:01:26.670
+So one way to think about this is if
+you put, let's say you put water on the
+
+00:01:26.670 --> 00:01:31.440
+stove to make, let's say pasta or rice,
+or you're just trying to boil it to eat.
+
+00:01:31.929 --> 00:01:35.349
+And one thing you're going to realize
+is like, Oh man, this is taking so long.
+
+00:01:35.349 --> 00:01:37.479
+I just want this to boil faster.
+
+00:01:37.759 --> 00:01:42.589
+It usually can take anywhere from five to
+maybe 15 minutes, depending on your stove.
+
+00:01:42.589 --> 00:01:46.229
+It takes a very, very long
+time for that to boil.
+
+00:01:46.509 --> 00:01:49.050
+And that's because it's
+absorbing all of that energy.
+
+00:01:49.675 --> 00:01:53.405
+from the fire in order to
+eventually reach boiling.
+
+00:01:53.725 --> 00:01:57.925
+So now if you can look here,
+water has a specific heat of 4.
+
+00:01:57.955 --> 00:02:02.284
+186 and that's joules
+over grams per Celsius.
+
+00:02:02.575 --> 00:02:05.304
+So the amount of joules, so 4.
+
+00:02:05.335 --> 00:02:12.015
+186 joules is required to heat
+up one gram by one single degree.
+
+00:02:12.015 --> 00:02:12.385
+Okay.
+
+00:02:12.385 --> 00:02:14.235
+So that's a lot of energy for each time.
+
+00:02:14.595 --> 00:02:17.205
+Now you don't usually just
+put water directly on a stove.
+
+00:02:17.205 --> 00:02:17.455
+Sure.
+
+00:02:17.455 --> 00:02:21.665
+Maybe in a laboratory setting, you might
+put in a beaker, but at home, usually
+
+00:02:21.665 --> 00:02:26.124
+the way that you cook things is using
+like, uh, maybe cast iron pans or maybe
+
+00:02:26.124 --> 00:02:30.895
+aluminum pans, some sort of metal you're
+applying directly to that, to the burner.
+
+00:02:31.455 --> 00:02:35.620
+Now, When you put that on the burner,
+does it get hot quickly, right?
+
+00:02:35.620 --> 00:02:39.120
+So at first it's very cold, but
+within probably about five to 10
+
+00:02:39.130 --> 00:02:42.600
+seconds, you can already start
+feeling the heat getting absorbed
+
+00:02:42.749 --> 00:02:44.520
+within that piece of metal, right?
+
+00:02:44.550 --> 00:02:47.819
+And now you can really see that
+with that lower value here, right?
+
+00:02:47.820 --> 00:02:49.330
+0.
+
+00:02:49.330 --> 00:02:49.560
+451.
+
+00:02:49.560 --> 00:02:52.870
+That's a lot less energy that's
+required to heat that up.
+
+00:02:52.870 --> 00:02:54.860
+So it's going to be a lot less effort.
+
+00:02:55.185 --> 00:02:57.685
+For the heat to be able to do that.
+
+00:02:58.165 --> 00:03:00.905
+So that's kind of the idea here of
+what we're going to be looking at.
+
+00:03:01.175 --> 00:03:02.525
+So let's go through the equations.
+
+00:03:02.525 --> 00:03:05.395
+We'll do some examples and we'll
+show, in this video, I'll show
+
+00:03:05.395 --> 00:03:08.564
+what kind of practice problems that
+you will see with specific heat.
+
+00:03:08.735 --> 00:03:11.724
+And if you like what you see, hit that
+like and subscribe button, comment
+
+00:03:11.724 --> 00:03:14.295
+below, and if there's any other future
+videos you'd like to see as well.
+
+00:03:14.645 --> 00:03:18.115
+And let's go take a look at this type
+of problem as we move through this.
+
+00:03:27.769 --> 00:03:32.010
+So when it comes to calculating
+heat, generally in introductory chem,
+
+00:03:32.010 --> 00:03:33.790
+there's two equations that we'll see.
+
+00:03:34.179 --> 00:03:38.049
+This video will cover just one,
+which is the MCAT equation.
+
+00:03:38.440 --> 00:03:42.359
+So for all my premeds out there, MCAT
+is an exam one day you'll have to take.
+
+00:03:42.660 --> 00:03:45.230
+So this is one way to easily
+remember how to use this.
+
+00:03:45.239 --> 00:03:48.540
+So you see that MC delta T, think MCAT.
+
+00:03:48.999 --> 00:03:50.579
+So how can we use this?
+
+00:03:50.579 --> 00:03:53.079
+Well, let's go over what
+each of these letters mean.
+
+00:03:53.439 --> 00:03:57.239
+So when we see the letter Q,
+this is referring to heat.
+
+00:03:57.700 --> 00:03:59.530
+Which is a form of energy.
+
+00:03:59.600 --> 00:04:05.550
+Okay, so now that energy value is we're
+going to be measuring that in joules So
+
+00:04:05.550 --> 00:04:09.699
+if you think of jewel like the vape pen,
+it's not the same spelling It's jewel as
+
+00:04:09.699 --> 00:04:13.100
+in j o u l e e as the for the unit, right?
+
+00:04:13.100 --> 00:04:15.359
+This is the SI unit for energy.
+
+00:04:15.939 --> 00:04:21.370
+So we have joules now We have M which
+you've seen in many different probably
+
+00:04:21.370 --> 00:04:22.940
+chemistry videos all over the internet.
+
+00:04:23.150 --> 00:04:24.430
+That is our mass, right?
+
+00:04:24.430 --> 00:04:29.170
+So we are going to be measuring that in
+grams So we have joules is equal to grams.
+
+00:04:29.700 --> 00:04:33.260
+Now C, this is our specific heat, right?
+
+00:04:33.419 --> 00:04:34.979
+Where do we get specific heat from?
+
+00:04:35.219 --> 00:04:37.349
+Well, it's a specific heat capacity.
+
+00:04:37.570 --> 00:04:42.829
+So that capacity part where that C
+comes from, that is what that is for.
+
+00:04:43.120 --> 00:04:47.960
+So the units for that are
+joules over grams by Celsius.
+
+00:04:48.295 --> 00:04:50.945
+So you can already see that the
+grams are going to cancel between
+
+00:04:50.945 --> 00:04:52.675
+mass and the specific heat.
+
+00:04:53.015 --> 00:04:56.965
+Okay, so a lot of times when we talk about
+specific heat, we'll abbreviate that as
+
+00:04:57.025 --> 00:05:02.335
+SH, just so that way we're not having
+to constantly write what that value is.
+
+00:05:02.955 --> 00:05:07.674
+Now delta T, this is our
+change in temperature.
+
+00:05:08.205 --> 00:05:14.115
+Okay, so when we talk about delta
+T, this is always about the final
+
+00:05:14.125 --> 00:05:16.885
+temperature minus the initial.
+
+00:05:16.915 --> 00:05:19.125
+Okay, so this is a little
+formula for yourself.
+
+00:05:19.385 --> 00:05:24.175
+If you see a delta, that's always
+final minus initial, and that's going
+
+00:05:24.175 --> 00:05:26.555
+to be reported in units of Celsius.
+
+00:05:27.015 --> 00:05:31.674
+So Celsius is going to be used in this
+calculation, um, and this is generally
+
+00:05:31.674 --> 00:05:33.025
+what our units are reported in.
+
+00:05:33.525 --> 00:05:34.905
+So let's take a look at this.
+
+00:05:34.905 --> 00:05:39.474
+Now, when we are using this formula,
+there's usually two types of problems
+
+00:05:39.925 --> 00:05:45.215
+that you will generally see, um, when you
+are doing these types of calculations.
+
+00:05:45.585 --> 00:05:49.325
+The first one is usually you're
+calculating the amount of heat
+
+00:05:49.415 --> 00:05:54.055
+that is required either to heat
+something or to cool something down.
+
+00:05:54.475 --> 00:06:00.094
+So heating is generally, it will be
+a positive or a positive value when
+
+00:06:00.094 --> 00:06:02.104
+you are heating it for your Q value.
+
+00:06:02.125 --> 00:06:05.805
+So you'll, your joules would be
+positive or that's endothermic.
+
+00:06:06.105 --> 00:06:11.075
+If it's a negative value, that's referring
+to exothermic or it's releasing heat.
+
+00:06:11.415 --> 00:06:14.875
+Right, so sign is going to be really
+important in these calculations.
+
+00:06:15.205 --> 00:06:17.925
+So you always want to make sure
+you're paying careful attention.
+
+00:06:18.635 --> 00:06:21.225
+Now the second type of
+problem is identifying an
+
+00:06:21.245 --> 00:06:23.745
+unknown metal, or substance.
+
+00:06:23.754 --> 00:06:28.214
+Being that specific heat is unique
+for every single material, we
+
+00:06:28.214 --> 00:06:30.634
+can use this to identify things.
+
+00:06:31.045 --> 00:06:33.875
+So let's try to take a look
+at each of these problems.
+
+00:06:34.145 --> 00:06:37.475
+So that way we can get an
+idea of what it is that we're
+
+00:06:37.475 --> 00:06:38.405
+going to be seeing with them.
+
+00:06:38.945 --> 00:06:39.425
+All right.
+
+00:06:39.425 --> 00:06:42.975
+With calculating specific heat
+questions, the big thing about these,
+
+00:06:42.975 --> 00:06:47.165
+they tend to be word problems, meaning
+that we need to make sure we are very
+
+00:06:47.214 --> 00:06:51.505
+organized and how we are writing all
+the little pieces that are in a problem.
+
+00:06:51.905 --> 00:06:53.285
+So let's take a look at this one.
+
+00:06:53.715 --> 00:06:57.095
+So it says how many
+kilojoules of heat are lost?
+
+00:06:57.325 --> 00:07:00.635
+Okay, so right off the rip,
+it's telling you exactly what it
+
+00:07:00.635 --> 00:07:02.155
+is that we are trying to find.
+
+00:07:02.555 --> 00:07:05.965
+So we can see how many
+kilojoules of heat are lost.
+
+00:07:06.234 --> 00:07:10.255
+So when that is happening, that tells
+you that this is what you are trying to
+
+00:07:10.255 --> 00:07:13.525
+find, which is our Q value here, right?
+
+00:07:13.525 --> 00:07:16.115
+So Q, we're going to put a
+little question mark next to it.
+
+00:07:16.415 --> 00:07:18.295
+Let us know this is what
+we're trying to find.
+
+00:07:18.955 --> 00:07:23.545
+Now it says when the body temperature
+of a surgery patient with a blood
+
+00:07:23.545 --> 00:07:27.465
+volume of 5500 milliliters is cooled.
+
+00:07:27.805 --> 00:07:30.095
+Okay, so now we have
+another volume that's here.
+
+00:07:30.374 --> 00:07:34.445
+We have 5500 milliliters
+of blood that is here.
+
+00:07:34.739 --> 00:07:36.809
+Blood is mainly made up of water.
+
+00:07:36.820 --> 00:07:39.780
+So we can assume that this is
+the same equivalent as water.
+
+00:07:40.370 --> 00:07:42.590
+Um, we're using a health example
+being that there's a lot of health
+
+00:07:42.590 --> 00:07:43.780
+people that watch this as well.
+
+00:07:44.269 --> 00:07:47.919
+So we will have to use that
+density there to convert to grams
+
+00:07:47.939 --> 00:07:49.679
+because we will need a mass.
+
+00:07:49.919 --> 00:07:54.299
+So maybe let's, before we get too
+far into this, let's write our mass,
+
+00:07:54.299 --> 00:08:04.460
+our 5, 500 mLs, We can convert that
+using the density that was given and
+
+00:08:04.460 --> 00:08:09.980
+then we can see mLs cancels mLs and
+this is equivalent to 5, 500 grams.
+
+00:08:10.560 --> 00:08:13.979
+All right, let's take a look at
+what else is given in the problem.
+
+00:08:14.470 --> 00:08:17.839
+So the next thing that is
+mentioned is that we had that
+
+00:08:17.839 --> 00:08:20.580
+this is being cooled from 38.
+
+00:08:20.580 --> 00:08:24.219
+5 degrees C to 33.
+
+00:08:24.390 --> 00:08:25.360
+2 degrees C.
+
+00:08:25.730 --> 00:08:28.780
+So we have these two temperature values.
+
+00:08:29.115 --> 00:08:30.665
+that are right here in
+the middle of the problem.
+
+00:08:31.155 --> 00:08:36.204
+Now, reading these careful is very,
+very important because we need to make
+
+00:08:36.204 --> 00:08:38.465
+sure we are identifying them properly.
+
+00:08:38.825 --> 00:08:43.015
+So, we have TI, which is where
+you're starting, your initial point.
+
+00:08:43.564 --> 00:08:45.814
+And this is referred to as 38.
+
+00:08:45.854 --> 00:08:48.574
+5 degrees C in the problem.
+
+00:08:49.365 --> 00:08:54.815
+And in the end, it says it goes down,
+or we cool the patient down to 33.
+
+00:08:54.915 --> 00:08:55.875
+2 degrees C.
+
+00:08:56.474 --> 00:09:00.194
+So what we're going to have to
+do is use this to get delta T.
+
+00:09:00.595 --> 00:09:05.275
+So being that we're going to be using
+that MCAT equation from earlier,
+
+00:09:05.824 --> 00:09:08.584
+so delta T is final minus initial.
+
+00:09:08.594 --> 00:09:11.545
+So if we take, um, 33.
+
+00:09:11.545 --> 00:09:14.704
+2, minus it by 38.
+
+00:09:14.705 --> 00:09:17.114
+5, what we are going to get is 5.
+
+00:09:17.244 --> 00:09:18.454
+3 degrees C.
+
+00:09:18.990 --> 00:09:21.080
+when we do the final minus initial.
+
+00:09:21.110 --> 00:09:27.110
+Okay, now, now that we have all of
+our pieces here, what we can now do,
+
+00:09:27.110 --> 00:09:30.759
+and we also have our specific heat
+as well, so I've already highlighted
+
+00:09:30.759 --> 00:09:34.890
+that earlier, we can plug in all
+these pieces into our equation.
+
+00:09:35.570 --> 00:09:37.790
+So we're trying to find heat, right?
+
+00:09:38.309 --> 00:09:41.950
+We have our mass, which is 5500 grams.
+
+00:09:42.680 --> 00:09:46.430
+We are going to multiply that by
+the specific heat, which is 4.
+
+00:09:46.480 --> 00:09:47.340
+186.
+
+00:09:47.790 --> 00:09:49.300
+Joules per grams by C.
+
+00:09:49.890 --> 00:09:52.350
+So I'm going to highlight kind of
+where all these are coming from.
+
+00:09:52.350 --> 00:09:56.300
+So this, this first specific
+heat is the blue value here.
+
+00:09:56.920 --> 00:10:00.530
+We have our mass that's
+being placed in here.
+
+00:10:01.000 --> 00:10:04.590
+And then our last, last but not
+least, we have our temperature,
+
+00:10:05.310 --> 00:10:07.009
+which is at negative 5.
+
+00:10:07.009 --> 00:10:07.780
+3 degrees C.
+
+00:10:08.710 --> 00:10:11.910
+And we will highlight that as well,
+we'll highlight that with purple.
+
+00:10:13.530 --> 00:10:16.190
+So, and let's move this over so that
+you guys can see this equation, because
+
+00:10:16.190 --> 00:10:17.630
+I'm kind of blocking that a little bit.
+
+00:10:18.060 --> 00:10:21.819
+Okay, so we have all of our
+values here, so what we will do
+
+00:10:21.829 --> 00:10:25.680
+is take 5500 grams, times it by 4.
+
+00:10:25.720 --> 00:10:29.420
+186, times it by negative 5.
+
+00:10:29.530 --> 00:10:35.810
+3, and what we will get in the end is a
+negative Q value, which is going to be in
+
+00:10:35.820 --> 00:10:41.165
+joules, and we will get negative 122 0.
+
+00:10:42.755 --> 00:10:43.425
+21.
+
+00:10:43.525 --> 00:10:44.275
+19 or 0.
+
+00:10:44.305 --> 00:10:46.765
+9 joules for our answer.
+
+00:10:47.195 --> 00:10:48.925
+Now is this really the
+way that you want it?
+
+00:10:48.945 --> 00:10:52.055
+Well, earlier it mentioned
+we want this in kilojoules.
+
+00:10:52.475 --> 00:10:55.425
+So how do we convert this
+number to kilojoules?
+
+00:10:55.974 --> 00:10:59.905
+Well, if you kind of think of kilo,
+right, there are a thousand, there's a
+
+00:10:59.905 --> 00:11:03.485
+thousand joules for every one kilojoule.
+
+00:11:04.045 --> 00:11:06.565
+So we can do a little
+conversion here for ourselves.
+
+00:11:07.105 --> 00:11:11.694
+And we can also round it to the correct
+number of sig figs in the problem, right?
+
+00:11:11.704 --> 00:11:14.874
+Because it looks like we had three
+sig figs throughout the problem.
+
+00:11:15.434 --> 00:11:21.445
+So in the very end, it's going
+to be negative 122 kilojoules is
+
+00:11:21.455 --> 00:11:23.775
+going to be our final answer here.
+
+00:11:24.544 --> 00:11:27.055
+And let's double check that
+our sig figs are correct.
+
+00:11:27.515 --> 00:11:30.305
+Um, we have three sig figs
+for all the temperatures.
+
+00:11:30.635 --> 00:11:34.175
+We have two sig figs for the volume, so we
+do need to round this a little bit more.
+
+00:11:34.745 --> 00:11:36.305
+So this will be 120 joules.
+
+00:11:37.624 --> 00:11:39.154
+because of significant figures.
+
+00:11:39.194 --> 00:11:41.415
+There are two sig figs for the volume.
+
+00:11:41.915 --> 00:11:45.355
+Okay, so we always gotta do our
+significant figures in every problem.
+
+00:11:45.355 --> 00:11:48.844
+If you need help with that type of stuff,
+you can refer back to my sig fig videos.
+
+00:11:49.145 --> 00:11:51.694
+Let's find out the identity
+of an unknown metal.
+
+00:11:52.055 --> 00:11:59.565
+You found a 125 gram old cooking
+pot and added 14, 600 joules of
+
+00:11:59.565 --> 00:12:01.335
+heat to raise the temperature.
+
+00:12:02.229 --> 00:12:06.250
+From 22 degrees C to 325 degrees C.
+
+00:12:06.930 --> 00:12:09.439
+What is the identity
+of the old cooking pot?
+
+00:12:09.449 --> 00:12:11.209
+So you want to know what
+is it made out of, right?
+
+00:12:11.300 --> 00:12:13.409
+You want to know is it
+something that's worth keeping?
+
+00:12:14.030 --> 00:12:17.019
+So one thing that we're going to
+do here is we're going to list
+
+00:12:17.020 --> 00:12:18.729
+out all of our important values.
+
+00:12:19.000 --> 00:12:23.340
+So the first thing that we see is
+that we have a mass of 125 grams.
+
+00:12:24.040 --> 00:12:29.000
+We have a heat value that is hidden
+in this problem as well, right?
+
+00:12:29.010 --> 00:12:32.879
+It's 14, 600, so that is a Q value.
+
+00:12:33.730 --> 00:12:38.990
+So 14, 600 JUULs, and we
+have two temperature values.
+
+00:12:38.990 --> 00:12:49.600
+So we have a TI of 22 degrees C, and
+then we have a t F of 325 degrees C.
+
+00:12:50.410 --> 00:12:53.560
+So, and just to kind of highlight
+where those two values came from, that
+
+00:12:53.560 --> 00:12:55.000
+was from right here in the problem.
+
+00:12:56.755 --> 00:12:59.345
+Now that we have all these
+different values, the one thing
+
+00:12:59.345 --> 00:13:03.135
+we got to see is, well, what are
+we missing is our C value, right?
+
+00:13:03.145 --> 00:13:06.355
+So we want to figure out what the
+identity is, and generally with these
+
+00:13:06.365 --> 00:13:10.425
+type of problems, you commonly see them
+on exams when it comes to introductory
+
+00:13:10.425 --> 00:13:15.355
+chem, and we usually get a whole entire
+list of different values that you can
+
+00:13:15.355 --> 00:13:18.405
+use here to try to identify what it is.
+
+00:13:18.775 --> 00:13:22.055
+Um, a lot of times this might be a
+multiple choice question too, so maybe if
+
+00:13:22.055 --> 00:13:25.445
+you can take your luck at guessing, but
+you should know how to do these, right?
+
+00:13:25.445 --> 00:13:27.135
+You want to get all those points.
+
+00:13:27.715 --> 00:13:30.985
+So if we have our Q equation,
+what we will have to do is
+
+00:13:31.005 --> 00:13:34.245
+rearrange it to get C by itself.
+
+00:13:34.824 --> 00:13:38.905
+Now being that m, c, delta,
+t are all being multiplied.
+
+00:13:39.329 --> 00:13:46.479
+What we can do is divide out m and delta
+t to cancel them to get c by itself.
+
+00:13:47.030 --> 00:13:51.620
+So when we do that, we can see mass
+cancels mass, and then delta t cancels
+
+00:13:51.620 --> 00:13:59.949
+delta t, getting us our formula of
+q m delta t is equal to c, okay?
+
+00:14:00.519 --> 00:14:04.719
+So now what we're going to do with
+that equation is we're going to plug
+
+00:14:04.729 --> 00:14:09.219
+in all of the values that we were,
+that we were given in the problem.
+
+00:14:09.830 --> 00:14:13.230
+So we can see that we
+have our 14, 600 joules.
+
+00:14:13.719 --> 00:14:19.580
+We're going to be dividing that, um, times
+our, our, dividing it by our mass, right?
+
+00:14:19.979 --> 00:14:21.969
+So that was 125 grams.
+
+00:14:22.699 --> 00:14:28.610
+And then we will also be dividing by delta
+T, which is our final minus our initial.
+
+00:14:28.620 --> 00:14:35.890
+So we have our 325 degrees C, and
+that's going to be minus 22 degrees C.
+
+00:14:36.635 --> 00:14:41.289
+Okay, so now, when we plug in all
+these values, we have 14, 600.
+
+00:14:41.730 --> 00:14:45.520
+divided by, and one thing I always
+recommend to all students is when
+
+00:14:45.520 --> 00:14:49.050
+you're using your calculator, use
+parentheses to your advantage so
+
+00:14:49.050 --> 00:14:52.980
+you're not giving the wrong answers
+when you are using your calculator.
+
+00:14:53.420 --> 00:14:59.500
+So it'll be divided by 125
+times 325 minus 22 degrees C
+
+00:14:59.540 --> 00:15:01.130
+when you are plugging that in.
+
+00:15:02.030 --> 00:15:06.170
+And what you should get in the very
+end, so if I kind of show the process,
+
+00:15:06.630 --> 00:15:14.430
+we should get 14, 600 divided by
+37, 875, which will give you a final
+
+00:15:14.450 --> 00:15:19.059
+number of 385 joules grams by Celsius.
+
+00:15:19.470 --> 00:15:21.530
+I'm just showing the work because
+I know that some of you like
+
+00:15:21.540 --> 00:15:23.750
+to do the little pieces there.
+
+00:15:24.219 --> 00:15:26.260
+Right, so that would be our final answer.
+
+00:15:26.290 --> 00:15:31.489
+Now what we will do is we'll check
+it against our chart, and what
+
+00:15:31.489 --> 00:15:37.989
+we're going to see is that, oh, this
+value 385 that we have matches what
+
+00:15:37.989 --> 00:15:39.739
+we also have for copper up here.
+
+00:15:40.370 --> 00:15:44.990
+So our final answer in this case
+is going to be copper, or the
+
+00:15:44.990 --> 00:15:46.710
+identity of our unknown metal.
+
+00:15:46.920 --> 00:15:47.920
+Okay, so copper.
+
+00:15:49.120 --> 00:15:52.960
+And that is how you can use specific
+heat to figure out your identity
+
+00:15:52.980 --> 00:15:54.710
+of all your missing components.
+
+00:15:55.289 --> 00:15:57.980
+So these kind of problems, they're
+usually really straightforward.
+
+00:15:57.989 --> 00:16:01.510
+It's more of a plug and play
+kind of equations, but you have
+
+00:16:01.510 --> 00:16:05.240
+to be very organized because
+it's more of a physics problem.
+
+00:16:05.800 --> 00:16:08.980
+So go through it, write down your
+variables, and keep practicing.
+
+00:16:09.545 --> 00:16:10.875
+Thank you so much for watching.
+
+00:16:10.875 --> 00:16:13.425
+If you like this video, please
+hit the like and comment button.
+
+00:16:13.435 --> 00:16:17.125
+Please hit that subscribe button too, and
+I hope to see you here for future videos.
+
+00:16:17.315 --> 00:16:19.475
+Thank you so much for supporting
+the channel, and I look to
+
+00:16:19.475 --> 00:16:20.635
+see you all in the future.
+
+00:16:20.944 --> 00:16:21.495
+Bye now!
+

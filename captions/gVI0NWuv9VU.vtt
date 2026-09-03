@@ -1,0 +1,2013 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:09.180 --> 00:00:12.790
+Hello and welcome back to
+another video with ItsDrDan.
+
+00:00:12.810 --> 00:00:17.130
+And today we're gonna look further into
+introductory chemistry, specifically
+
+00:00:17.190 --> 00:00:19.830
+math skills to help you ACE chemistry.
+
+00:00:20.310 --> 00:00:24.540
+This video we're gonna be looking at
+dimensional analysis, which is a follow-up
+
+00:00:24.540 --> 00:00:26.760
+video to my unit conversion video.
+
+00:00:27.180 --> 00:00:30.180
+So, it helps you be able to
+see a lot tougher problems.
+
+00:00:30.390 --> 00:00:33.540
+They're gonna commonly come
+across, whether it's at the very
+
+00:00:33.540 --> 00:00:36.360
+beginning unit, conversions, or
+when you get the stoichiometry.
+
+00:00:36.570 --> 00:00:39.870
+This is one of the most fundamental
+skills that you can have, or
+
+00:00:39.870 --> 00:00:44.370
+chemistry, physics, even engineering
+classes that you'll come across.
+
+00:00:44.910 --> 00:00:48.690
+So, for this particular one, the
+whole idea with dimensional analysis
+
+00:00:48.750 --> 00:00:53.730
+is that it's a mathematical method
+to convert measured units into
+
+00:00:53.730 --> 00:00:55.769
+units needed to answer problems.
+
+00:00:56.144 --> 00:01:00.195
+Which is a little bit of a mouthful,
+but it comes down to trying to answer
+
+00:01:00.195 --> 00:01:04.305
+a lot of word problems, which when
+we come across those, they can be
+
+00:01:04.305 --> 00:01:06.315
+really overwhelming when you see them.
+
+00:01:06.320 --> 00:01:08.655
+You can freeze up, you
+see all these words.
+
+00:01:08.660 --> 00:01:12.075
+You don't know how to find important
+pieces of information, possibly.
+
+00:01:12.705 --> 00:01:15.375
+And a lot of that comes from middle
+school and high school, where maybe
+
+00:01:15.375 --> 00:01:18.735
+you were never coming across all
+the skills to do that, or maybe
+
+00:01:18.735 --> 00:01:19.815
+you have, and that's even better.
+
+00:01:20.669 --> 00:01:24.990
+But, if you haven't, I'm gonna go through
+a lot of those tips to show you how can
+
+00:01:24.990 --> 00:01:29.039
+you go through a word problem, how do
+you decipher it so that way you can find
+
+00:01:29.039 --> 00:01:34.619
+the conversion factors needed to answer
+these problems, which all conversion
+
+00:01:34.619 --> 00:01:39.300
+factor is, is a ratio or a relationship
+that's being hidden in a word problem.
+
+00:01:39.660 --> 00:01:42.479
+So, you're gonna be looking for
+numbers, little keywords I'm gonna
+
+00:01:42.479 --> 00:01:45.750
+show you look for, to give you all
+those little tips and hints to be
+
+00:01:45.750 --> 00:01:47.699
+able to do dimensional analysis.
+
+00:01:48.105 --> 00:01:50.745
+So, just look at a little preview,
+like what does that exactly mean when
+
+00:01:50.745 --> 00:01:52.185
+it comes to dimensional analysis?
+
+00:01:52.605 --> 00:01:57.405
+Well, we're gonna be looking at just
+understanding simple fractions, right?
+
+00:01:57.525 --> 00:02:00.705
+We set up before in unit conversions
+was we set up a T table, like the
+
+00:02:00.705 --> 00:02:03.525
+one at the bottom of the screen and
+put down like the one right here.
+
+00:02:03.975 --> 00:02:06.435
+So if I was, you always write
+down your different units you
+
+00:02:06.435 --> 00:02:07.965
+were given and what you desire.
+
+00:02:08.055 --> 00:02:12.375
+So if I'm given A and I desire
+C, I might have a couple
+
+00:02:12.375 --> 00:02:13.905
+relationships that can get me there.
+
+00:02:14.610 --> 00:02:19.140
+Whether it's through prefixes US to
+metric conversions, maybe density might
+
+00:02:19.140 --> 00:02:22.020
+be even something that's given to you
+in a problem through maybe medical
+
+00:02:22.020 --> 00:02:26.880
+doses, dosages, there's all kinds
+of things that you can come across.
+
+00:02:27.420 --> 00:02:29.100
+So how does this exactly work?
+
+00:02:29.130 --> 00:02:32.970
+Well, let's say if I'm given A, you always
+try to start with a number by itself.
+
+00:02:33.750 --> 00:02:38.070
+Then what we are going to do is cancel
+out those units, right when they are
+
+00:02:38.070 --> 00:02:40.980
+opposites of each other, they can cancel.
+
+00:02:41.100 --> 00:02:43.800
+So opposites cancel each other out.
+
+00:02:43.830 --> 00:02:47.130
+And that is the key thing that
+we're always looking for canceling.
+
+00:02:47.940 --> 00:02:52.200
+So when those cancels, right, being
+that A is equivalent to B, we can
+
+00:02:52.200 --> 00:02:56.010
+write that relationship and we
+can also continue to relate the
+
+00:02:56.070 --> 00:02:58.560
+relationship that B is equivalent to C.
+
+00:02:59.190 --> 00:03:02.040
+So, what happens here
+is unit cancellation.
+
+00:03:02.670 --> 00:03:05.310
+A units would cancel A units, right?
+
+00:03:05.310 --> 00:03:06.930
+And that's what the
+highlighting here represents.
+
+00:03:07.740 --> 00:03:12.570
+And then the same thing here is that,
+okay, B units cancel out B units and
+
+00:03:12.570 --> 00:03:14.730
+then that would leave us only with C.
+
+00:03:15.150 --> 00:03:16.019
+And that's the key.
+
+00:03:16.079 --> 00:03:19.530
+We're trying to cancel all of
+our different units as we're
+
+00:03:19.530 --> 00:03:20.459
+going through these problems.
+
+00:03:20.850 --> 00:03:24.450
+So we're gonna go through a bunch of
+different tips and a bunch of examples in
+
+00:03:24.450 --> 00:03:26.430
+this video, and I hope that this helps.
+
+00:03:27.045 --> 00:03:28.605
+All right, let's get into it.
+
+00:03:28.605 --> 00:03:32.595
+Let's go through tips on how
+to decipher word problems.
+
+00:03:32.954 --> 00:03:36.285
+So starting here, whenever you
+see a word problem, it can feel
+
+00:03:36.285 --> 00:03:38.325
+like an extremely big puzzle.
+
+00:03:38.385 --> 00:03:42.135
+And it can be extremely confusing
+for a lot of new chemistry students.
+
+00:03:42.734 --> 00:03:46.575
+But the thing is, that's all it is,
+is a puzzle, meaning there's only
+
+00:03:46.575 --> 00:03:48.765
+one way that it can fit together.
+
+00:03:48.945 --> 00:03:50.984
+The pieces fit a specific way.
+
+00:03:51.375 --> 00:03:54.885
+Meaning that our units are
+going to cancel a specific way.
+
+00:03:55.484 --> 00:04:00.075
+So when we are going through these a few
+tips, we wanna read the problems slowly.
+
+00:04:00.524 --> 00:04:02.774
+Every single word could hold a clue.
+
+00:04:03.105 --> 00:04:07.125
+We wanna be always looking through our
+little magnifying glass to find that clue.
+
+00:04:07.875 --> 00:04:10.845
+Try to read the problem
+multiple times if you have to.
+
+00:04:11.174 --> 00:04:14.864
+There's sometimes on exam, yes, there's
+a time limit, but when you're doing
+
+00:04:14.864 --> 00:04:18.990
+your homework, or maybe if you have
+a quiz that's not timed, Spend that
+
+00:04:18.990 --> 00:04:21.390
+time to learn how to do problems.
+
+00:04:21.420 --> 00:04:22.260
+It's a study method.
+
+00:04:22.740 --> 00:04:24.780
+The more you do, the easier it will get.
+
+00:04:25.110 --> 00:04:26.580
+It just takes practice.
+
+00:04:26.580 --> 00:04:28.500
+We need to practice anything, right?
+
+00:04:28.740 --> 00:04:32.730
+It's like I tell students all the time, if
+you played a sport or did an instrument,
+
+00:04:32.730 --> 00:04:37.350
+or maybe if you game, or if you do really
+any hobby when you first did it, you
+
+00:04:37.350 --> 00:04:39.660
+probably were not as good at it first.
+
+00:04:40.110 --> 00:04:41.010
+That's normal, right?
+
+00:04:41.010 --> 00:04:42.000
+We're human, we learn.
+
+00:04:42.450 --> 00:04:45.180
+So as you got better, you improved.
+
+00:04:45.330 --> 00:04:46.320
+It's the same thing in  chem.
+
+00:04:46.530 --> 00:04:48.840
+It takes time, and that's
+really discouraging.
+
+00:04:48.840 --> 00:04:49.620
+It does take time.
+
+00:04:49.680 --> 00:04:50.640
+That's with any subject.
+
+00:04:50.670 --> 00:04:51.930
+That's the idea of learning, right?
+
+00:04:51.930 --> 00:04:53.820
+The more you do it, the
+better you will get.
+
+00:04:54.240 --> 00:04:56.430
+So trust me, it will get better.
+
+00:04:56.850 --> 00:05:01.380
+So when you read it multiple times, what
+you need to do is define your givens.
+
+00:05:01.470 --> 00:05:04.560
+So what information is in
+the problem that you have?
+
+00:05:04.560 --> 00:05:06.480
+So numbers that you already start with.
+
+00:05:07.170 --> 00:05:10.680
+And write your desired, which
+means what are you trying to find?
+
+00:05:10.680 --> 00:05:15.360
+It's usually a unit or a specific answer
+that will be set out in the problem.
+
+00:05:16.020 --> 00:05:19.200
+The last thing is you wanna
+look for conversion factors,
+
+00:05:19.205 --> 00:05:21.210
+but for a lot of us, how?
+
+00:05:21.360 --> 00:05:22.290
+How do we do that?
+
+00:05:22.290 --> 00:05:25.560
+Well, there's gonna be key words
+we're gonna be looking for and when,
+
+00:05:25.560 --> 00:05:30.000
+with those key words, the whole idea
+here is that it's gonna help you
+
+00:05:30.210 --> 00:05:32.580
+let the units guide your thinking.
+
+00:05:32.924 --> 00:05:35.505
+Meaning they need to cancel out.
+
+00:05:35.744 --> 00:05:39.494
+So top and bottom of these
+fractions, they cancel.
+
+00:05:39.554 --> 00:05:42.525
+So we need to try to map
+out a path for ourselves.
+
+00:05:42.945 --> 00:05:45.825
+So, and that's what we're gonna be
+doing as we go through these problems.
+
+00:05:46.424 --> 00:05:49.844
+So let's take a look at some of
+the different terms that we will
+
+00:05:49.844 --> 00:05:52.335
+come across to in these problems.
+
+00:05:52.335 --> 00:05:55.005
+That can be a hint for
+your conversion factors.
+
+00:05:55.335 --> 00:05:59.505
+Okay, so when we want to see the
+world through conversion factors,
+
+00:05:59.715 --> 00:06:03.015
+there are giveaway phrases
+in a lot of these problems.
+
+00:06:03.435 --> 00:06:08.295
+So, think of some things that come in in
+your everyday life if I ask you, okay.
+
+00:06:08.475 --> 00:06:11.955
+The following phrases, if you see
+in each, well, if I ask you for a
+
+00:06:11.960 --> 00:06:15.945
+dollar and I ask you to make change,
+well, one thing that you could do
+
+00:06:15.945 --> 00:06:19.965
+is, oh, alright, there's a hundred
+pennies in every or in each dollar.
+
+00:06:20.235 --> 00:06:24.480
+Well, Knowing that that is a conversion
+term that we can write for ourselves.
+
+00:06:24.840 --> 00:06:30.870
+So if you have a hundred pennies
+in a dollar, we can define
+
+00:06:30.900 --> 00:06:32.250
+that conversion term, right?
+
+00:06:32.250 --> 00:06:35.760
+And you can either write that
+on top or bottom, depending
+
+00:06:35.760 --> 00:06:37.140
+on how you need to do that.
+
+00:06:37.740 --> 00:06:41.520
+If I ask you how many days are
+in there in a week and right away
+
+00:06:41.520 --> 00:06:42.990
+you're like, seven, of course.
+
+00:06:43.320 --> 00:06:46.830
+Well, you just define a conversion
+term without me doing anything.
+
+00:06:46.830 --> 00:06:49.170
+It's second nature 'cause you
+practice it your entire life.
+
+00:06:49.725 --> 00:06:54.045
+So per, if you see something per
+something that's telling you another
+
+00:06:54.045 --> 00:06:58.605
+one, so seven days a week, we can
+define that as a fraction for ourselves.
+
+00:06:58.605 --> 00:07:01.095
+Seven days for every week.
+
+00:07:01.125 --> 00:07:03.105
+And you can flip it, right if you need to.
+
+00:07:03.105 --> 00:07:06.075
+You can do it one way or the other,
+depending on how you need your to units
+
+00:07:06.075 --> 00:07:09.465
+cancel if you see in
+every, well, all right.
+
+00:07:09.870 --> 00:07:12.210
+If I ask you how many
+months are in every year?
+
+00:07:12.420 --> 00:07:14.910
+Well, there's 12 months in every year.
+
+00:07:15.330 --> 00:07:17.640
+If I ask, we can even
+define a term, right?
+
+00:07:17.645 --> 00:07:21.840
+So if I say there's 2000 nails
+in every barn that's being built,
+
+00:07:22.440 --> 00:07:23.520
+that's defining your own term.
+
+00:07:23.520 --> 00:07:26.040
+It doesn't have to be this preset thing.
+
+00:07:26.070 --> 00:07:28.800
+You can define it any problem,
+can define it however you need.
+
+00:07:29.250 --> 00:07:31.080
+Or if I ask you for recipes, right?
+
+00:07:31.290 --> 00:07:33.360
+Recipes are ratios.
+
+00:07:33.570 --> 00:07:35.160
+Whether you need one cup of milk.
+
+00:07:35.565 --> 00:07:36.645
+In this recipe.
+
+00:07:36.675 --> 00:07:43.065
+So you could say, alright, well
+one cup of milk and oh, spelled
+
+00:07:43.065 --> 00:07:44.595
+milk wrong in the recipe.
+
+00:07:44.595 --> 00:07:46.545
+Right?
+That could be a conversion term.
+
+00:07:47.055 --> 00:07:53.415
+Or if I say 12 eggs in a
+dozen is a conversion term.
+
+00:07:53.895 --> 00:07:57.075
+All of these can be defined
+using these keywords.
+
+00:07:57.075 --> 00:07:58.455
+So write them down for yourself.
+
+00:07:59.085 --> 00:08:01.005
+Try to train your brain to finding them.
+
+00:08:01.245 --> 00:08:02.205
+They will help you.
+
+00:08:02.715 --> 00:08:05.445
+So there's three examples that
+we have in this video for you.
+
+00:08:06.045 --> 00:08:06.885
+We'll go through them.
+
+00:08:07.094 --> 00:08:09.195
+We're going to find all
+the key information.
+
+00:08:09.195 --> 00:08:13.215
+So find our givens, find our desires, and
+we're gonna find the unit conversions.
+
+00:08:13.545 --> 00:08:16.875
+So feel free to spend that time and pause
+when we are, when I read through the
+
+00:08:16.875 --> 00:08:18.825
+problem before I start solving it all.
+
+00:08:18.855 --> 00:08:21.795
+Or you can just watch it, but try
+to, try to see if you can do it too.
+
+00:08:22.094 --> 00:08:24.735
+Try to work along with me and
+it will help you learn it.
+
+00:08:25.034 --> 00:08:28.425
+Alright, so let's go on
+to our first problem.
+
+00:08:28.635 --> 00:08:30.195
+Our first problem of the video.
+
+00:08:30.825 --> 00:08:35.295
+So for this problem, what we are asking
+is how many minutes will it take to
+
+00:08:35.295 --> 00:08:38.745
+drive to Los Angeles from San Francisco?
+
+00:08:39.465 --> 00:08:44.085
+If an average speed of 72 miles per
+hour is maintained, the distance
+
+00:08:44.085 --> 00:08:47.445
+between the two cities is 405 miles.
+
+00:08:48.075 --> 00:08:48.885
+You're like, wait, what?
+
+00:08:48.915 --> 00:08:49.995
+I thought this was a chemistry.
+
+00:08:50.235 --> 00:08:54.255
+Well, being able to read a word
+problem is still chemistry.
+
+00:08:54.495 --> 00:08:57.165
+Even when we do chemical equations later.
+
+00:08:57.840 --> 00:09:00.390
+We need to be able to find
+key piece of information.
+
+00:09:00.960 --> 00:09:02.520
+So let's go through it.
+
+00:09:02.520 --> 00:09:06.360
+So I read that fast, so spend the time
+to read it to yourself fully if needed.
+
+00:09:06.930 --> 00:09:09.450
+So the first sentence, how many minutes?
+
+00:09:10.080 --> 00:09:11.760
+There's your, that's
+your desired right there.
+
+00:09:12.120 --> 00:09:12.660
+How many minutes?
+
+00:09:12.665 --> 00:09:16.410
+So what we're gonna do is we're going
+to highlight that and we are gonna
+
+00:09:16.410 --> 00:09:19.620
+write down here are desired, so desired.
+
+00:09:21.225 --> 00:09:22.305
+Is minutes.
+
+00:09:22.365 --> 00:09:23.625
+Okay.
+So it's in the first line.
+
+00:09:23.625 --> 00:09:25.275
+It's not always in the last line.
+
+00:09:25.275 --> 00:09:27.615
+Sometimes it's earlier or
+it's earlier than that.
+
+00:09:28.305 --> 00:09:28.805
+Alright.
+
+00:09:28.935 --> 00:09:32.805
+And it's asking from LA to San Francisco,
+that's, that doesn't matter, right?
+
+00:09:32.805 --> 00:09:35.745
+That's just, that's just information
+and a lot of these problems, it just
+
+00:09:35.750 --> 00:09:37.965
+gives you information to distract you.
+
+00:09:38.385 --> 00:09:41.745
+And that's something that's very common,
+especially in standardized tests.
+
+00:09:42.015 --> 00:09:44.715
+If you're a nursing student and you
+might have to take the TEAS test one
+
+00:09:44.715 --> 00:09:49.305
+day, very common, they might give you a
+different test that will distract you.
+
+00:09:50.069 --> 00:09:54.870
+So, and then it says, if you have an
+average speed of 72 miles per hour,
+
+00:09:55.350 --> 00:09:57.240
+all right, that's a conversion term.
+
+00:09:57.630 --> 00:09:59.730
+We can see the word per here.
+
+00:09:59.939 --> 00:10:00.305
+Okay.
+
+00:10:00.305 --> 00:10:05.250
+Which meant that, alright, well
+I have 72 miles for every hour.
+
+00:10:05.699 --> 00:10:09.209
+That is a conversion for
+ourselves that we can define.
+
+00:10:09.930 --> 00:10:16.949
+So when we go through that, we
+can write 72 miles per hour.
+
+00:10:18.614 --> 00:10:21.104
+Then we have a ratio
+and that can be flipped.
+
+00:10:21.255 --> 00:10:22.214
+Don't forget that, right?
+
+00:10:22.214 --> 00:10:28.635
+So we can also write one hour
+over 72 miles as we continue
+
+00:10:28.635 --> 00:10:29.714
+to write, read the problem.
+
+00:10:29.714 --> 00:10:33.854
+It says the distance between
+the city is 405 miles.
+
+00:10:34.425 --> 00:10:35.535
+We'll write that down too.
+
+00:10:35.535 --> 00:10:40.275
+So we also have 405 miles in the problem.
+
+00:10:41.354 --> 00:10:45.224
+So we're looking for all these
+little details that we have here.
+
+00:10:45.224 --> 00:10:46.515
+They will help us find it.
+
+00:10:47.235 --> 00:10:50.655
+So we need to see what
+is our commonality here?
+
+00:10:50.715 --> 00:10:51.585
+What do we have?
+
+00:10:51.645 --> 00:10:52.695
+Well, we want minutes.
+
+00:10:52.965 --> 00:10:55.275
+We have a time factor, which is hours.
+
+00:10:55.485 --> 00:10:57.015
+That's gonna be our bridge there.
+
+00:10:57.585 --> 00:11:02.835
+So let's also set up the problem
+for ourselves with all these, right?
+
+00:11:02.835 --> 00:11:05.205
+We will set this up as
+a T table for ourselves.
+
+00:11:05.235 --> 00:11:06.645
+'cause it shows fractions.
+
+00:11:06.645 --> 00:11:09.855
+It makes it a lot easier
+to keep yourself organized.
+
+00:11:10.575 --> 00:11:14.085
+Now in these problems, we are
+given two different types of
+
+00:11:14.085 --> 00:11:15.135
+things that we can start with.
+
+00:11:15.930 --> 00:11:21.390
+We have con conversion factors, which
+are both, which are these fractions
+
+00:11:21.450 --> 00:11:27.870
+up here, and then we also have a term
+by itself, you, if you have it, which
+
+00:11:27.870 --> 00:11:29.160
+should most of these word problems.
+
+00:11:29.160 --> 00:11:29.820
+You will.
+
+00:11:29.880 --> 00:11:34.590
+You always want to start with the term
+by itself, and I can't say that enough.
+
+00:11:34.920 --> 00:11:37.500
+Start with the term by itself.
+
+00:11:37.920 --> 00:11:41.880
+The reason is is because you
+can't flip it easily, right?
+
+00:11:41.880 --> 00:11:44.730
+It's something that, sure, you could
+do it at the end of the problem.
+
+00:11:45.074 --> 00:11:48.824
+But at the beginning, you there,
+it has to be in the numerator,
+
+00:11:48.829 --> 00:11:50.685
+cancel units and all these problems.
+
+00:11:51.135 --> 00:11:55.454
+So if you have one, try to always
+start with the term by itself.
+
+00:11:55.694 --> 00:12:00.015
+It should lead to the correct answer as
+long as you cancel your units correctly.
+
+00:12:00.824 --> 00:12:02.745
+So, okay, we have 405 miles.
+
+00:12:03.224 --> 00:12:05.025
+Now how do we cancel out miles?
+
+00:12:05.175 --> 00:12:09.495
+Well, I had two different
+terms up top that I could use.
+
+00:12:09.974 --> 00:12:11.204
+I have the one on the left.
+
+00:12:11.910 --> 00:12:13.290
+And then I have the one on the right.
+
+00:12:13.349 --> 00:12:16.199
+And both these are like puzzle
+pieces that you can fit into
+
+00:12:16.199 --> 00:12:18.540
+your puzzle a very specific way.
+
+00:12:18.719 --> 00:12:23.219
+Because units, right, they need to be
+opposite of each other to cancel, right?
+
+00:12:23.219 --> 00:12:24.300
+They need to be opposite.
+
+00:12:24.869 --> 00:12:29.790
+So in this case, if I have
+miles on top in my T table, we
+
+00:12:29.790 --> 00:12:31.949
+also need miles on the bottom.
+
+00:12:32.579 --> 00:12:36.209
+So we're right 72 miles per hour.
+
+00:12:37.574 --> 00:12:39.135
+And that will cancel, right?
+
+00:12:39.225 --> 00:12:41.025
+So you can see how their opposites.
+
+00:12:41.355 --> 00:12:42.615
+Opposites always cancel.
+
+00:12:42.615 --> 00:12:44.954
+And we'll highlight it so that we
+can show how that's canceling, right?
+
+00:12:45.344 --> 00:12:47.415
+Opposites cancel each other out.
+
+00:12:47.415 --> 00:12:48.704
+And that's the ultimate thing, right?
+
+00:12:48.704 --> 00:12:52.275
+When we see these opposite units,
+they will cancel each other.
+
+00:12:52.875 --> 00:12:54.615
+So now we have hours.
+
+00:12:55.005 --> 00:12:56.145
+How do we get to minutes?
+
+00:12:56.295 --> 00:12:57.734
+Well, how many minutes are an hour?
+
+00:12:58.094 --> 00:12:59.685
+You tell, you look at
+the timer all the time.
+
+00:12:59.685 --> 00:12:59.834
+Right?
+
+00:12:59.834 --> 00:13:02.295
+When you're in class, you're like, oh
+my god, time's not going fast enough.
+
+00:13:02.745 --> 00:13:06.915
+So, but you know, 60 minutes is in one
+hour, so how do you cancel out an hour?
+
+00:13:07.275 --> 00:13:08.084
+With another hour?
+
+00:13:08.805 --> 00:13:13.814
+So we'd write one hour on the bottom
+and then we'll write 60 minutes on
+
+00:13:13.905 --> 00:13:19.665
+top and then we can see, alright,
+well once again, my unit's canceling.
+
+00:13:20.295 --> 00:13:21.104
+Fantastic.
+
+00:13:21.555 --> 00:13:22.395
+This is great.
+
+00:13:22.770 --> 00:13:25.500
+Now we have our final unit,
+which is what we wanted.
+
+00:13:25.500 --> 00:13:27.870
+We wanted minutes so we can give
+a little check to make sure.
+
+00:13:27.900 --> 00:13:28.650
+Okay, we're good.
+
+00:13:29.220 --> 00:13:30.300
+So now we can do the math.
+
+00:13:30.990 --> 00:13:33.750
+So when you're doing these, remember each
+one of these is like a little fraction.
+
+00:13:33.780 --> 00:13:37.710
+Each of these little blocks that
+are here, it's like a fraction.
+
+00:13:38.280 --> 00:13:43.500
+So what we're doing is we'll
+take that 405, divide it by 72.
+
+00:13:44.100 --> 00:13:48.110
+It equals times by 60, hit
+equal on your calculator.
+
+00:13:49.170 --> 00:13:55.545
+Now when you get that answer,
+You're gonna get 337.5 minutes.
+
+00:13:55.995 --> 00:13:57.375
+Now, is that the correct answer?
+
+00:13:57.915 --> 00:13:58.965
+The quick answer is no.
+
+00:13:59.715 --> 00:14:03.405
+So we need to round it sig
+figs  matter, because these are
+
+00:14:03.405 --> 00:14:04.905
+revolving around measurement.
+
+00:14:05.295 --> 00:14:07.125
+Measurement is key in science.
+
+00:14:07.665 --> 00:14:11.835
+So being that we had 405
+miles and 72 miles per hour,
+
+00:14:11.895 --> 00:14:12.945
+those are measurements, right?
+
+00:14:13.155 --> 00:14:16.305
+You look at your speed gauge, you
+do that with with a speedometer.
+
+00:14:16.665 --> 00:14:17.895
+That is a measurement tool.
+
+00:14:18.465 --> 00:14:20.385
+So how many sig figs do we have?
+
+00:14:20.790 --> 00:14:24.989
+We have two sig figs and then we measure
+the distance, whether it's with your
+
+00:14:24.995 --> 00:14:27.420
+G P S or a map that is three sig figs.
+
+00:14:27.569 --> 00:14:28.439
+Those are measurements.
+
+00:14:28.800 --> 00:14:30.030
+So what was the lower of the two?
+
+00:14:30.035 --> 00:14:31.109
+Because it's all multiplication.
+
+00:14:31.114 --> 00:14:32.579
+Division would be two.
+
+00:14:33.239 --> 00:14:39.540
+So when we round this to two sig figs,
+it would be 340 minutes would be our
+
+00:14:39.540 --> 00:14:42.120
+final answer, and we box that off.
+
+00:14:42.989 --> 00:14:44.459
+You did the first word problem possibly.
+
+00:14:45.045 --> 00:14:48.075
+Let's now go to another example.
+
+00:14:48.225 --> 00:14:51.945
+All right, our second example, this is
+for all the health scientists out there.
+
+00:14:52.575 --> 00:14:57.225
+So dosages and medicine is a common thing
+that you will have to calculate on the
+
+00:14:57.230 --> 00:14:59.055
+go, potentially in your future career.
+
+00:14:59.505 --> 00:15:02.745
+So even if you're not, and you're just
+interested in chem, or just you wanna
+
+00:15:02.745 --> 00:15:06.615
+pass the class or any class, we still
+have to be able to read these problems.
+
+00:15:06.975 --> 00:15:10.245
+So with this one, it says,
+many medications have dosages
+
+00:15:10.335 --> 00:15:11.325
+that depend on weight.
+
+00:15:12.000 --> 00:15:16.199
+The dosage of naproxen is five
+milligrams per kilogram of
+
+00:15:16.199 --> 00:15:18.390
+body weight, two times per day.
+
+00:15:19.439 --> 00:15:25.770
+If 120 pound patient starts with
+a 6,000 milligram bottle, how
+
+00:15:25.770 --> 00:15:27.630
+many days will the bottle last?
+
+00:15:28.350 --> 00:15:30.390
+Oh, that sounds hard
+and it's really scary.
+
+00:15:30.720 --> 00:15:32.310
+So let's look through it.
+
+00:15:32.316 --> 00:15:35.939
+So the first sentence, many medications
+have a doses that depend on weight.
+
+00:15:36.870 --> 00:15:37.319
+Great.
+
+00:15:37.319 --> 00:15:38.640
+It's a piece of just information.
+
+00:15:38.640 --> 00:15:39.540
+It doesn't tell you anything.
+
+00:15:40.125 --> 00:15:41.985
+So just something that's useful to know.
+
+00:15:42.645 --> 00:15:43.995
+Um, but not good for this problem.
+
+00:15:44.655 --> 00:15:49.635
+The dosage of naproxen is five
+milligrams per that word, per right.
+
+00:15:49.635 --> 00:15:50.595
+That's gonna come up a lot.
+
+00:15:51.465 --> 00:15:55.035
+Kilogram of body weight, I
+think I make a different color.
+
+00:15:55.064 --> 00:15:58.605
+Let's see, some brighter five
+milligrams per kilogram, and
+
+00:15:58.610 --> 00:16:01.665
+that says two times per day.
+
+00:16:01.814 --> 00:16:07.335
+That is a very complex, uh,
+conversion, so let's write that down.
+
+00:16:07.800 --> 00:16:11.940
+So it says five milligrams per kilogram.
+
+00:16:14.280 --> 00:16:16.920
+Five milligrams per of the drug.
+
+00:16:16.920 --> 00:16:21.780
+So we'll put five milligrams of
+drug per kilogram of body weight.
+
+00:16:24.690 --> 00:16:28.550
+And what we are doing is we're
+doing that two times per day.
+
+00:16:29.940 --> 00:16:31.920
+We'll put that as like a times two.
+
+00:16:31.920 --> 00:16:35.730
+And the whole idea with that is this
+is a unit that you gotta mash together
+
+00:16:35.730 --> 00:16:38.010
+and derive for yourself it looks like.
+
+00:16:38.580 --> 00:16:42.690
+So we're gonna have to potentially
+use this to derive something.
+
+00:16:42.780 --> 00:16:44.670
+So this is gonna be a multi-step problem.
+
+00:16:44.790 --> 00:16:46.950
+Whenever you see something that complex.
+
+00:16:47.760 --> 00:16:53.310
+Now it says that if 120 pound
+patient, okay, so that's another
+
+00:16:53.315 --> 00:16:54.360
+big piece of information.
+
+00:16:54.360 --> 00:16:55.860
+So 120 pounds.
+
+00:16:56.490 --> 00:16:57.720
+So let's write that down.
+
+00:16:58.890 --> 00:17:00.180
+Hundred 20 pound.
+
+00:17:00.390 --> 00:17:01.800
+And that's for body weight.
+
+00:17:01.829 --> 00:17:04.829
+So there's a conversion
+term that will cancel.
+
+00:17:04.829 --> 00:17:08.970
+Eventually it's body weight
+and body weight will cancel.
+
+00:17:09.690 --> 00:17:11.520
+But we need to get them in the same units.
+
+00:17:11.579 --> 00:17:12.510
+That's crucial.
+
+00:17:13.169 --> 00:17:15.929
+Let me move that over just a little
+'cause it can't cut off by me.
+
+00:17:16.619 --> 00:17:17.119
+There we go.
+
+00:17:18.089 --> 00:17:23.190
+Now it says the patient starts
+with a 6,000 milligram bottle.
+
+00:17:23.429 --> 00:17:25.470
+Okay, so here is another piece.
+
+00:17:26.055 --> 00:17:27.345
+So of the drug.
+
+00:17:27.885 --> 00:17:33.705
+So we have 6,000 milligram of the drug.
+
+00:17:34.965 --> 00:17:35.535
+Okay?
+
+00:17:35.835 --> 00:17:38.655
+How many days will the bottle last?
+
+00:17:39.165 --> 00:17:42.915
+Oof, how many days will the bottle last?
+
+00:17:43.275 --> 00:17:47.175
+So what our desire, so we have
+a lot of given information, all
+
+00:17:47.175 --> 00:17:50.685
+given are desired on the other end.
+
+00:17:51.390 --> 00:17:54.330
+Just, we wanna know how many days
+will, will the drug last us before
+
+00:17:54.330 --> 00:17:55.680
+we have to refill our prescription.
+
+00:17:56.370 --> 00:18:00.990
+So if we are doing that, well,
+let's see where to start.
+
+00:18:00.990 --> 00:18:02.970
+There's multiple possibilities here.
+
+00:18:03.480 --> 00:18:07.020
+One thing you'll see is that there
+are, there's one giant conversion
+
+00:18:07.025 --> 00:18:10.560
+term, the five milligrams of the
+drug per kilogram of body weight.
+
+00:18:11.100 --> 00:18:12.030
+A massive conversion.
+
+00:18:12.150 --> 00:18:13.440
+I would not start with that.
+
+00:18:14.010 --> 00:18:15.750
+Then we have 120 pounds.
+
+00:18:15.780 --> 00:18:16.280
+Okay.
+
+00:18:16.290 --> 00:18:21.000
+And then the 600 milligrams of
+the drug itself, or 6,000, sorry.
+
+00:18:21.899 --> 00:18:26.280
+So one of those two terms we have to
+start with, body weight is usually
+
+00:18:26.284 --> 00:18:30.149
+an easier one to start with 'cause
+then it gets those units canceled.
+
+00:18:30.540 --> 00:18:34.950
+Um, and I think what we'll do is
+this, we'll do this in two steps.
+
+00:18:35.429 --> 00:18:37.560
+So let's start with body weight.
+
+00:18:38.520 --> 00:18:42.330
+So with this we have 120 pound.
+
+00:18:43.470 --> 00:18:44.940
+Patient, right.
+
+00:18:44.940 --> 00:18:48.060
+So that, I'm gonna put body above it
+just so we're, we're familiar with
+
+00:18:48.060 --> 00:18:49.410
+where that weight is coming from.
+
+00:18:49.410 --> 00:18:52.170
+'cause notice we have two masses, so
+we need to make sure that, that the
+
+00:18:52.175 --> 00:18:54.660
+masses that are together stay together.
+
+00:18:55.020 --> 00:18:57.960
+Um, in terms of cancellation, we
+don't wanna mix the milligrams with
+
+00:18:57.960 --> 00:19:00.390
+the pounds and kilograms, even though
+they're all masses, but they're
+
+00:19:00.390 --> 00:19:02.130
+not related to the same thing.
+
+00:19:02.940 --> 00:19:06.540
+So we now gotta go from
+pounds to kilograms.
+
+00:19:06.750 --> 00:19:08.940
+That way we can use the
+one conversion term.
+
+00:19:09.525 --> 00:19:13.215
+So we have to look in our handy
+dandy sheets to see, okay.
+
+00:19:13.275 --> 00:19:15.345
+Pounds to kilograms or reference sheets.
+
+00:19:15.915 --> 00:19:21.435
+And you will see that 2.205
+pounds is one kilogram.
+
+00:19:21.435 --> 00:19:25.395
+So this is something you gotta,
+you look up when we do that.
+
+00:19:25.395 --> 00:19:29.895
+Pounds cancels pounds, it puts
+in in kilogram for ourselves.
+
+00:19:30.075 --> 00:19:34.275
+The next thing that we're gonna do
+is now we can use that big conversion
+
+00:19:34.275 --> 00:19:37.605
+term, which when we combine this.
+
+00:19:38.610 --> 00:19:44.070
+We can essentially figure out how much
+drug are we taking per day, per kilogram.
+
+00:19:44.610 --> 00:19:48.180
+So what I mean by that is let's
+combine that all together.
+
+00:19:48.780 --> 00:19:53.280
+So if I take five milligrams times
+it by two, what that will then
+
+00:19:53.285 --> 00:19:58.590
+tell us is that, okay, well we're
+taking 10 milligrams of the drug.
+
+00:19:59.820 --> 00:20:06.660
+Uh, for every one kilogram per day, the
+one kilogram of body weight, one kg.
+
+00:20:07.110 --> 00:20:10.920
+Of body weight per day.
+
+00:20:11.760 --> 00:20:15.060
+Okay, so now when that
+happens, this is a hard one.
+
+00:20:15.120 --> 00:20:18.090
+It's trying to see that as a body weight.
+
+00:20:18.120 --> 00:20:20.760
+The kilogram of body weight will
+cancel the kilogram of body weight.
+
+00:20:21.090 --> 00:20:22.200
+They'll both cancel.
+
+00:20:22.590 --> 00:20:25.800
+And now this leaves us with
+10 milligrams of drug per day.
+
+00:20:26.280 --> 00:20:28.830
+So, which is what we, we
+eventually need to get today's.
+
+00:20:29.460 --> 00:20:32.910
+So let's just solve for this
+part, and it will define for
+
+00:20:32.910 --> 00:20:36.330
+ourselves a milligram per day.
+
+00:20:37.020 --> 00:20:39.030
+Conversion term, which is great.
+
+00:20:39.060 --> 00:20:40.650
+That's something we'll help us do.
+
+00:20:40.680 --> 00:20:41.430
+Figure out the bottle.
+
+00:20:41.430 --> 00:20:42.570
+How long will the bottle last?
+
+00:20:43.050 --> 00:20:44.670
+That'll be our last little tea table.
+
+00:20:45.420 --> 00:20:53.220
+So what we need to do is 120 divided
+by 2.205 times 10, and what we will
+
+00:20:53.220 --> 00:21:00.780
+get is 544 milligrams per day, is
+what our patient needs to take.
+
+00:21:01.440 --> 00:21:01.940
+Great.
+
+00:21:02.550 --> 00:21:06.600
+So now what we will now
+do is one last step.
+
+00:21:07.365 --> 00:21:14.774
+Which is that we'll have 6,000
+milligram bottle and we will convert
+
+00:21:14.774 --> 00:21:22.544
+that using this dosage, which is the
+544 milligrams for every day, and
+
+00:21:22.544 --> 00:21:24.794
+that will give us our final answer.
+
+00:21:25.185 --> 00:21:32.324
+So we do 6,000 divided by 5 44,
+and what we're going to get is 11.0
+
+00:21:32.835 --> 00:21:35.655
+days is gonna be our final answer.
+
+00:21:36.240 --> 00:21:39.480
+So it's gonna last the patient 11
+days before they need to either
+
+00:21:39.480 --> 00:21:42.900
+get the prescription refilled or
+that will be how long it will last.
+
+00:21:42.900 --> 00:21:46.020
+So this kit is a harder problem
+'cause it took multiple steps.
+
+00:21:46.440 --> 00:21:50.520
+But notice that being that we had
+two separate terms by themselves,
+
+00:21:50.525 --> 00:21:54.720
+the 6,000 and the one 20, I split
+it up into two problems to make it
+
+00:21:54.750 --> 00:21:57.090
+easier, try to simplify the problem.
+
+00:21:57.480 --> 00:21:59.820
+If it's something really big and
+you, and you can't really see how
+
+00:21:59.820 --> 00:22:03.300
+to cancel everything out easily, it
+could be split into two problems.
+
+00:22:03.780 --> 00:22:06.780
+Just start eliminating a few
+units and then try to come, come
+
+00:22:06.780 --> 00:22:08.280
+back together on the next part.
+
+00:22:08.939 --> 00:22:10.500
+The third example would
+be a little bit easier.
+
+00:22:10.500 --> 00:22:11.610
+I wanted to do one hard one.
+
+00:22:12.179 --> 00:22:14.429
+Alright, onto the next problem.
+
+00:22:14.699 --> 00:22:18.990
+So, at a local college, the students
+have been overdosing on caffeine
+
+00:22:19.260 --> 00:22:20.760
+to help them study for exams.
+
+00:22:21.360 --> 00:22:22.500
+Oh, no, that's not good.
+
+00:22:22.770 --> 00:22:24.600
+But that did not give us any
+piece of information that
+
+00:22:24.600 --> 00:22:25.649
+we needed for this problem.
+
+00:22:25.710 --> 00:22:29.280
+It just told us the situation, meaning
+many students have been getting
+
+00:22:29.280 --> 00:22:31.320
+sick from drinking too much coffee.
+
+00:22:31.950 --> 00:22:38.130
+It is known that three gram grams of
+caffeine taking in one day is dangerous.
+
+00:22:38.190 --> 00:22:41.010
+Okay, so right there we
+have the number three grams.
+
+00:22:41.010 --> 00:22:43.680
+So maybe that might be a very
+important piece of information.
+
+00:22:43.680 --> 00:22:45.690
+So let's highlight it now.
+
+00:22:45.690 --> 00:22:50.460
+It says How many cups of coffee
+would be too much and at a
+
+00:22:50.490 --> 00:22:51.810
+dangerous level of three grams.
+
+00:22:51.840 --> 00:22:53.580
+Okay, so there's that
+three gram number again.
+
+00:22:53.580 --> 00:22:56.370
+So that's definitely gonna be an
+important piece of information that
+
+00:22:56.370 --> 00:23:00.060
+we need to write down, that we need
+know something about three grams.
+
+00:23:00.270 --> 00:23:01.080
+That is our limit.
+
+00:23:01.604 --> 00:23:04.185
+So three grams of coffee.
+
+00:23:05.804 --> 00:23:12.854
+Now it says a cup of coffee contains
+21.5 milligrams of caffeine per ounce.
+
+00:23:13.364 --> 00:23:17.685
+Okay, so that means that we have
+another conversion term, which is,
+
+00:23:17.685 --> 00:23:21.524
+that's 21.5 milligrams per ounce.
+
+00:23:22.004 --> 00:23:24.074
+Let's write that down for ourselves too.
+
+00:23:24.614 --> 00:23:30.764
+So we have 21.5 milligrams of caffeine.
+
+00:23:33.180 --> 00:23:34.710
+Per ounce.
+
+00:23:36.390 --> 00:23:38.010
+Okay, so there's that per term, right?
+
+00:23:38.010 --> 00:23:38.880
+We keep seeing that.
+
+00:23:39.330 --> 00:23:39.870
+So that's one.
+
+00:23:40.230 --> 00:23:43.440
+And then the last thing, it says
+a cup contains eight ounces.
+
+00:23:43.680 --> 00:23:44.180
+Oh, great.
+
+00:23:44.190 --> 00:23:49.320
+So it says something we don't have to look
+up is a cup contains eight ounces, so it
+
+00:23:49.320 --> 00:23:51.930
+tells you how big is a cup of coffee cup.
+
+00:23:52.220 --> 00:23:55.050
+And that's eight ounces.
+
+00:23:56.490 --> 00:23:56.820
+Great.
+
+00:23:56.820 --> 00:24:00.389
+So now when we do this, let's
+see what our common trend is.
+
+00:24:00.389 --> 00:24:01.649
+So what should we start with?
+
+00:24:02.100 --> 00:24:04.500
+We have two fractions, right?
+
+00:24:04.504 --> 00:24:05.700
+So we have two conversion terms.
+
+00:24:05.700 --> 00:24:09.990
+We have the, the 21.5 milligrams
+and the one cup for eight ounces.
+
+00:24:10.679 --> 00:24:13.889
+We have a term by itself, so we
+should definitely start with that.
+
+00:24:13.889 --> 00:24:15.360
+That will make our problem easier.
+
+00:24:15.899 --> 00:24:21.689
+However, how do we bridge the, the gut
+or the gap from coffee, which is grams?
+
+00:24:22.725 --> 00:24:24.225
+Or or how much, sorry,
+it's not even coffee.
+
+00:24:24.225 --> 00:24:25.545
+That's actually caffeine.
+
+00:24:25.605 --> 00:24:26.565
+Three grams of caffeine.
+
+00:24:26.565 --> 00:24:27.825
+It's not three grams of coffee.
+
+00:24:28.575 --> 00:24:30.225
+Uh, how would we bridge that gap?
+
+00:24:30.225 --> 00:24:34.455
+Well, being that two of these things
+are both caffeine, we're gonna have
+
+00:24:34.455 --> 00:24:37.545
+to go from caffeine to caffeine.
+
+00:24:37.935 --> 00:24:38.685
+That's our key.
+
+00:24:39.165 --> 00:24:41.145
+So we need to go from grams to milligrams.
+
+00:24:41.565 --> 00:24:43.455
+So why don't we define that for ourselves.
+
+00:24:43.995 --> 00:24:48.075
+Now, you can look it up in our
+handy dandy prefix tables, but
+
+00:24:48.435 --> 00:24:49.455
+I will write it down for us.
+
+00:24:49.455 --> 00:24:50.325
+One gram.
+
+00:24:50.790 --> 00:24:53.400
+It's 1000 milligrams.
+
+00:24:53.850 --> 00:24:56.640
+So we have another conversion
+term for ourselves.
+
+00:24:57.630 --> 00:24:59.850
+So we can choose whichever
+one will help us later.
+
+00:25:01.140 --> 00:25:05.100
+So when we start this down, uh,
+what we're gonna start with is
+
+00:25:05.100 --> 00:25:10.560
+the term that is by itself, which
+is a three grams of caffeine.
+
+00:25:11.160 --> 00:25:13.980
+We have three grams and that's caffeine.
+
+00:25:16.395 --> 00:25:18.315
+Then we will com use the mil.
+
+00:25:18.315 --> 00:25:20.595
+We will convert that to
+milligrams for ourselves.
+
+00:25:20.775 --> 00:25:24.885
+So what we said was one
+gram is a thousand mg.
+
+00:25:25.754 --> 00:25:27.465
+And then we see, alright,
+that canceled out.
+
+00:25:27.465 --> 00:25:28.095
+Great.
+
+00:25:29.835 --> 00:25:33.885
+Now what we will do is use that
+conversion term that was up top, right?
+
+00:25:33.889 --> 00:25:37.335
+So the 21.5 uh, milligrams,
+we're gonna use that one there.
+
+00:25:38.295 --> 00:25:46.065
+So when we use that, The 21.5 milligrams
+will cancel out two things here.
+
+00:25:46.065 --> 00:25:50.985
+So look at this just to see for when
+you do stoichiometry, this is useful.
+
+00:25:51.735 --> 00:25:54.375
+So the milligrams cancels the milligrams.
+
+00:25:55.050 --> 00:25:58.860
+And then the word caffeine will
+cancel the labeling for caffeine.
+
+00:25:59.220 --> 00:26:00.450
+So all gets canceled.
+
+00:26:00.450 --> 00:26:03.390
+You can do that where you can
+cancel it in multiple places
+
+00:26:03.750 --> 00:26:05.250
+as long as it's all top bottom.
+
+00:26:05.250 --> 00:26:05.940
+So keep that in mind.
+
+00:26:05.940 --> 00:26:07.560
+And they do not have to
+be next to each other.
+
+00:26:07.710 --> 00:26:12.390
+You can cancel across a problem, which
+is really, really useful skill to know.
+
+00:26:13.170 --> 00:26:14.820
+Alright, and that's for every ounce.
+
+00:26:15.960 --> 00:26:17.760
+And I'll, I'm gonna shorten
+that for ounce, right?
+
+00:26:17.760 --> 00:26:18.930
+So it's, Oz is an ounce.
+
+00:26:19.620 --> 00:26:20.730
+So now the last step.
+
+00:26:21.315 --> 00:26:25.155
+For this type of problem is
+that eight ounces is per cup.
+
+00:26:25.155 --> 00:26:31.305
+So we have eight ounces is one cup,
+and let me move all this a little over.
+
+00:26:32.745 --> 00:26:38.445
+So when we do that right, we'll see
+the ounces, we'll cancel ounces,
+
+00:26:39.075 --> 00:26:40.245
+then we'll be left with cups.
+
+00:26:40.485 --> 00:26:43.995
+So we'll multiply everything
+on top and then we'll divide
+
+00:26:43.995 --> 00:26:45.075
+by the things on the bottom.
+
+00:26:45.135 --> 00:26:46.635
+So we have three times 1000.
+
+00:26:47.265 --> 00:26:49.725
+It equals divide by 21.5.
+
+00:26:50.025 --> 00:26:50.565
+It equals.
+
+00:26:50.985 --> 00:26:54.014
+And divide by eight when you do that.
+
+00:26:54.014 --> 00:26:54.254
+Right.
+
+00:26:54.254 --> 00:26:58.035
+This problem has to be in three
+sig figs based on the numbers given
+
+00:26:58.035 --> 00:27:05.895
+to us in the beginning, and what
+we will get is 17.4 cups of coffee
+
+00:27:06.375 --> 00:27:08.445
+with lead to a student getting sick.
+
+00:27:08.655 --> 00:27:09.435
+That's a lot of coffee.
+
+00:27:09.435 --> 00:27:12.405
+Hopefully you're not drinking that much
+in a day during your semesters or at work.
+
+00:27:12.885 --> 00:27:14.415
+Um, but 17.4.
+
+00:27:15.210 --> 00:27:15.710
+All right.
+
+00:27:15.810 --> 00:27:19.320
+That's how you do these hard word
+problems with our final takeaways.
+
+00:27:19.440 --> 00:27:22.170
+What we are gonna be doing in
+these different problems is
+
+00:27:22.170 --> 00:27:25.770
+we are always looking for the
+given pieces of information.
+
+00:27:26.610 --> 00:27:30.480
+We look for sentences with two
+quantities or conversions, so we can
+
+00:27:30.480 --> 00:27:31.830
+write down all these little givens.
+
+00:27:32.700 --> 00:27:35.760
+You'll then have to map out how
+to go from one unit to the other.
+
+00:27:35.760 --> 00:27:37.470
+This might require prefixes.
+
+00:27:37.770 --> 00:27:41.190
+Those are a big hint if
+you see similar units.
+
+00:27:41.745 --> 00:27:43.785
+Same thing going from us to metric.
+
+00:27:43.875 --> 00:27:47.355
+We might see the same thing to pay
+attention to your measurements.
+
+00:27:47.355 --> 00:27:48.465
+Are they all masses?
+
+00:27:48.765 --> 00:27:49.965
+Are they all volumes?
+
+00:27:50.385 --> 00:27:51.165
+Are they length?
+
+00:27:51.375 --> 00:27:52.275
+Are they the same?
+
+00:27:52.725 --> 00:27:53.415
+They will help you.
+
+00:27:54.225 --> 00:27:58.635
+If you need to read the problem
+slowly to find what you need, don't
+
+00:27:58.635 --> 00:28:01.035
+feel like if you read it once,
+you're like, oh, I didn't find it.
+
+00:28:01.425 --> 00:28:02.805
+Go word by word.
+
+00:28:03.015 --> 00:28:06.045
+When I say problems, I say
+them out loud all the time.
+
+00:28:06.375 --> 00:28:09.315
+If you're sitting at your desk, you
+can say it to yourself just quietly.
+
+00:28:09.615 --> 00:28:12.825
+If that helps you do it, don't
+worry about the people next to you.
+
+00:28:12.825 --> 00:28:15.045
+Unless your teacher starts
+yelling at you, that's different.
+
+00:28:15.435 --> 00:28:18.555
+But if you need to kind of
+word it to yourself, do it.
+
+00:28:18.585 --> 00:28:19.485
+Help yourself.
+
+00:28:20.129 --> 00:28:24.389
+Uh, let those units guide you
+in your thinking because those
+
+00:28:24.389 --> 00:28:27.450
+comment units, they'll, they'll,
+they'll all have to cancel, right?
+
+00:28:27.750 --> 00:28:28.830
+Opposites cancel.
+
+00:28:29.520 --> 00:28:30.300
+Look for those.
+
+00:28:30.389 --> 00:28:32.760
+Now, the last tip is don't
+start with a conversion.
+
+00:28:32.790 --> 00:28:34.170
+That's not all the time.
+
+00:28:34.590 --> 00:28:36.060
+There are exceptions to that.
+
+00:28:36.480 --> 00:28:39.420
+If you were given a problem
+with only conversion factors,
+
+00:28:39.899 --> 00:28:41.460
+then okay, you have no choice.
+
+00:28:42.060 --> 00:28:45.344
+If that's the case, The hint I
+can give you is make sure the
+
+00:28:45.344 --> 00:28:48.645
+unit that you desire is on top.
+
+00:28:48.645 --> 00:28:48.945
+Okay?
+
+00:28:48.945 --> 00:28:52.695
+So you want it on top, so that way
+on the final part of the problem,
+
+00:28:52.695 --> 00:28:55.574
+it's still up there so you can
+just cancel the other units out.
+
+00:28:56.054 --> 00:29:00.375
+So start with whatever you want, where
+it needs to be in the final answer.
+
+00:29:00.824 --> 00:29:01.695
+That makes sense.
+
+00:29:02.415 --> 00:29:05.804
+Um, and if some that's something you
+wanna see future videos on, let me know.
+
+00:29:05.804 --> 00:29:09.254
+I can try to make a practice
+problem video on it now.
+
+00:29:09.260 --> 00:29:12.645
+So dimensional analysis is,
+Kind of with Bill Nye right?
+
+00:29:12.645 --> 00:29:15.165
+Ending with that, who's one of
+the best scientists out there
+
+00:29:15.165 --> 00:29:17.955
+when it comes to teaching camp,
+teaching all, all the science.
+
+00:29:18.585 --> 00:29:20.085
+It's right when the units cancel.
+
+00:29:20.090 --> 00:29:21.315
+It's, it is simple as that.
+
+00:29:21.375 --> 00:29:25.635
+That's not a direct quote, but it's
+all about just canceling the units.
+
+00:29:25.875 --> 00:29:29.355
+Let the units guide you, and
+I hope this video helped.
+
+00:29:29.820 --> 00:29:33.990
+We'll try to make more of these math
+videos in the future and please hit
+
+00:29:33.990 --> 00:29:37.050
+that like and subscribe button, help
+support the channel and help it grow.
+
+00:29:37.050 --> 00:29:40.260
+It's been growing and thank you so
+much for all, for all that support.
+
+00:29:40.650 --> 00:29:41.670
+I'll see y'all next time.
+
+00:29:41.700 --> 00:29:42.390
+This has been Dr.
+
+00:29:42.390 --> 00:29:44.130
+Dan and I will see you later.
+

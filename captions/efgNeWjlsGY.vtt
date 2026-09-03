@@ -1,0 +1,1764 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:04.220
+Hello and welcome back to another
+video with ItsDrDan and today we're
+
+00:00:04.220 --> 00:00:08.590
+going to be going through the tips and
+tricks for solving gas law problems.
+
+00:00:08.969 --> 00:00:12.109
+And one thing that you might have
+realized is that while learning all
+
+00:00:12.110 --> 00:00:16.149
+these gas laws, there are a lot of
+them and it's really difficult to
+
+00:00:16.149 --> 00:00:17.949
+try to keep your brain straight.
+
+00:00:18.255 --> 00:00:21.945
+When you are trying to solve
+all these difficult problems.
+
+00:00:22.285 --> 00:00:24.965
+So what we're going to go through
+in this video is the tips and tricks
+
+00:00:24.974 --> 00:00:29.894
+of how to essentially organize
+your brain and how to do this.
+
+00:00:30.235 --> 00:00:33.254
+The very first thing we are going
+to be doing is while solving these
+
+00:00:33.264 --> 00:00:36.194
+problems is we need to stay organized.
+
+00:00:36.474 --> 00:00:39.105
+Therefore, you stay organized, you
+get a good grade, which is exactly
+
+00:00:39.105 --> 00:00:40.845
+what we want in a chemistry course.
+
+00:00:41.485 --> 00:00:44.735
+So when we are staying organized,
+what are we going to do?
+
+00:00:45.015 --> 00:00:50.334
+Well, we need to write down what are given
+and our desired terms are in the problem.
+
+00:00:50.705 --> 00:00:55.844
+So when we look at a word problem,
+we need to go word by word, sentence
+
+00:00:55.844 --> 00:01:00.275
+by sentence, and try to highlight and
+pick out all the key numbers and terms
+
+00:01:00.544 --> 00:01:05.315
+that are being said in the problem and
+look for little clues that are, that
+
+00:01:05.315 --> 00:01:07.315
+are being hinted along the way of it.
+
+00:01:07.895 --> 00:01:09.295
+Now, why is that important?
+
+00:01:09.305 --> 00:01:12.574
+Well, one thing we're trying to do
+is we need to be able to match those
+
+00:01:12.595 --> 00:01:16.355
+given terms to To the formulas that
+are being given, meaning you've
+
+00:01:16.355 --> 00:01:20.415
+got to try to fit the puzzle pieces
+together that we are being given.
+
+00:01:20.735 --> 00:01:24.514
+Because one thing you might have
+realized is that with gas laws and
+
+00:01:24.515 --> 00:01:29.575
+specifically the chapters going
+over that there are close to a dozen
+
+00:01:29.575 --> 00:01:31.394
+formulas that you have come across.
+
+00:01:31.700 --> 00:01:36.530
+And it can be quite overwhelming to
+figure out which one is the right choice.
+
+00:01:36.840 --> 00:01:37.820
+So we're going to go through that.
+
+00:01:38.160 --> 00:01:40.460
+We're going to look at all
+those guest laws from my
+
+00:01:40.460 --> 00:01:42.090
+previous videos on guest laws.
+
+00:01:42.100 --> 00:01:45.830
+So if you haven't covered those yet,
+I would recommend going back to those
+
+00:01:46.070 --> 00:01:49.660
+first before going through these ones,
+because they are tougher examples.
+
+00:01:49.979 --> 00:01:50.299
+All right.
+
+00:01:50.530 --> 00:01:53.380
+So let's take a look at our guest
+laws and let's go through some
+
+00:01:53.380 --> 00:01:54.810
+different problems with them as well.
+
+00:02:00.010 --> 00:02:05.189
+With the guest laws, there are two
+major categories of guest laws.
+
+00:02:05.695 --> 00:02:10.395
+So when you first started this, so in my
+part one video, I talked about Boyle's
+
+00:02:10.414 --> 00:02:13.165
+Law, Charles Law, and Gay Lussac's Law.
+
+00:02:13.755 --> 00:02:18.905
+Afterwards, on part two, I talked about
+Avogadro's and the Combined Gas Law.
+
+00:02:19.394 --> 00:02:24.644
+Now, with all of these, right, there's a
+lot of formulas that are involved here.
+
+00:02:25.125 --> 00:02:27.665
+So how do you figure out which one to use?
+
+00:02:27.685 --> 00:02:32.295
+Well, the big thing is, Is keeping
+in mind that they are, we have to
+
+00:02:32.305 --> 00:02:33.955
+be organized, write down our givens.
+
+00:02:33.985 --> 00:02:38.054
+Now, what makes all these
+formulas similar to one another?
+
+00:02:38.065 --> 00:02:39.674
+What is the big thing?
+
+00:02:40.065 --> 00:02:43.545
+So especially when we compare
+these to the ideal gas law,
+
+00:02:43.555 --> 00:02:45.285
+which is a little different.
+
+00:02:45.774 --> 00:02:47.654
+So what makes these so different?
+
+00:02:47.665 --> 00:02:50.965
+Well, the secret is in the subscripts.
+
+00:02:51.345 --> 00:02:54.665
+So one thing is that you see here
+is that there are a bunch of ones
+
+00:02:54.665 --> 00:02:56.484
+and twos written on the screen.
+
+00:02:56.484 --> 00:02:56.545
+Okay.
+
+00:02:56.900 --> 00:02:59.960
+And that is telling you that
+the system or the gases that
+
+00:02:59.960 --> 00:03:02.180
+you're observing are changing.
+
+00:03:02.540 --> 00:03:07.130
+So being that they are changing,
+this is giving us a hint of
+
+00:03:07.140 --> 00:03:09.890
+some sort of really big picture.
+
+00:03:09.899 --> 00:03:11.189
+What is increasing?
+
+00:03:11.199 --> 00:03:12.329
+What is decreasing?
+
+00:03:12.609 --> 00:03:14.119
+How's the system compressing?
+
+00:03:14.149 --> 00:03:15.189
+How's it expanding?
+
+00:03:15.520 --> 00:03:18.900
+All these little key words that
+we need to look at to be able
+
+00:03:18.900 --> 00:03:21.700
+to see how is there change.
+
+00:03:22.049 --> 00:03:27.420
+So if you see a different gas, balloon,
+or system, or piston, or whatever term
+
+00:03:27.709 --> 00:03:29.819
+changing, you're going to be using these.
+
+00:03:30.169 --> 00:03:33.510
+And you're going to notice that because
+you're going to have multiple pressure
+
+00:03:33.510 --> 00:03:38.279
+values given, multiple volumes, multiple
+temperatures, multiple moles, right?
+
+00:03:38.279 --> 00:03:40.530
+So you're looking for all those changes.
+
+00:03:40.540 --> 00:03:41.890
+So keep in mind for later.
+
+00:03:42.520 --> 00:03:46.440
+Now, in comparison, the other set
+of formulas, right, that wasn't
+
+00:03:46.450 --> 00:03:47.620
+all of them, it's like all God.
+
+00:03:48.285 --> 00:03:52.065
+There was the Ideal Gas Law,
+and then there's Dalton's Law.
+
+00:03:52.345 --> 00:03:57.704
+Now, for these two, one thing about them
+is that they don't reference change.
+
+00:03:58.015 --> 00:04:02.115
+These are referring to the
+current condition of the gas.
+
+00:04:02.655 --> 00:04:07.405
+Especially when you're looking at
+something like the Ideal Gas Law, Notice
+
+00:04:07.405 --> 00:04:14.685
+here that PV is equal to NRT, and there's
+no subscripts by any of these values.
+
+00:04:15.084 --> 00:04:16.235
+So what is that telling you?
+
+00:04:16.235 --> 00:04:20.874
+It's asking you what is the
+current state of your gas, and
+
+00:04:20.875 --> 00:04:21.774
+that's the important thing.
+
+00:04:22.625 --> 00:04:24.864
+Now with Dalton's Law,
+you can be like, well, Dr.
+
+00:04:24.865 --> 00:04:28.375
+Dan, you just said that there's no
+subscripts here and there's a bunch here.
+
+00:04:28.825 --> 00:04:32.685
+Well, this is referring to many
+gases all shoved in the same balloon
+
+00:04:32.695 --> 00:04:34.355
+or same environment that you're in.
+
+00:04:34.705 --> 00:04:36.964
+Think of your room, for
+example, that you're in.
+
+00:04:37.414 --> 00:04:38.545
+You're breathing air.
+
+00:04:38.605 --> 00:04:39.655
+What is air made out of?
+
+00:04:39.655 --> 00:04:39.855
+Right?
+
+00:04:39.855 --> 00:04:40.705
+It's oxygen.
+
+00:04:40.745 --> 00:04:43.905
+What you need to breathe, but you're
+in a nitrogen rich atmosphere.
+
+00:04:43.905 --> 00:04:48.604
+So there's nitrogen, oxygen, CO2,
+and all the other aromas and odors
+
+00:04:48.604 --> 00:04:50.065
+that surround you at all times.
+
+00:04:50.484 --> 00:04:52.074
+Those are all the gases.
+
+00:04:52.495 --> 00:04:55.945
+But you can kind of see that
+the total of each of these.
+
+00:04:56.280 --> 00:04:59.530
+is referring to the current
+situation that you're looking at.
+
+00:04:59.770 --> 00:05:00.550
+So there's a difference.
+
+00:05:00.960 --> 00:05:05.539
+You have current, and then you have how
+it's going from one state to another.
+
+00:05:07.150 --> 00:05:09.549
+What we're going to be doing is
+we're going to be going through these
+
+00:05:09.550 --> 00:05:14.980
+different, some harder problems to
+try to identify and how I would think
+
+00:05:14.990 --> 00:05:16.569
+about going through these problems.
+
+00:05:16.999 --> 00:05:17.829
+Let's take a look.
+
+00:05:17.830 --> 00:05:18.050
+All right.
+
+00:05:18.050 --> 00:05:21.080
+The first problem is all
+about being organized.
+
+00:05:21.420 --> 00:05:22.410
+So, what is it?
+
+00:05:22.520 --> 00:05:23.230
+Let's take a look.
+
+00:05:23.550 --> 00:05:28.890
+Well, it says if 10 liter, a 10
+liter balloon at STP has its pressure
+
+00:05:28.970 --> 00:05:34.105
+increased, Two atmospheres and it's
+temperatures increased 300 Kelvin.
+
+00:05:34.495 --> 00:05:36.305
+Then what is the new volume?
+
+00:05:36.365 --> 00:05:40.545
+Now looking at this problem,
+that is a lot to unpack.
+
+00:05:40.835 --> 00:05:42.735
+So let's take a look at what is here.
+
+00:05:43.085 --> 00:05:46.205
+Well, the first term, what it tells you
+as we go through the problem, it says
+
+00:05:46.244 --> 00:05:50.065
+a 10 liter balloon leader is a volume.
+
+00:05:50.435 --> 00:05:53.285
+So the first thing we want to
+do is write down our volume,
+
+00:05:53.545 --> 00:05:55.975
+which we have as 10 liters.
+
+00:05:55.985 --> 00:06:01.100
+we Now, the next part that it
+mentions is that, oh, it's an S T P.
+
+00:06:01.400 --> 00:06:02.450
+Now, what was that?
+
+00:06:02.780 --> 00:06:06.950
+S T P is a standardized
+temperature and pressure.
+
+00:06:07.290 --> 00:06:12.300
+So it's telling you it's at that
+current condition and its condition
+
+00:06:12.310 --> 00:06:17.020
+in this case is referring to what is
+the standard temperature and pressure.
+
+00:06:17.500 --> 00:06:20.979
+So the standard temperature is two
+hundred and seventy three degrees.
+
+00:06:21.390 --> 00:06:26.050
+Kelvin, and the pressure
+is one atmosphere, so we're
+
+00:06:26.050 --> 00:06:26.950
+going to write that down.
+
+00:06:27.710 --> 00:06:32.470
+Now the next part says that it
+has been increased, okay, there's
+
+00:06:32.470 --> 00:06:35.070
+that key, one of those key words
+that I was mentioning earlier.
+
+00:06:35.490 --> 00:06:39.260
+The word increase, so we can see
+that in a couple places in this
+
+00:06:39.270 --> 00:06:44.250
+problem, what that's referring to
+is that the conditions are changing.
+
+00:06:44.660 --> 00:06:47.949
+So meaning we're going to be using
+one of our earlier gas laws, right?
+
+00:06:47.950 --> 00:06:50.540
+So one of the ones that we
+have a condition change.
+
+00:06:51.320 --> 00:06:54.019
+So what it tells you is that
+the pressure was increased.
+
+00:06:54.019 --> 00:06:57.139
+So okay, so we're going to have in
+this problem, we're going to have
+
+00:06:57.140 --> 00:07:03.129
+P2, which tells you, oh, this is
+going to two atmospheres as a result.
+
+00:07:03.129 --> 00:07:04.870
+So that's going to be changing.
+
+00:07:05.594 --> 00:07:10.245
+Now it also mentions that the
+temperature increased to 300
+
+00:07:10.265 --> 00:07:12.094
+Kelvin, so that also increased.
+
+00:07:12.750 --> 00:07:16.910
+And then ask you, okay, well,
+what is your new volume?
+
+00:07:16.930 --> 00:07:20.660
+So being organized, we're
+writing down all of our values.
+
+00:07:20.990 --> 00:07:22.760
+You need to write them down.
+
+00:07:22.770 --> 00:07:23.620
+That's crucial.
+
+00:07:24.169 --> 00:07:26.479
+So which formula will this match to?
+
+00:07:26.480 --> 00:07:29.310
+So you're going to go through your list
+and you're looking for, well, which
+
+00:07:29.310 --> 00:07:31.440
+one of these uses three variables?
+
+00:07:31.500 --> 00:07:35.640
+And one thing you're going to realize
+is that your, uh, your, um, combined
+
+00:07:35.690 --> 00:07:40.330
+gas law, the original version tells you,
+okay, here we have all these variables.
+
+00:07:40.680 --> 00:07:45.510
+So we're going to use it and plug
+our variables in to solve it.
+
+00:07:45.930 --> 00:07:49.310
+Now I know a lot of students are
+not the most comfortable with
+
+00:07:49.320 --> 00:07:55.900
+rearranging a math problem, but it
+does make the math a lot easier.
+
+00:07:56.290 --> 00:08:00.740
+If we do that, how exactly
+can we rearrange it?
+
+00:08:01.290 --> 00:08:06.800
+Well, first thing is, is we can try to,
+we got to get volume by itself on the
+
+00:08:06.800 --> 00:08:14.140
+right hand So the way we can do that is
+essentially multiply the left, or sorry,
+
+00:08:14.169 --> 00:08:21.360
+the right hand side and the left by the
+inverse of pieces we don't need, which
+
+00:08:21.390 --> 00:08:25.099
+are pressure and temperature on the right.
+
+00:08:25.349 --> 00:08:28.419
+We'll do the same thing on the left, okay?
+
+00:08:29.089 --> 00:08:33.320
+And then as a result, what's going to
+happen is the pressure is going to cancel,
+
+00:08:34.059 --> 00:08:39.780
+temperature is also going to cancel, so
+what that's going to leave us with is
+
+00:08:39.789 --> 00:08:41.339
+the only thing that we need essentially.
+
+00:08:41.830 --> 00:08:44.290
+care about here is the volume.
+
+00:08:44.460 --> 00:08:44.820
+All right.
+
+00:08:44.830 --> 00:08:46.550
+So we'll have only the volume here.
+
+00:08:47.100 --> 00:08:50.970
+We can kind of move this guy
+around for ourselves, make it a
+
+00:08:50.970 --> 00:08:52.690
+little bit easier to work with.
+
+00:08:53.650 --> 00:08:59.089
+And we are now going to plug our,
+our values into this new formula.
+
+00:08:59.900 --> 00:09:01.550
+So, okay, let's do it.
+
+00:09:01.989 --> 00:09:06.830
+So we have on the left, we have
+300 Kelvin, and that's going to
+
+00:09:06.830 --> 00:09:10.110
+be divided by two atmospheres.
+
+00:09:10.510 --> 00:09:16.189
+Notice how we're trying to be organized,
+plug in our different values, and that's
+
+00:09:16.189 --> 00:09:22.029
+going to be multiplied by the original
+left side, which is your pressure of
+
+00:09:22.030 --> 00:09:30.669
+1 atmosphere times your volume, which
+is 10 liters, and we're going to be
+
+00:09:30.670 --> 00:09:35.254
+dividing all of that by 273 kelvins.
+
+00:09:35.655 --> 00:09:40.295
+And you want to double check yourself that
+you are putting down all of these values.
+
+00:09:40.655 --> 00:09:43.204
+You want to make sure you don't
+accidentally leave anything out just
+
+00:09:43.224 --> 00:09:45.214
+because it is really easy to do so.
+
+00:09:45.854 --> 00:09:51.285
+So once we put that on our calculator, we
+can also kind of put all this together.
+
+00:09:51.304 --> 00:09:54.834
+If it helps you see that, oh,
+all this is one big fraction as
+
+00:09:54.834 --> 00:09:56.834
+well, just like this, boop, boop.
+
+00:09:56.864 --> 00:09:58.635
+We'll just multiply all
+those little pieces.
+
+00:09:58.635 --> 00:10:02.585
+So if we multiply the
+top, it's 300 times 100.
+
+00:10:03.000 --> 00:10:08.069
+1 times 10, and then we're going
+to divide that by 2 times 273,
+
+00:10:08.760 --> 00:10:13.930
+and when all that happens, what
+we will get for volume 2 is 5.
+
+00:10:14.079 --> 00:10:19.229
+49 liters is equal to the second volume.
+
+00:10:19.829 --> 00:10:21.940
+Now does that make sense?
+
+00:10:21.979 --> 00:10:25.939
+Well we can look at our values,
+and if you remember, pressure
+
+00:10:25.959 --> 00:10:27.569
+and temperature increase.
+
+00:10:27.970 --> 00:10:30.900
+And pressure and volume, they
+are opposites of each other.
+
+00:10:30.900 --> 00:10:32.180
+So the pressure increases.
+
+00:10:32.565 --> 00:10:34.905
+the volume should decrease as a result.
+
+00:10:35.205 --> 00:10:37.095
+And that was a very substantial change.
+
+00:10:37.095 --> 00:10:40.145
+It was doubled, and you can see
+the volume is almost halved.
+
+00:10:40.465 --> 00:10:41.115
+That's a result.
+
+00:10:42.255 --> 00:10:43.855
+So this is doing the first one.
+
+00:10:44.255 --> 00:10:45.485
+Let's take a look at another.
+
+00:10:45.535 --> 00:10:48.574
+Well, the next important skill
+for how to solve these gas law
+
+00:10:48.585 --> 00:10:52.735
+or any math problem is how to
+understand the concept of a constant.
+
+00:10:53.455 --> 00:10:57.655
+So in these formulas, you can
+see that you have pressures and
+
+00:10:57.655 --> 00:10:59.615
+volumes and temperatures and moles.
+
+00:11:00.040 --> 00:11:01.720
+They're on both sides of the equation.
+
+00:11:02.199 --> 00:11:06.359
+Now when something is held
+constant, meaning that it's not
+
+00:11:06.650 --> 00:11:10.720
+changing, though, let's say it's
+one atmosphere on the left and it's
+
+00:11:10.720 --> 00:11:12.139
+still one atmosphere on the right.
+
+00:11:12.140 --> 00:11:14.280
+Well, that value never changed.
+
+00:11:14.659 --> 00:11:17.339
+So therefore it can be canceled out.
+
+00:11:17.880 --> 00:11:21.980
+So let's show an example of
+where that is, that is the case.
+
+00:11:22.340 --> 00:11:25.300
+Now the good news is, is if
+you remember, I showed you that
+
+00:11:25.300 --> 00:11:29.840
+there were about six different
+formulas, all involving subscripts.
+
+00:11:30.300 --> 00:11:34.239
+Now, if you understand the concept
+of constants, you can use the
+
+00:11:34.239 --> 00:11:40.089
+combined gas law to solve almost
+every single problem involving age.
+
+00:11:41.319 --> 00:11:42.869
+In this problem, I'll show you how.
+
+00:11:43.339 --> 00:11:47.699
+So if we have a glass jar at a constant
+volume, so keep that in mind, right?
+
+00:11:47.699 --> 00:11:49.839
+So let's kind of highlight
+that for ourselves.
+
+00:11:49.839 --> 00:11:54.580
+Constant volume with a leaky
+lid, and it contains 0.
+
+00:11:54.830 --> 00:11:56.920
+27 moles of air.
+
+00:11:57.359 --> 00:11:57.670
+Okay.
+
+00:11:58.435 --> 00:12:04.025
+Now, and this is going to be heated from
+room temperature to a hundred degrees C.
+
+00:12:04.025 --> 00:12:07.805
+So that con, uh, comment of
+heating tells you, Oh, the
+
+00:12:07.805 --> 00:12:08.785
+temperature is going to go up.
+
+00:12:09.475 --> 00:12:14.395
+Now it also says that you have a constant
+pressure, so pressure's not changing.
+
+00:12:15.114 --> 00:12:17.545
+How many moles are left in your jar?
+
+00:12:17.995 --> 00:12:18.745
+Okay.
+
+00:12:19.015 --> 00:12:22.835
+So what formula are we going to
+use here when this is happening?
+
+00:12:23.200 --> 00:12:25.220
+Let's also kind of list out what we have.
+
+00:12:25.870 --> 00:12:32.100
+So in this problem, we
+have that N1 is equal to 0.
+
+00:12:32.220 --> 00:12:34.220
+27 moles.
+
+00:12:34.860 --> 00:12:40.870
+We want to know what N2 is, and
+then we were given two temperatures.
+
+00:12:40.870 --> 00:12:48.640
+So we had 22 degrees Celsius, and
+then T2 was 100 degrees Celsius.
+
+00:12:49.280 --> 00:12:52.299
+Now the thing is about gas
+laws, you have to remember what
+
+00:12:52.330 --> 00:12:54.200
+units can temperature be in.
+
+00:12:54.650 --> 00:12:56.420
+It has to be in Kelvin.
+
+00:12:56.829 --> 00:12:59.319
+So let's quick convert these to Kelvin.
+
+00:12:59.319 --> 00:13:04.770
+So quick conversion is add 2 73
+to each of your Celsius numbers.
+
+00:13:05.210 --> 00:13:08.810
+So what we're going to get in terms
+of Kelvin here, so we'll use a
+
+00:13:08.810 --> 00:13:16.080
+different color, is we have, uh,
+two 90, uh, 2 95 kelvin for T one,
+
+00:13:16.650 --> 00:13:20.310
+and then T two is going to be 3 73.
+
+00:13:21.380 --> 00:13:22.700
+So to do our quick conversion.
+
+00:13:24.655 --> 00:13:28.444
+There is no quite formula that matches
+this based on what we had before.
+
+00:13:28.775 --> 00:13:31.605
+If you remember from earlier,
+we had the following different
+
+00:13:31.615 --> 00:13:36.045
+formulas, and none of them talk
+about pressure and moles together.
+
+00:13:36.584 --> 00:13:38.834
+Or sorry, not pressure and
+moles, temperature and moles.
+
+00:13:39.245 --> 00:13:43.184
+You see pressure and temperature,
+volume and moles, volume and
+
+00:13:43.184 --> 00:13:45.015
+temperature, none of them cover that.
+
+00:13:45.314 --> 00:13:46.844
+So what can we use?
+
+00:13:47.285 --> 00:13:51.575
+Well, the only thing that has both those
+terms is this combined gas law that has
+
+00:13:51.575 --> 00:13:56.355
+no specific assumptions to it, meaning
+it's the expanded combined gas law.
+
+00:13:56.355 --> 00:13:57.285
+It has moles in it.
+
+00:13:57.325 --> 00:13:58.414
+It's an extra part.
+
+00:13:58.885 --> 00:14:00.515
+So let's take a look
+at how we can use that.
+
+00:14:00.564 --> 00:14:04.224
+So we're going to be using
+this expanded gas law to show
+
+00:14:04.234 --> 00:14:06.345
+how we can take out constants.
+
+00:14:06.810 --> 00:14:12.020
+So in the problem, it told you that
+pressure and volume are constant,
+
+00:14:12.670 --> 00:14:15.140
+meaning that they're not changing.
+
+00:14:15.140 --> 00:14:21.069
+So there is no, essentially there's
+no subscript for pressure and volume.
+
+00:14:21.069 --> 00:14:24.100
+So we can actually kind of delete those.
+
+00:14:24.589 --> 00:14:29.040
+And when we show this problem,
+well, if they are the same.
+
+00:14:29.605 --> 00:14:31.965
+They're going to cancel each other out.
+
+00:14:32.465 --> 00:14:35.525
+So what we can actually do is
+instead of putting pressure and
+
+00:14:35.535 --> 00:14:40.955
+volume going to be the equivalent
+of having a one on top because
+
+00:14:40.955 --> 00:14:43.325
+they're this, they're the same value.
+
+00:14:43.565 --> 00:14:45.824
+We don't know what the value
+is, but you know that they're
+
+00:14:45.825 --> 00:14:47.794
+the same because it's constant.
+
+00:14:48.694 --> 00:14:54.135
+So now this formula here isn't
+quite usable the way it is.
+
+00:14:54.615 --> 00:14:59.255
+What we can do is to make it
+usable is take the reciprocal
+
+00:14:59.454 --> 00:15:04.374
+or the inverse, meaning flip the
+fraction to put it in a usable form.
+
+00:15:04.724 --> 00:15:06.554
+So what does that flip fraction look like?
+
+00:15:06.554 --> 00:15:13.204
+Well, simply get rid of the one over TT
+two and RT one and one and T two and two.
+
+00:15:13.705 --> 00:15:16.125
+We have our new formula,
+which is just this.
+
+00:15:16.625 --> 00:15:18.055
+We got rid of everything else.
+
+00:15:18.444 --> 00:15:21.725
+You can do this with any
+problem involving change.
+
+00:15:21.725 --> 00:15:23.284
+You can get rid of the constants.
+
+00:15:24.864 --> 00:15:27.055
+From that, what do we want to solve for?
+
+00:15:27.064 --> 00:15:32.494
+Well, we want N2 by itself, so
+we'll divide both sides by T2,
+
+00:15:33.305 --> 00:15:38.990
+effectively moving it over, and
+therefore getting our new formula.
+
+00:15:40.180 --> 00:15:41.580
+So let's plug in our values.
+
+00:15:41.890 --> 00:15:48.290
+So T1 is 295 Kelvin and we are
+going to be multiplying that by 0.
+
+00:15:50.239 --> 00:15:51.530
+27 moles.
+
+00:15:52.680 --> 00:15:58.410
+And then we're going to
+divide that by 373 Kelvin.
+
+00:15:59.319 --> 00:16:03.990
+So now when that happens, what
+you're going to get is 295 times 0.
+
+00:16:03.990 --> 00:16:09.959
+27, divide that number
+by 373 and we will get 0.
+
+00:16:09.959 --> 00:16:11.099
+21 moles.
+
+00:16:11.544 --> 00:16:14.555
+of air is left in your jar.
+
+00:16:15.155 --> 00:16:17.834
+So we can make a new formula.
+
+00:16:17.844 --> 00:16:20.925
+And one thing to keep in mind too,
+is if you remember that relationship
+
+00:16:20.925 --> 00:16:24.435
+here, being there in an inverse
+relationship, as temperature
+
+00:16:24.444 --> 00:16:26.454
+increases, moles should go down.
+
+00:16:26.734 --> 00:16:29.024
+And it did, which is great to see.
+
+00:16:29.875 --> 00:16:33.505
+Let's take a look at some different
+skills to master in this video.
+
+00:16:33.565 --> 00:16:38.315
+The next skill that's going to be
+very useful is how to find molar mass.
+
+00:16:38.615 --> 00:16:40.705
+Now, why is this something
+that's so important?
+
+00:16:40.715 --> 00:16:45.774
+Well, it helps you to be able to
+identify what gas you have in that
+
+00:16:45.775 --> 00:16:48.025
+you can't usually see the gases.
+
+00:16:48.375 --> 00:16:51.895
+So you can measure what they're all
+about, but you might not be able to just
+
+00:16:51.895 --> 00:16:55.135
+identify by looking around you being
+like, Oh, what gas is all around my head.
+
+00:16:55.535 --> 00:16:58.075
+You have to be able to do
+calculations to solve that.
+
+00:16:58.655 --> 00:17:01.225
+So in this problem, I have 2.
+
+00:17:01.265 --> 00:17:07.734
+787 grams sample of gas, and it's
+found to occupy a volume of 2.
+
+00:17:07.735 --> 00:17:08.285
+45 liters.
+
+00:17:08.770 --> 00:17:11.829
+At 300 Kelvin and 1 atmosphere.
+
+00:17:12.180 --> 00:17:14.920
+We know that it's an elemental diatomic.
+
+00:17:15.569 --> 00:17:16.350
+Which one is it?
+
+00:17:16.600 --> 00:17:17.530
+Let's try to find out.
+
+00:17:18.079 --> 00:17:20.849
+So the first thing to think of is,
+well, when it comes to molar mass,
+
+00:17:20.880 --> 00:17:25.370
+which allows you to identify different
+substances, it's like the fingerprint
+
+00:17:25.380 --> 00:17:26.800
+for a lot of these molecules.
+
+00:17:27.400 --> 00:17:28.690
+It's one way to do that.
+
+00:17:28.820 --> 00:17:31.460
+So if I am to think of molar mass, right?
+
+00:17:31.470 --> 00:17:33.580
+Like that was grams over.
+
+00:17:34.140 --> 00:17:39.800
+Moles, well in this problem
+I have my grams, right?
+
+00:17:40.390 --> 00:17:45.590
+So the way that we could
+essentially solve this is I know 2.
+
+00:17:45.590 --> 00:17:45.609
+787 moles.
+
+00:17:46.040 --> 00:17:51.800
+grams on top, but I don't
+know my moles, which is N.
+
+00:17:52.390 --> 00:17:54.910
+So which formula can solve for moles?
+
+00:17:55.430 --> 00:17:57.599
+Well, this is where we'll
+use the ideal gas law.
+
+00:17:57.980 --> 00:17:59.350
+PV is equal to nRT.
+
+00:18:00.289 --> 00:18:03.959
+So being that is one thing you
+will notice is that this particular
+
+00:18:03.959 --> 00:18:06.430
+gas is at its current condition.
+
+00:18:06.830 --> 00:18:09.090
+Notice how there's no change involved.
+
+00:18:09.370 --> 00:18:12.960
+There's one volume, one
+pressure, one temperature.
+
+00:18:13.209 --> 00:18:14.500
+There's nothing else.
+
+00:18:14.980 --> 00:18:18.030
+So what we are going to end up
+doing is we are going to plug
+
+00:18:18.030 --> 00:18:20.410
+those values and solve for N.
+
+00:18:20.969 --> 00:18:26.889
+So we are going to rearrange the ideal gas
+law to get N by itself, and it's going to
+
+00:18:26.889 --> 00:18:31.829
+be pressure times volume divided by R T.
+
+00:18:32.779 --> 00:18:34.910
+So now what is R in case you're wondering?
+
+00:18:34.939 --> 00:18:36.969
+That's just a constant value.
+
+00:18:37.360 --> 00:18:41.590
+And we're going to use it that we got
+to always make sure the units match
+
+00:18:41.600 --> 00:18:43.800
+what we are being given in the problem.
+
+00:18:44.429 --> 00:18:46.239
+So if they don't match, you're
+going to get, you're going to
+
+00:18:46.240 --> 00:18:48.520
+be really sad because you're not
+going to get the correct answer.
+
+00:18:49.260 --> 00:18:52.929
+So our pressure is one atmosphere,
+so that's going to go on top.
+
+00:18:54.009 --> 00:18:56.659
+We have our volume, which is 2.
+
+00:18:56.719 --> 00:19:04.810
+45 liters, and that's going to
+be divided by R, which is 0.
+
+00:19:04.870 --> 00:19:05.129
+08206.
+
+00:19:07.135 --> 00:19:11.905
+And that has a very complex set of
+units, liter, atmosphere, mole, kelvin.
+
+00:19:12.675 --> 00:19:17.334
+And then that's going to be times
+temperature, which is 300 kelvin.
+
+00:19:18.750 --> 00:19:22.470
+Okay, now when we're putting this in
+our calculators, you need to make sure
+
+00:19:22.470 --> 00:19:26.960
+that you are either using the fraction
+button to separate top and bottom or use
+
+00:19:26.960 --> 00:19:29.210
+parentheses to separate them as well.
+
+00:19:30.069 --> 00:19:34.010
+So when we solve this, what we are
+going to get for the number of moles
+
+00:19:34.040 --> 00:19:37.579
+in the problem is a number around 0.
+
+00:19:37.579 --> 00:19:41.570
+0995 and then a bunch of
+decimals after that, and that's
+
+00:19:41.570 --> 00:19:43.740
+going to be units of moles.
+
+00:19:44.100 --> 00:19:46.399
+Now, does that match any molar mass?
+
+00:19:46.459 --> 00:19:47.899
+Well, we're not quite done, right?
+
+00:19:48.530 --> 00:19:53.539
+This number here has to, you
+have to plug it in to the value,
+
+00:19:53.629 --> 00:19:55.729
+to the term that we had above.
+
+00:19:56.315 --> 00:20:02.155
+So if we take this value from
+before, so we are going to
+
+00:20:02.385 --> 00:20:05.255
+plug in our new number for n.
+
+00:20:06.375 --> 00:20:09.475
+So let's take that and this
+will be grams over moles.
+
+00:20:10.655 --> 00:20:13.944
+And what, by putting these two
+things in your calculator, you're
+
+00:20:13.945 --> 00:20:15.710
+essentially Simplifying it.
+
+00:20:16.270 --> 00:20:17.190
+So we do 2.
+
+00:20:17.190 --> 00:20:23.900
+787 divide by 0995, hit enter,
+and what you are going to get is a
+
+00:20:23.900 --> 00:20:29.020
+value close to 28 grams per mole.
+
+00:20:29.639 --> 00:20:31.669
+Now which diatomic gas is this?
+
+00:20:31.939 --> 00:20:32.350
+Is it?
+
+00:20:32.459 --> 00:20:36.529
+Well, that's one thing you have to be
+able to remember, is your diatomics.
+
+00:20:36.929 --> 00:20:40.469
+And if you're not sure about them,
+watch my video on the seven diatomic
+
+00:20:40.570 --> 00:20:42.229
+gases, because it's very important.
+
+00:20:42.620 --> 00:20:44.930
+So let's take a look at
+the list of diatomics.
+
+00:20:45.009 --> 00:20:49.430
+Alright, if you remember my saying,
+have no fear of ice cold beer, you
+
+00:20:49.430 --> 00:20:51.900
+will never forget the seven diatomics.
+
+00:20:52.389 --> 00:20:54.340
+So diatomic means two.
+
+00:20:54.730 --> 00:21:00.405
+So being that we had a molar mass of 28
+grams per mole, we're So if you divide
+
+00:21:00.435 --> 00:21:02.655
+that number by 2, you will get 14.
+
+00:21:03.615 --> 00:21:06.235
+So which element matches 14?
+
+00:21:06.655 --> 00:21:07.844
+Well, it's not hydrogen.
+
+00:21:07.935 --> 00:21:09.764
+Oh, nitrogen is 14.
+
+00:21:10.114 --> 00:21:12.405
+So 14 times 2 is 28.
+
+00:21:12.875 --> 00:21:18.314
+So our diatomic in this case is N2 gas.
+
+00:21:18.825 --> 00:21:21.635
+And that will be our
+answer for this problem.
+
+00:21:22.165 --> 00:21:25.365
+So sometimes you got to try to
+solve the mystery of what gas
+
+00:21:25.385 --> 00:21:26.935
+can be located in our sample.
+
+00:21:27.274 --> 00:21:28.475
+So we did it this time.
+
+00:21:28.475 --> 00:21:30.065
+Let's see if we can do
+it again in the future.
+
+00:21:30.585 --> 00:21:32.725
+All right, let's go on
+to the next problem.
+
+00:21:32.804 --> 00:21:33.294
+Okay.
+
+00:21:33.295 --> 00:21:37.064
+Sometimes you will be given problems
+that involve diagrams and you have
+
+00:21:37.065 --> 00:21:40.325
+to be able to read what they're
+showing, especially when they show
+
+00:21:40.325 --> 00:21:42.835
+them in different atoms and molecules.
+
+00:21:43.235 --> 00:21:46.065
+And a lot of times they're
+referring to mixtures.
+
+00:21:46.580 --> 00:21:49.910
+So in this case, we have a mixture and
+it's sealed in this container that I have.
+
+00:21:50.270 --> 00:21:53.110
+Let's use a diagram to answer
+the following questions.
+
+00:21:53.810 --> 00:21:56.750
+So the first thing is you can see
+that in this purple vial here,
+
+00:21:56.750 --> 00:21:58.240
+I have four different gases.
+
+00:21:58.750 --> 00:22:01.390
+And the first thing I ask
+you is, okay, which gas has
+
+00:22:01.399 --> 00:22:03.520
+the highest partial pressure?
+
+00:22:03.809 --> 00:22:05.159
+Well, how can we do that?
+
+00:22:05.620 --> 00:22:08.940
+Well, this is where Dalton's
+law comes into play.
+
+00:22:09.504 --> 00:22:12.695
+Dalton's law had two different formulas
+that were really important, right?
+
+00:22:12.705 --> 00:22:16.845
+If you add up every pressure of each
+gas, you will get the total pressure.
+
+00:22:17.534 --> 00:22:18.484
+Same thing about moles.
+
+00:22:18.485 --> 00:22:21.664
+If you add the moles of each
+individual gas, being that they're
+
+00:22:21.735 --> 00:22:26.354
+indistinguishable particles from one
+another, you can't just count all the
+
+00:22:26.354 --> 00:22:29.494
+little air molecules around you and
+figure out what's nitrogen, oxygen.
+
+00:22:29.824 --> 00:22:31.844
+You just know what the
+pressure of your room is.
+
+00:22:31.864 --> 00:22:34.894
+You don't know what's each,
+but we can try to calculate it.
+
+00:22:34.964 --> 00:22:35.824
+We can approximate.
+
+00:22:36.560 --> 00:22:42.520
+So based on that, what that means is,
+well, whichever molecule has the most
+
+00:22:42.590 --> 00:22:45.969
+moles is exuding your highest pressure.
+
+00:22:46.490 --> 00:22:49.629
+So what we need to simply do
+in these types of problems
+
+00:22:49.850 --> 00:22:52.040
+is count what we have, right?
+
+00:22:52.079 --> 00:22:53.420
+As if you could count.
+
+00:22:53.889 --> 00:22:57.510
+So if we count the number of oxygens
+here, we're going to count each
+
+00:22:57.530 --> 00:22:59.230
+individual one of these little orbs here.
+
+00:22:59.230 --> 00:23:04.390
+So you see a one, two, three,
+four, five, six, seven red oxygens.
+
+00:23:05.370 --> 00:23:06.310
+So we are going to put a.
+
+00:23:08.190 --> 00:23:13.260
+For nitrogen or ammonia, we have
+one, two, three, four, five.
+
+00:23:13.450 --> 00:23:17.200
+We will put a five here for HCL gas.
+
+00:23:17.230 --> 00:23:22.209
+We have one, two, three,
+four, five as well.
+
+00:23:22.889 --> 00:23:30.019
+And then neon, which is our purple,
+we have one, two, three, four in our
+
+00:23:30.539 --> 00:23:35.740
+molecule here in our different, uh,
+our number of Forbes that we have.
+
+00:23:36.120 --> 00:23:36.409
+All right.
+
+00:23:36.409 --> 00:23:38.560
+So which one is the highest?
+
+00:23:38.929 --> 00:23:43.470
+Well, being that oxygen has the
+most, this is, this is having the
+
+00:23:43.470 --> 00:23:45.669
+most pressure out of all of them.
+
+00:23:46.260 --> 00:23:52.600
+So oxygen will be the most, the least
+amount of pressure would be neon because
+
+00:23:52.600 --> 00:23:54.850
+it has the lowest number of moles.
+
+00:23:55.430 --> 00:23:57.690
+So O2 is our answer.
+
+00:23:58.309 --> 00:23:59.410
+Now let's go on to another one.
+
+00:24:00.139 --> 00:24:06.730
+So if we assume each gas particle is
+one mole, what is the mole fraction NH3?
+
+00:24:07.515 --> 00:24:11.165
+Well, okay, so mole fraction,
+what is that referring to?
+
+00:24:11.615 --> 00:24:17.245
+Well, if you look at this formula here,
+where partial pressure is equal to the
+
+00:24:17.245 --> 00:24:24.625
+total pressure times n one, n I over n
+total, what this part is in parentheses
+
+00:24:24.635 --> 00:24:28.805
+here, this is your mole fraction.
+
+00:24:29.085 --> 00:24:29.295
+Okay.
+
+00:24:29.295 --> 00:24:31.725
+So mole fraction.
+
+00:24:32.530 --> 00:24:39.560
+And usually the way that this guy is,
+is labeled is with the Greek letter I to
+
+00:24:39.560 --> 00:24:42.620
+represent that you have a mole fraction.
+
+00:24:42.620 --> 00:24:47.110
+So if you ever see that, like that fancy
+looking X, that's telling you, Hey,
+
+00:24:47.179 --> 00:24:49.200
+this is talking about the mole fraction.
+
+00:24:49.819 --> 00:24:53.030
+So the way it is, is if you remember
+before I counted everything for us.
+
+00:24:53.490 --> 00:24:57.360
+So if we add up all those,
+remember each one is equal to one.
+
+00:24:57.850 --> 00:25:00.190
+So we can get our total really easily.
+
+00:25:00.500 --> 00:25:03.560
+So we do 7 plus 5, that's 12.
+
+00:25:03.560 --> 00:25:05.409
+12 plus 5 is 17.
+
+00:25:05.409 --> 00:25:07.390
+17 plus 4 is 21.
+
+00:25:08.190 --> 00:25:13.129
+So what we will put as our total, so
+we'll put that on the bottom, so we got
+
+00:25:13.149 --> 00:25:20.580
+21 moles total of gas, and that's adding
+all the and it's asking us what's the,
+
+00:25:20.960 --> 00:25:23.370
+what's the mole fraction of ammonia.
+
+00:25:23.955 --> 00:25:28.225
+So ammonia we had five from
+earlier, so we are going to put
+
+00:25:28.225 --> 00:25:31.495
+that we had five moles of ammonia.
+
+00:25:32.125 --> 00:25:35.925
+So this is the literal
+definition of a mole fraction,
+
+00:25:35.925 --> 00:25:37.785
+so five over 21 in this case.
+
+00:25:38.385 --> 00:25:41.204
+Now depending on who your teacher
+is and how the homeworks are, you
+
+00:25:41.204 --> 00:25:45.165
+either have to put it as a fraction,
+so five over 21, or you can put that
+
+00:25:45.165 --> 00:25:47.165
+in your calculator and simplify it.
+
+00:25:47.535 --> 00:25:52.150
+So if we did five divided
+by 21, we will get 0.
+
+00:25:52.200 --> 00:25:52.930
+238.
+
+00:25:53.000 --> 00:25:57.210
+With that value, you will notice
+that there is no units between it
+
+00:25:57.230 --> 00:26:00.980
+being that moles technically cancels
+here because it's just a fraction.
+
+00:26:01.320 --> 00:26:04.009
+It's just a ratio of what
+we're trying to represent.
+
+00:26:04.700 --> 00:26:09.200
+Now the last part is assume each gas
+represents one mole like we did before.
+
+00:26:09.890 --> 00:26:12.630
+The total pressure of the container is 1.
+
+00:26:12.860 --> 00:26:14.250
+20 atmospheres.
+
+00:26:14.825 --> 00:26:18.645
+What is the partial
+pressure, pressure of HCL?
+
+00:26:19.274 --> 00:26:24.455
+So earlier I had that five mole, there
+was five moles of HCL just to remind
+
+00:26:24.455 --> 00:26:26.694
+us of how many we had in our container.
+
+00:26:27.404 --> 00:26:29.135
+So how can we do this?
+
+00:26:29.145 --> 00:26:33.004
+So let's use this partial pressure
+equation that we've been, I've
+
+00:26:33.004 --> 00:26:34.664
+been kind of dancing around.
+
+00:26:35.134 --> 00:26:38.924
+So in this case, we want to know
+what the partial pressure of HCL
+
+00:26:39.384 --> 00:26:41.054
+is so that we'll replace our I.
+
+00:26:41.429 --> 00:26:44.090
+Because I is just an indice,
+it's just however you label it.
+
+00:26:44.409 --> 00:26:46.899
+In this case, we are labeling it as HCl.
+
+00:26:48.030 --> 00:26:52.229
+So we have our total pressure, which is 1.
+
+00:26:52.230 --> 00:26:58.059
+20 atmospheres, and then we're going
+to times that by our mole fraction.
+
+00:26:58.579 --> 00:27:05.500
+So that was 5 moles all over 21,
+which was the total number of moles.
+
+00:27:05.510 --> 00:27:08.620
+So that was all the little molecules
+that were in the container.
+
+00:27:09.410 --> 00:27:10.530
+So when we do 1.
+
+00:27:10.530 --> 00:27:16.120
+2 times 5 divided by 21, what
+we are going to get is 0.
+
+00:27:16.400 --> 00:27:21.539
+286 atmospheres of HCl.
+
+00:27:21.540 --> 00:27:25.910
+And atm is atmospheres, not at
+the moment, it is atmospheres,
+
+00:27:26.270 --> 00:27:27.719
+just so everybody knows.
+
+00:27:28.219 --> 00:27:32.330
+All right, so that is our
+value here for this problem.
+
+00:27:32.440 --> 00:27:37.379
+Okay, so that wraps up our video on
+tips and tricks for solving gas laws.
+
+00:27:37.700 --> 00:27:42.090
+Which as you could see, gas laws can
+get very, very complicated and complex.
+
+00:27:42.280 --> 00:27:46.130
+So please refer to my other videos
+on how to practice these, which go
+
+00:27:46.130 --> 00:27:50.880
+through many examples through all the
+different gas laws and how to use them.
+
+00:27:51.430 --> 00:27:54.639
+And as I was saying earlier, the
+biggest thing take home messages
+
+00:27:54.639 --> 00:27:56.370
+is you need to stay organized.
+
+00:27:56.729 --> 00:27:58.890
+Write down what your, all your values are.
+
+00:27:58.970 --> 00:28:03.250
+So that way you can match them to your
+different gas law formulas, which is
+
+00:28:03.310 --> 00:28:07.220
+always the most important part is that
+being that we do have all these gas laws.
+
+00:28:07.665 --> 00:28:12.574
+Is you need to be able to read the word
+problem carefully and look for if there
+
+00:28:12.574 --> 00:28:15.674
+is change or if it's the current state.
+
+00:28:15.965 --> 00:28:17.384
+That is what's most important.
+
+00:28:17.915 --> 00:28:21.294
+If you can notice that, the more you
+practice, the easier it will get.
+
+00:28:21.574 --> 00:28:22.495
+You can do this.
+
+00:28:22.564 --> 00:28:24.064
+I know you're capable of doing this.
+
+00:28:24.480 --> 00:28:25.070
+You're smart.
+
+00:28:25.360 --> 00:28:26.300
+You're intelligent.
+
+00:28:26.410 --> 00:28:26.980
+You can do it.
+
+00:28:27.409 --> 00:28:29.100
+So keep, keep practicing.
+
+00:28:29.300 --> 00:28:31.970
+Let me know if you need any
+help in the comments or in
+
+00:28:31.970 --> 00:28:34.159
+class or in discord or wherever.
+
+00:28:34.530 --> 00:28:36.709
+And let me know everything
+I can do to help you.
+
+00:28:36.780 --> 00:28:39.060
+And if you're someone just
+watching this for help, please hit
+
+00:28:39.060 --> 00:28:40.330
+that like and subscribe button.
+
+00:28:40.370 --> 00:28:42.059
+And if you see me on campus, say hi.
+
+00:28:42.399 --> 00:28:42.569
+All right.
+
+00:28:42.569 --> 00:28:43.470
+I'll see you all later.
+
+00:28:43.530 --> 00:28:44.263
+Bye now.
+

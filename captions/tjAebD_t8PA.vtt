@@ -1,0 +1,738 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.140 --> 00:00:02.980
+Hello, and welcome back to
+another episode with it's Dr.
+
+00:00:02.980 --> 00:00:03.390
+Dan.
+
+00:00:03.420 --> 00:00:07.859
+And today we're going to dive further into
+the introduction to nuclear chemistry,
+
+00:00:08.440 --> 00:00:10.160
+specifically looking at half life.
+
+00:00:10.740 --> 00:00:14.189
+So what this is all about is going
+off of what our last video was all
+
+00:00:14.189 --> 00:00:17.919
+about, which was all the different
+types of nuclear radiation.
+
+00:00:18.450 --> 00:00:22.030
+So whenever you have an unstable
+nuclei, let's say like the one here
+
+00:00:22.030 --> 00:00:26.430
+with all these little protons and
+neutrons, It will decay, meaning it
+
+00:00:26.430 --> 00:00:30.230
+could go through let's say a gamma
+radiation where it just releases
+
+00:00:30.230 --> 00:00:35.489
+energy, maybe it releases a positron,
+a beta particle, an alpha particle.
+
+00:00:35.739 --> 00:00:38.510
+So if you're trying to interested
+in balancing those reactions,
+
+00:00:38.629 --> 00:00:39.779
+refer to my other video.
+
+00:00:40.040 --> 00:00:41.429
+This one's just on half life.
+
+00:00:42.150 --> 00:00:44.240
+So when we have radioactive decay.
+
+00:00:44.610 --> 00:00:46.150
+What exactly is happening?
+
+00:00:46.200 --> 00:00:49.720
+Well, it takes so much time
+for each one of these radio
+
+00:00:49.760 --> 00:00:52.919
+isotopes to decay and break down.
+
+00:00:53.500 --> 00:00:58.650
+Now, every time, whenever we have one
+of these, it goes through a half life.
+
+00:00:58.980 --> 00:01:01.659
+So, what the whole idea
+of a half life is...
+
+00:01:02.340 --> 00:01:06.800
+It's whenever we have a radioisotope
+and it's the time it takes for it to,
+
+00:01:06.870 --> 00:01:12.259
+for it to decay by exactly one half
+of its original amount, meaning that
+
+00:01:12.280 --> 00:01:17.789
+if I have, let's say a sample here
+and it goes through exactly one half
+
+00:01:17.830 --> 00:01:21.810
+life, so we'll just say one T one half.
+
+00:01:22.390 --> 00:01:25.280
+So when that happens, it's
+going to decay by half.
+
+00:01:25.820 --> 00:01:30.200
+So like, as we have on this original
+portion here, this is a hundred percent.
+
+00:01:30.714 --> 00:01:35.144
+Then when it goes through one half
+life, it's gonna go down to 50%.
+
+00:01:35.525 --> 00:01:40.735
+If it goes through a second half life,
+it will have 25 percent remaining.
+
+00:01:41.205 --> 00:01:44.065
+And that will keep going down over time.
+
+00:01:44.085 --> 00:01:51.364
+It will keep decreasing as we move further
+and further and further, decaying by half.
+
+00:01:52.065 --> 00:01:54.425
+So what kind of problems
+could you possibly see?
+
+00:01:54.455 --> 00:01:56.925
+Let's go through a bunch
+of different calculations.
+
+00:01:57.195 --> 00:02:01.455
+to show how this is going to happen and
+we'll even look at what kind of ranges of
+
+00:02:01.465 --> 00:02:06.065
+values we'll even see for what to expect
+when it comes to working with half lives.
+
+00:02:06.275 --> 00:02:07.125
+Let's take a look.
+
+00:02:16.454 --> 00:02:18.305
+The first thing is what about the ranges?
+
+00:02:18.505 --> 00:02:22.695
+So half life values can range from
+all kinds of things from minutes
+
+00:02:22.744 --> 00:02:27.065
+to years to sometimes millions and
+billions of years depending on the
+
+00:02:27.105 --> 00:02:32.154
+actual radioactive process and how
+stable or unstable the element is.
+
+00:02:32.459 --> 00:02:36.490
+Here I just included about four different
+examples that we have here, ranging
+
+00:02:36.490 --> 00:02:40.669
+from carbon 14, which we use to date
+historical artifacts that we find
+
+00:02:40.669 --> 00:02:44.959
+around the world, to things that could
+be used more in medical applications
+
+00:02:45.140 --> 00:02:47.760
+where they last on shorter timescales.
+
+00:02:48.269 --> 00:02:52.079
+So one thing you might notice is that
+they all have different processes such
+
+00:02:52.080 --> 00:02:56.959
+as beta particles, alpha particles,
+positrons, where they could last
+
+00:02:56.989 --> 00:03:01.480
+everywhere from thousands of years
+to as short as just a few minutes.
+
+00:03:01.730 --> 00:03:03.859
+So we're going to be talking about
+all kinds of different scales
+
+00:03:03.859 --> 00:03:05.470
+and just adding up the values.
+
+00:03:05.750 --> 00:03:08.980
+So this is for introductory chemistry,
+so we're not going to be going
+
+00:03:09.010 --> 00:03:12.539
+through the exponential uh, equations
+that you'll see in things that
+
+00:03:12.540 --> 00:03:16.249
+are more general chemistry one or
+general chemistry two with kinetics.
+
+00:03:16.609 --> 00:03:19.079
+This is just introductory level examples.
+
+00:03:19.750 --> 00:03:21.579
+Let's go into the different problems.
+
+00:03:21.660 --> 00:03:26.510
+With our first example, what we have
+here is a 20 mg sample of iodine
+
+00:03:26.510 --> 00:03:30.019
+131 decays, and it only leaves 2.
+
+00:03:30.020 --> 00:03:32.000
+5 mg.
+
+00:03:32.490 --> 00:03:33.840
+How long would this take?
+
+00:03:34.450 --> 00:03:36.350
+How exactly are we going
+to go through this?
+
+00:03:36.369 --> 00:03:39.620
+Well, the first thing is we have to
+remember is that every time we go through
+
+00:03:39.620 --> 00:03:45.890
+a half life, the mass or the amount is
+going to decrease by So, there are a
+
+00:03:45.890 --> 00:03:49.440
+lot of different little strategies that
+we can go through for how to do this.
+
+00:03:49.820 --> 00:03:52.329
+What we have to remember is
+that our original sample is
+
+00:03:52.329 --> 00:03:54.200
+starting at 20 milligrams.
+
+00:03:54.739 --> 00:03:57.469
+And what we are going to be
+doing is dividing it by half
+
+00:03:57.649 --> 00:03:59.499
+for every single half life.
+
+00:04:00.039 --> 00:04:01.690
+So being that we're going from 20 to 2.
+
+00:04:01.910 --> 00:04:04.969
+5, let's first just
+divide our mass in half.
+
+00:04:05.600 --> 00:04:11.260
+So our first one would go from 20 to
+10, our second one would go from 10
+
+00:04:11.329 --> 00:04:13.910
+to 5, right, 10 divided by 2 is 5.
+
+00:04:14.750 --> 00:04:17.659
+Then if we take 5 divided
+by 2, we will get to 2.
+
+00:04:17.889 --> 00:04:18.569
+5.
+
+00:04:19.709 --> 00:04:22.280
+So, how much time exactly passed?
+
+00:04:22.280 --> 00:04:23.280
+Well, let's take a look.
+
+00:04:23.724 --> 00:04:29.105
+Every single one of these arrows
+represents a half life, so it's in a
+
+00:04:29.105 --> 00:04:31.755
+certain amount of time that is passing.
+
+00:04:32.465 --> 00:04:36.665
+So in this particular problem,
+a half life is equal to 8 days.
+
+00:04:37.225 --> 00:04:39.235
+So what exactly occurred?
+
+00:04:39.764 --> 00:04:45.615
+Well, after the first half life that
+is here, this was 8 days exactly, which
+
+00:04:45.745 --> 00:04:52.110
+as the course of time took place, it
+went from 100 percent of our sample and
+
+00:04:52.110 --> 00:04:57.370
+decayed it down to 50 percent across
+the course of one single half life.
+
+00:04:58.320 --> 00:05:03.039
+Now, once we went to the second half
+life, which was another 8 days, so
+
+00:05:03.039 --> 00:05:10.060
+a total of 16, it went from 10 to 5,
+meaning that we now have 25 percent
+
+00:05:10.120 --> 00:05:12.160
+of our original sample remaining.
+
+00:05:13.280 --> 00:05:17.939
+Now, when we go through our last and
+final half life, we are down to 12.
+
+00:05:17.989 --> 00:05:25.069
+5%, Which means that this took
+a total of 24 days for this to
+
+00:05:25.069 --> 00:05:29.689
+break down to decompose and go
+through this beta decay process.
+
+00:05:30.169 --> 00:05:32.059
+So these are some of the
+ways you can map it out.
+
+00:05:32.119 --> 00:05:35.030
+You don't have to do all the percents and
+all the work all the time, but it just
+
+00:05:35.030 --> 00:05:36.830
+helps to be able to visualize and see it.
+
+00:05:37.210 --> 00:05:39.369
+Let's go take a look
+at some more examples.
+
+00:05:39.579 --> 00:05:43.320
+If you start with a hundred
+grams of radon, how much sample
+
+00:05:43.320 --> 00:05:46.469
+would be left after 44 days?
+
+00:05:46.909 --> 00:05:52.049
+So, and in this problem I also give
+you exactly how long the individual
+
+00:05:52.049 --> 00:05:56.789
+half life is, so we can see that
+we have a half life of 11 days.
+
+00:05:57.325 --> 00:06:02.645
+So what we need to do is map out
+exactly how long would this take.
+
+00:06:03.275 --> 00:06:06.575
+So this one, it could be, you could
+do it a slightly different way.
+
+00:06:07.025 --> 00:06:10.104
+Well, how many half lives
+would fit into 44 days?
+
+00:06:10.135 --> 00:06:12.504
+Well, we can kind of do a
+little bit of math here.
+
+00:06:12.834 --> 00:06:19.224
+If we have 44 days total, and I
+divide that by 11 days, it's going
+
+00:06:19.224 --> 00:06:23.864
+to be about four half lives is
+how long this is going to take.
+
+00:06:25.135 --> 00:06:28.475
+Let's go how that would work, right?
+
+00:06:28.555 --> 00:06:30.965
+I would first start
+once again at 100 grams.
+
+00:06:31.695 --> 00:06:35.754
+Across the first half life,
+it would go down to 50 grams.
+
+00:06:36.625 --> 00:06:39.944
+The second half life
+would go down to 25 grams.
+
+00:06:40.874 --> 00:06:44.294
+The third half life would go down to 12.
+
+00:06:44.295 --> 00:06:44.845
+5 grams.
+
+00:06:45.785 --> 00:06:49.115
+And then the fourth half
+life would go down to 6.
+
+00:06:49.165 --> 00:06:50.735
+25 grams.
+
+00:06:51.615 --> 00:06:55.525
+Now to show, show our work here,
+we can put down our t halves,
+
+00:06:55.545 --> 00:07:00.165
+just to show that each time this
+decayed, this would be changing.
+
+00:07:00.485 --> 00:07:04.415
+So every time that this happens,
+this is going to be making,
+
+00:07:04.424 --> 00:07:09.994
+going from radon and transforming
+into a new element as a result.
+
+00:07:10.554 --> 00:07:15.095
+And then we can see that it's going
+to be releasing alpha particles every
+
+00:07:15.095 --> 00:07:16.985
+single time that this is happening.
+
+00:07:17.630 --> 00:07:19.070
+So it's going to be changing.
+
+00:07:19.490 --> 00:07:21.520
+So this is how much is decaying.
+
+00:07:21.990 --> 00:07:23.950
+So at the end, you're only
+going to have about 6.
+
+00:07:23.950 --> 00:07:28.730
+25 percent of your 100 gram
+sample that is remaining.
+
+00:07:29.360 --> 00:07:32.270
+So let's take a look at some other
+different types of problems that
+
+00:07:32.270 --> 00:07:34.029
+we could see when we do these.
+
+00:07:34.290 --> 00:07:37.870
+If we have a sample of 3, 1 hydrogen.
+
+00:07:38.080 --> 00:07:39.400
+So hydrogen 3.
+
+00:07:39.754 --> 00:07:44.914
+And that's decaying through, uh,
+beta decay, and it only leaves 3.
+
+00:07:44.914 --> 00:07:47.414
+1 percent of the original sample.
+
+00:07:47.914 --> 00:07:49.465
+How long would this take?
+
+00:07:49.874 --> 00:07:52.455
+The half life for this one is 12.
+
+00:07:52.525 --> 00:07:53.474
+3 years.
+
+00:07:54.034 --> 00:07:54.594
+How long?
+
+00:07:55.355 --> 00:07:56.175
+How can we do it?
+
+00:07:56.734 --> 00:07:59.154
+Well, with this one, we weren't,
+we didn't get a starting amount,
+
+00:07:59.215 --> 00:08:00.484
+but we were given a percent.
+
+00:08:01.075 --> 00:08:04.155
+So if we know that every half
+life decays by half, why don't we
+
+00:08:04.155 --> 00:08:05.495
+just map out the percents, right?
+
+00:08:06.434 --> 00:08:09.235
+Just like how we did in the
+very beginning of this video.
+
+00:08:09.895 --> 00:08:11.074
+So if we have 100%...
+
+00:08:12.230 --> 00:08:17.460
+It would decay down to 50%, which
+would then decay down to 25%,
+
+00:08:18.150 --> 00:08:20.600
+which would then go down to 12.
+
+00:08:20.600 --> 00:08:25.570
+5%, and that would
+further decay down to 6.
+
+00:08:25.570 --> 00:08:29.879
+25%, which would then go down to 3.
+
+00:08:29.880 --> 00:08:32.100
+125%, which is approximately
+where we want to go.
+
+00:08:32.679 --> 00:08:34.869
+So how many, how many
+times will this change?
+
+00:08:35.089 --> 00:08:36.459
+Well, we can number it out, right?
+
+00:08:36.459 --> 00:08:38.630
+We have one, two, three.
+
+00:08:38.760 --> 00:08:43.510
+for five half lives that this
+will have to go through in order
+
+00:08:43.510 --> 00:08:46.500
+for 3, 1 hydrogen to fully decay.
+
+00:08:47.040 --> 00:08:51.220
+So, all's we need to do is take our
+half life value, right, which is 12.
+
+00:08:51.220 --> 00:08:52.040
+3 years.
+
+00:08:52.555 --> 00:08:56.555
+And we would multiply that by
+five and we would end up with our
+
+00:08:56.555 --> 00:09:00.615
+final answer for this particular
+problem, which would be 61.
+
+00:09:00.615 --> 00:09:07.695
+5 years is how long this would take for
+it to fully go down to only 3 percent
+
+00:09:08.005 --> 00:09:10.535
+remaining in this particular problem.
+
+00:09:11.194 --> 00:09:13.544
+So let's take a look at another example.
+
+00:09:13.944 --> 00:09:18.145
+You start with 200
+milligrams of thallium 207.
+
+00:09:19.050 --> 00:09:22.399
+So after 100 minutes, there is only 12.
+
+00:09:22.470 --> 00:09:25.149
+5 milligrams left of your sample.
+
+00:09:25.900 --> 00:09:29.879
+What is the half life
+of this decay process?
+
+00:09:30.390 --> 00:09:31.990
+So how can we try to figure it out?
+
+00:09:32.080 --> 00:09:36.639
+Well, we were given how much time there
+was, and we also have the starting and
+
+00:09:36.640 --> 00:09:39.589
+the end masses of this particular problem.
+
+00:09:40.230 --> 00:09:43.770
+So why don't we try to map
+out how much we would have.
+
+00:09:44.450 --> 00:09:48.939
+So the first thing we would do is,
+we are starting with 200 milligrams.
+
+00:09:49.369 --> 00:09:53.680
+And we are going to be dividing
+that mass every single time it goes
+
+00:09:53.680 --> 00:09:55.479
+through a half life calculation.
+
+00:09:56.069 --> 00:09:59.379
+So we'll go from 200 to
+100 would be the first one.
+
+00:10:00.180 --> 00:10:04.039
+Then on the next one we
+would go from 100 to 50.
+
+00:10:05.179 --> 00:10:08.919
+Then when we divide it again
+we're going to go from 50 to 25.
+
+00:10:09.969 --> 00:10:15.469
+And then when we go one more time
+we're going to go from 25 to 12.
+
+00:10:15.470 --> 00:10:15.749
+5.
+
+00:10:16.130 --> 00:10:20.009
+So we are just dividing that
+in half with each iteration.
+
+00:10:20.629 --> 00:10:23.199
+Now, how, how much is our half life?
+
+00:10:23.209 --> 00:10:24.479
+How do we do this?
+
+00:10:24.870 --> 00:10:33.310
+Well, if you can see, we have 1, 2, 3,
+4, our individual half life intervals.
+
+00:10:33.909 --> 00:10:38.010
+We know that there was
+100 minutes that passed.
+
+00:10:38.380 --> 00:10:40.069
+So how would we figure out the half life?
+
+00:10:40.619 --> 00:10:45.439
+Well, we're just going to divide it by the
+number of intervals, so 100 divided by 4.
+
+00:10:46.160 --> 00:10:49.860
+And what that's going to tell
+you is our half life, which
+
+00:10:49.860 --> 00:10:52.320
+in this case is 25 minutes.
+
+00:10:52.899 --> 00:10:56.229
+It's one half life for
+this particular reaction.
+
+00:10:56.879 --> 00:11:01.729
+Now, if this were to kind of keep
+going over and over and over again, you
+
+00:11:01.740 --> 00:11:06.409
+could keep showing how far this could
+truly decay during that time period.
+
+00:11:06.949 --> 00:11:07.999
+It could keep going.
+
+00:11:08.079 --> 00:11:11.089
+Now, with half lives, this is a
+general idea for most of these
+
+00:11:11.089 --> 00:11:15.719
+expressions, being that as they decay,
+they're going to continuously keep
+
+00:11:15.720 --> 00:11:18.829
+approaching 0 percent over time.
+
+00:11:19.420 --> 00:11:23.110
+So you can see this keeps dividing
+and dividing and dividing.
+
+00:11:23.819 --> 00:11:28.090
+Generally, the rule of thumb is
+eventually it will get down to just
+
+00:11:28.090 --> 00:11:33.139
+one particle left or one little amount
+left and it will decay to nothing.
+
+00:11:33.689 --> 00:11:37.540
+It usually takes about 10 cycles
+or 10 half lives for that to happen
+
+00:11:37.540 --> 00:11:39.860
+for it to be over 99 percent gone.
+
+00:11:40.210 --> 00:11:42.859
+You will see that you can
+continue dividing it by two as
+
+00:11:42.860 --> 00:11:46.040
+long as you want, but this is
+how radioactive processes work.
+
+00:11:46.089 --> 00:11:46.869
+They take time.
+
+00:11:47.295 --> 00:11:50.064
+They're an unstable,
+they're metastable, right?
+
+00:11:50.454 --> 00:11:54.104
+So as it goes to that radioactive
+decay, we will see them continuously
+
+00:11:54.144 --> 00:11:58.444
+break apart, transform into
+new daughter nuclei as it goes.
+
+00:11:59.010 --> 00:12:02.570
+I hope that it helped by showing how to
+do these calculations, and I hope that
+
+00:12:02.570 --> 00:12:06.220
+it helps you do future homeworks and
+to better further your understanding,
+
+00:12:06.560 --> 00:12:10.540
+whether it's in introductory chemistry
+and nursing and radiation technology,
+
+00:12:10.740 --> 00:12:12.840
+to keep furthering your understanding.
+
+00:12:13.050 --> 00:12:15.500
+Thank you so much for listening,
+and I hope that this video helped.
+
+00:12:15.900 --> 00:12:18.610
+Please hit that like and subscribe
+button if it did, and I hope to
+
+00:12:18.610 --> 00:12:19.990
+see you around for future videos.
+
+00:12:20.410 --> 00:12:20.920
+Bye now!
+

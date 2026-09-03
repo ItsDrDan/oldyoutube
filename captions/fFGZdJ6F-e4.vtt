@@ -1,0 +1,868 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.090 --> 00:00:04.630
+Hello and welcome back to another video
+with ItsDrDan and today we're going
+
+00:00:04.630 --> 00:00:06.730
+to be learning about stoichiometry.
+
+00:00:07.155 --> 00:00:11.715
+Now with this concept, this is something
+that all chemistry students eventually
+
+00:00:11.715 --> 00:00:15.845
+will have to learn, which is essentially
+taking all of the different skills
+
+00:00:15.845 --> 00:00:19.505
+that you've been learning throughout
+the semester and tying them together
+
+00:00:19.514 --> 00:00:23.904
+and relating them through the chemical
+formula or through relationships that
+
+00:00:23.904 --> 00:00:27.744
+you've learned about in dimensional
+analysis or through equations and swap
+
+00:00:27.744 --> 00:00:29.324
+drops, all these different methods.
+
+00:00:29.865 --> 00:00:32.945
+Now, whenever you see this
+pronunciation, pronunciation here,
+
+00:00:33.455 --> 00:00:35.645
+Stoy-key-aa-muh-tree Stoichiometry, right?
+
+00:00:35.645 --> 00:00:39.085
+So saying that out loud to yourself
+because most likely there's going to
+
+00:00:39.085 --> 00:00:42.325
+be you and about five other classmates
+that will struggle with pronouncing
+
+00:00:42.954 --> 00:00:45.085
+this, but it's not that scary.
+
+00:00:45.085 --> 00:00:49.024
+It's not too difficult if you know
+your fundamentals and your basics,
+
+00:00:49.404 --> 00:00:50.554
+which is the goal of this video.
+
+00:00:50.554 --> 00:00:52.684
+It's just to tell you what,
+what's the whole idea of it.
+
+00:00:52.954 --> 00:00:55.724
+And if you want to learn more
+about the mathematics behind
+
+00:00:55.724 --> 00:00:57.224
+it, refer to my other videos.
+
+00:00:57.685 --> 00:01:03.225
+On introduction to stoichiometry, limiting
+reagents, gas stoichiometry, and solution
+
+00:01:03.235 --> 00:01:07.585
+stoichiometry, and probably many more
+that are going to come as time passes.
+
+00:01:08.115 --> 00:01:10.985
+So, the whole idea with this is
+when we're looking at stoichiometry
+
+00:01:10.985 --> 00:01:12.905
+is, can you read a recipe?
+
+00:01:13.295 --> 00:01:16.604
+And essentially, like, if you cook
+at home or make anything or even,
+
+00:01:16.615 --> 00:01:20.985
+heck, if you just read the back of a
+box to microwave something, you have
+
+00:01:20.994 --> 00:01:22.845
+essentially used some kind of recipe.
+
+00:01:23.144 --> 00:01:26.804
+Even if you've just ordered food, right,
+to actually prepare all those things,
+
+00:01:26.824 --> 00:01:28.005
+how are they putting all together?
+
+00:01:28.005 --> 00:01:32.494
+If you ever made something, you're
+following instructions and it takes so
+
+00:01:32.494 --> 00:01:34.565
+many ingredients to put that together.
+
+00:01:34.920 --> 00:01:38.030
+That's where we're going to be relating to
+this, is something as simple as cooking.
+
+00:01:38.320 --> 00:01:39.200
+Let's take a look.
+
+00:01:45.150 --> 00:01:47.270
+Say I want to make a simple cheeseburger.
+
+00:01:47.430 --> 00:01:51.390
+Well, if you were to make a burger at
+home, or to cook anything, you'd probably
+
+00:01:51.390 --> 00:01:54.659
+follow a recipe, you'd probably Google
+it, look it up in the Food Network
+
+00:01:54.660 --> 00:01:57.860
+or some kind of recipe, and you'd
+see exactly how to make it and see if
+
+00:01:57.860 --> 00:01:59.139
+you have those ingredients at home.
+
+00:01:59.479 --> 00:02:02.659
+Or maybe you'd just listen from the heart
+and just mix things together, but you're
+
+00:02:02.659 --> 00:02:04.619
+still following some kind of recipe.
+
+00:02:05.065 --> 00:02:08.975
+Meaning that there's a specific
+ratio between all those ingredients
+
+00:02:08.975 --> 00:02:11.175
+to make the thing you want, right?
+
+00:02:11.195 --> 00:02:14.044
+If you don't follow them, you're going
+to, you're going to start trying to
+
+00:02:14.044 --> 00:02:16.345
+make like something like bread and
+you're going to end up with a cake.
+
+00:02:16.374 --> 00:02:18.535
+They're going to be
+completely different things.
+
+00:02:19.085 --> 00:02:21.875
+So if I want to make a burger,
+well, how would I do it?
+
+00:02:21.875 --> 00:02:25.205
+Well, my secret recipe is up
+here, so don't tell anybody else.
+
+00:02:25.475 --> 00:02:29.135
+As simple as just taking a hamburger
+patty with a slice of cheese and
+
+00:02:29.135 --> 00:02:31.115
+two buns, And you got a burger.
+
+00:02:31.505 --> 00:02:34.485
+Now, if we were to write this out,
+let's say if we want to show it
+
+00:02:34.495 --> 00:02:38.725
+more like a chemical equation,
+well, we could do that, right?
+
+00:02:38.725 --> 00:02:43.525
+So right here, I have my two buns and
+they're mixing with my piece of cheese.
+
+00:02:43.834 --> 00:02:47.644
+and mix them in a patty and they
+exist within a specific ratio, right?
+
+00:02:47.894 --> 00:02:52.774
+We see two buns with one slice of
+cheese and then one patty mixing
+
+00:02:52.805 --> 00:02:55.415
+those together to make one burger.
+
+00:02:55.795 --> 00:03:00.154
+Now, if I were to ask you something
+really simple about this recipe, how
+
+00:03:00.154 --> 00:03:03.255
+many burgers can I make with 13 buns?
+
+00:03:03.265 --> 00:03:07.524
+So you look in, you look in your
+pantry, you see the only have 13 buns.
+
+00:03:07.910 --> 00:03:11.690
+And let me say you have as many as
+much hamburger meat and cheese in
+
+00:03:11.690 --> 00:03:12.990
+the fridge as you possibly want.
+
+00:03:13.180 --> 00:03:16.769
+You have them in excess, meaning
+there's a ton of them available.
+
+00:03:17.149 --> 00:03:18.550
+How many burgers can you make?
+
+00:03:18.569 --> 00:03:20.779
+And well, you're probably like
+thinking like, well, I can
+
+00:03:20.779 --> 00:03:22.469
+make six and a half, right?
+
+00:03:22.769 --> 00:03:25.890
+So 13 divided by two for
+the buns, six and a half.
+
+00:03:25.950 --> 00:03:30.000
+And you were able to think of that without
+really doing any type of fancy math or
+
+00:03:30.019 --> 00:03:31.500
+anything you've learned in chemistry.
+
+00:03:31.820 --> 00:03:34.120
+So you'd be like, well, what's
+the whole point of stoichiometry?
+
+00:03:34.170 --> 00:03:37.890
+Well, that's the whole idea is
+you're looking at relationships.
+
+00:03:38.219 --> 00:03:42.349
+So from those 13 buns, we can
+simply just say that we have.
+
+00:03:42.709 --> 00:03:45.950
+We can make six and a
+half burgers from that.
+
+00:03:46.450 --> 00:03:50.690
+Now, how could we show that in
+terms of actual stoichiometry?
+
+00:03:50.740 --> 00:03:52.659
+Let's take a look at what this is.
+
+00:03:52.839 --> 00:03:57.219
+So when you're looking at this recipe,
+essentially all this is, is showing it.
+
+00:03:57.219 --> 00:03:59.540
+Can you show it with dimensional analysis?
+
+00:04:00.160 --> 00:04:03.060
+Stoichiometry is only, is
+just dimensional analysis.
+
+00:04:03.110 --> 00:04:04.480
+It's unit conversions.
+
+00:04:04.910 --> 00:04:08.260
+Since the very beginning of my
+channel and all these videos that I
+
+00:04:08.260 --> 00:04:12.030
+show, give to all, all my students,
+I've been telling everybody since
+
+00:04:12.030 --> 00:04:13.559
+day one, it's just unit conversions.
+
+00:04:13.629 --> 00:04:15.670
+That's all chemistry truly is.
+
+00:04:16.119 --> 00:04:17.839
+Can you cancel your units?
+
+00:04:18.209 --> 00:04:21.649
+So if we want to do the same problem,
+right, where we said we were starting
+
+00:04:21.649 --> 00:04:28.345
+with 13 buns, so let's say if I take
+My buns from all the way up here and
+
+00:04:28.355 --> 00:04:33.565
+I'm to copy them down Can we actually
+show this like a math problem?
+
+00:04:33.685 --> 00:04:35.155
+Can you cancel it?
+
+00:04:35.405 --> 00:04:39.155
+How did you get to six and a
+half by doing that in your head?
+
+00:04:39.525 --> 00:04:43.984
+Well, you simply saw that okay based
+on the recipe above that there were
+
+00:04:43.984 --> 00:04:48.755
+two buns equivalent to every One
+burger that were up there, right?
+
+00:04:48.765 --> 00:04:52.344
+So you saw that there was
+a relationship, right?
+
+00:04:52.344 --> 00:04:58.075
+So for every burger, we have two
+buns that are there, and we can
+
+00:04:58.075 --> 00:05:03.815
+essentially show that, hey, there
+is a relationship with that, right?
+
+00:05:03.825 --> 00:05:08.355
+For every one divided by two, and we can
+see, well, what happens to that is that
+
+00:05:08.364 --> 00:05:12.039
+your units end up canceling as a result.
+
+00:05:12.249 --> 00:05:17.290
+So you got 13 divided by two
+made six and a half burgers.
+
+00:05:17.690 --> 00:05:20.849
+So you did that dimensional
+analysis in your head, right?
+
+00:05:20.870 --> 00:05:25.169
+So, and this is the same idea
+as what stoichiometry is about.
+
+00:05:25.900 --> 00:05:28.340
+Can you essentially cancel
+something as simple out?
+
+00:05:28.740 --> 00:05:32.470
+as food or burgers or whatever
+it is that you're trying to see.
+
+00:05:32.860 --> 00:05:36.320
+So let's try to look at this slightly
+different but with the same example.
+
+00:05:36.490 --> 00:05:40.299
+So instead of looking at it just like
+pictures, what if we make our recipe
+
+00:05:40.299 --> 00:05:43.899
+look like a chemical reaction where I
+all of a sudden replace all the pictures
+
+00:05:43.900 --> 00:05:48.029
+and goofy little things where I have
+two buns with one piece of cheese
+
+00:05:48.169 --> 00:05:49.649
+with one patty is equal to a burger.
+
+00:05:50.199 --> 00:05:53.739
+You can show that the exact same
+way, and we can illustrate that
+
+00:05:53.739 --> 00:05:56.189
+our units are going to cancel out.
+
+00:05:56.750 --> 00:06:01.260
+Now the important, most important
+part about this is that is this middle
+
+00:06:01.380 --> 00:06:05.730
+component here in the middle, which
+showed that there was a relationship
+
+00:06:05.840 --> 00:06:08.750
+found within our chemical equation, right?
+
+00:06:09.099 --> 00:06:14.879
+Two buns were equivalent to one burger,
+meaning that essentially with any
+
+00:06:14.890 --> 00:06:20.660
+chemical equation, you can use the
+coefficients to relate different terms.
+
+00:06:21.060 --> 00:06:23.400
+So for every two buns,
+you make one burger.
+
+00:06:23.409 --> 00:06:26.940
+For every two buns, you need
+one piece of cheese, right?
+
+00:06:26.950 --> 00:06:28.650
+For every two buns, you need one patty.
+
+00:06:28.950 --> 00:06:32.460
+There are all these different little
+relationships that can be found with them.
+
+00:06:33.099 --> 00:06:37.769
+Now, even though we said that, oh,
+one burger is equivalent to two buns,
+
+00:06:38.229 --> 00:06:41.659
+you could say all kinds of recip
+different, uh, relationships that
+
+00:06:41.659 --> 00:06:45.549
+are of the same, um, essentially the
+same, uh, depth between them, right?
+
+00:06:45.549 --> 00:06:46.530
+So one to two.
+
+00:06:46.924 --> 00:06:51.145
+I could also say one dozen burgers is
+equivalent to two dozen buns, right?
+
+00:06:51.155 --> 00:06:53.344
+It's the same one to two relationship.
+
+00:06:53.895 --> 00:06:57.554
+Same thing if I want to use something
+that's a little bit more common when it
+
+00:06:57.554 --> 00:07:01.125
+comes to looking at chemistry, right?
+
+00:07:01.145 --> 00:07:05.515
+One mole of burgers, which would be a
+ton of patties, or a ton of burgers,
+
+00:07:05.534 --> 00:07:08.145
+is equivalent to two moles of buns.
+
+00:07:08.545 --> 00:07:10.875
+There's the same one to two relationship.
+
+00:07:11.304 --> 00:07:16.645
+So we can use this in terms of balanced
+chemical equations to show a relationship.
+
+00:07:17.015 --> 00:07:19.195
+Let's take a look at
+an example using this.
+
+00:07:19.275 --> 00:07:22.825
+The whole idea of stoichiometry
+is you're trying to put chemical
+
+00:07:22.825 --> 00:07:24.685
+equations to work, right?
+
+00:07:25.025 --> 00:07:28.705
+Can you put a balanced chemical
+equation and show what the
+
+00:07:28.705 --> 00:07:30.414
+mole to mole relationship is?
+
+00:07:30.895 --> 00:07:33.774
+So this is going to use,
+uh, our chemical equations.
+
+00:07:33.774 --> 00:07:38.105
+We can use molar mass, molarity,
+ideal gas law, all these other
+
+00:07:38.105 --> 00:07:39.975
+concepts can come into play.
+
+00:07:40.410 --> 00:07:42.300
+Because the goal is always the mole.
+
+00:07:42.650 --> 00:07:47.050
+If you can get the moles, you can then
+use the balanced chemical equation to
+
+00:07:47.050 --> 00:07:50.849
+predict, to be able to figure out how much
+are you going to make, how much do you
+
+00:07:50.870 --> 00:07:53.409
+need to make all these different recipes.
+
+00:07:53.419 --> 00:07:54.709
+It's something very important.
+
+00:07:55.279 --> 00:07:56.999
+So let's say if I take this.
+
+00:07:57.465 --> 00:07:59.125
+Unbalanced chemical equation.
+
+00:07:59.224 --> 00:08:01.955
+Can I put this to work?
+
+00:08:02.405 --> 00:08:06.405
+Well, first things first is when we
+want to balance this, first tip that
+
+00:08:06.405 --> 00:08:08.395
+I always give is even out the odds.
+
+00:08:08.765 --> 00:08:12.755
+Meaning that if you notice on the right
+hand side, we have three hydrogens, on the
+
+00:08:12.755 --> 00:08:15.185
+left you have two, so they're not even.
+
+00:08:15.465 --> 00:08:20.155
+So if I were to even it out, right, where
+now I have six hydrogens on the right,
+
+00:08:20.734 --> 00:08:25.375
+and six hydrogens on the left, now our
+problem, if you notice, the nitrogen's
+
+00:08:25.405 --> 00:08:27.474
+balanced, everything is balanced.
+
+00:08:28.245 --> 00:08:30.835
+So what can we do from this?
+
+00:08:30.835 --> 00:08:37.125
+Well, we can show different relationships
+here between all these coefficients that
+
+00:08:37.125 --> 00:08:43.390
+are in front of all these numbers, whether
+it's one with NH3, or H2, or even the one
+
+00:08:43.390 --> 00:08:48.880
+here for nitrogen, which is equivalent to
+a one, we can define these, which is what
+
+00:08:48.880 --> 00:08:51.230
+makes chemical equations very powerful.
+
+00:08:51.680 --> 00:08:55.170
+So, for example, if I want to
+say, start with nitrogen, I could
+
+00:08:55.170 --> 00:09:02.225
+say that one mole in nitrogen is
+equivalent to, uh, two moles of NH3.
+
+00:09:03.025 --> 00:09:08.565
+I could also say that one mole of
+nitrogen is equivalent or can be converted
+
+00:09:08.565 --> 00:09:11.425
+to three moles of hydrogen, right?
+
+00:09:11.435 --> 00:09:14.054
+So those are equivalent as well.
+
+00:09:14.585 --> 00:09:17.605
+And just to kind of make it a
+little easier, right, we can show
+
+00:09:17.715 --> 00:09:21.994
+the color coding here that we had
+earlier just to be able to follow
+
+00:09:22.004 --> 00:09:23.845
+so we can see what's equivalent.
+
+00:09:24.125 --> 00:09:25.955
+Now is that everything
+that can be equivalent?
+
+00:09:25.955 --> 00:09:27.375
+Well, we can also do the same thing.
+
+00:09:27.725 --> 00:09:32.195
+When it came to, with, uh, hydrogen
+as well, three moles of hydrogen
+
+00:09:32.595 --> 00:09:36.105
+is equivalent to two moles of NH3.
+
+00:09:36.625 --> 00:09:41.575
+There are multiple relationships that
+are hidden within the chemical equation.
+
+00:09:42.054 --> 00:09:45.235
+And the thing of all these is
+because they're conversion factors,
+
+00:09:45.355 --> 00:09:49.355
+you can flip them and use them to
+convert from one unit to another.
+
+00:09:49.745 --> 00:09:51.525
+So let's say you start
+with some with grams.
+
+00:09:51.775 --> 00:09:54.165
+You can use the molar mass
+to convert that to moles.
+
+00:09:54.790 --> 00:09:58.590
+And then you can use the chemical
+equation to go one step farther.
+
+00:09:58.990 --> 00:10:01.840
+It's powerful, knowing
+how to do stoichiometry.
+
+00:10:01.840 --> 00:10:04.539
+It's one of the most important
+things that we do in chemistry,
+
+00:10:04.790 --> 00:10:05.920
+is to be able to predict.
+
+00:10:06.110 --> 00:10:09.590
+For our last example, let's say
+if we start with the exact same
+
+00:10:09.600 --> 00:10:11.199
+type of problem we had earlier.
+
+00:10:11.849 --> 00:10:15.360
+Which was when we did our
+hamburger example, we had so
+
+00:10:15.360 --> 00:10:17.140
+many number of buns available.
+
+00:10:17.530 --> 00:10:19.830
+What if we do it with moles
+in the chemical equation?
+
+00:10:20.285 --> 00:10:24.745
+Well, if I have 17 moles of ammonium,
+right, so which is our product here
+
+00:10:24.745 --> 00:10:30.205
+at the very end, and I ask you, how
+many moles of nitrogen and hydrogen
+
+00:10:30.425 --> 00:10:32.995
+did you start with in this problem?
+
+00:10:33.175 --> 00:10:34.255
+How could we do it?
+
+00:10:34.755 --> 00:10:38.954
+Well, the first thing is when we have
+a relationship here, we can define
+
+00:10:39.124 --> 00:10:40.955
+all of the different mole fractions.
+
+00:10:41.345 --> 00:10:44.015
+Now, do you have to write them
+every single one of them down?
+
+00:10:44.025 --> 00:10:45.585
+The answer is, the short answer is no.
+
+00:10:45.915 --> 00:10:48.195
+You have to pick which
+ones you need to use.
+
+00:10:48.620 --> 00:10:53.067
+So, in this problem, what we can,
+what we are starting with is that we
+
+00:10:53.067 --> 00:10:58.960
+know that we have 17 moles of NH3,
+and the first thing is that it asks
+
+00:10:58.960 --> 00:11:01.425
+you to do is to go to the nitrogen.
+
+00:11:01.755 --> 00:11:02.265
+Okay.
+
+00:11:02.645 --> 00:11:06.975
+So what is our relationship
+between ammonia and nitrogen?
+
+00:11:07.445 --> 00:11:10.035
+And one thing that we can
+see is, well, for two, every
+
+00:11:10.035 --> 00:11:12.104
+two moles of ammonia, right?
+
+00:11:12.535 --> 00:11:17.075
+So if I kind of write that down
+here, two moles of NH3, I am going
+
+00:11:17.075 --> 00:11:23.365
+to need one mole of nitrogen in
+order to make ammonia, right?
+
+00:11:23.365 --> 00:11:27.695
+So there's a two to one relationship,
+which is coming from those chemical
+
+00:11:27.695 --> 00:11:29.955
+coefficients that we showed earlier.
+
+00:11:29.975 --> 00:11:32.135
+We're using this relationship over here.
+
+00:11:32.785 --> 00:11:38.330
+Now when we do that, right, so 17
+divided by 2, What are you gonna have?
+
+00:11:38.340 --> 00:11:42.020
+Well, that we're gonna have eight
+and a half moles of nitrogen
+
+00:11:42.400 --> 00:11:44.069
+is what our answer is gonna be.
+
+00:11:44.459 --> 00:11:45.530
+We can write that down.
+
+00:11:45.530 --> 00:11:48.439
+So eight and a half moles of N2, right?
+
+00:11:48.729 --> 00:11:51.969
+So that gives us an idea of
+exactly how many moles that we're
+
+00:11:51.969 --> 00:11:53.219
+gonna have for our first problem.
+
+00:11:53.969 --> 00:11:55.369
+Now, what about for hydrogen?
+
+00:11:55.559 --> 00:11:56.709
+Let's do the same thing.
+
+00:11:56.739 --> 00:12:01.669
+So let's move this down and we're once
+again gonna be starting with 17 moles of
+
+00:12:02.750 --> 00:12:07.820
+of NH3 and we're going to use the chemical
+equation for what our relationship
+
+00:12:07.820 --> 00:12:09.970
+between ammonia and hydrogen are.
+
+00:12:10.425 --> 00:12:16.065
+Well, if you remember, for every
+2 moles of NH3, there is going to
+
+00:12:16.065 --> 00:12:19.535
+be 3 moles of hydrogen, alright?
+
+00:12:20.205 --> 00:12:23.254
+And that's given us another
+relationship that's here.
+
+00:12:23.314 --> 00:12:28.794
+What we can do is we do 17 times 3 divided
+by 2, and that's going to tell you that,
+
+00:12:28.795 --> 00:12:32.875
+hey, you, you have, you started with 25.
+
+00:12:32.875 --> 00:12:37.835
+5 moles of H2, so you can
+convert this to different units.
+
+00:12:37.835 --> 00:12:37.895
+Thanks.
+
+00:12:38.199 --> 00:12:42.329
+Now, if you need to figure out the mass,
+or let's say how many liters of gas
+
+00:12:42.400 --> 00:12:46.390
+there are, you could do even follow up
+steps, which I do in my other videos.
+
+00:12:46.850 --> 00:12:47.770
+So this is the idea.
+
+00:12:47.920 --> 00:12:51.710
+So that's the final concept of
+stoichiometry, is can you read a chemical
+
+00:12:51.710 --> 00:12:57.239
+recipe, because all it does is takes a
+balanced chemical equation and relates
+
+00:12:57.240 --> 00:13:02.010
+that to moles, it follows the dimensional
+analysis idea as a unit conversion,
+
+00:13:02.430 --> 00:13:04.990
+so can you convert, can you balance.
+
+00:13:05.454 --> 00:13:08.935
+And if you need that help, look at my
+other videos to help you with that.
+
+00:13:09.535 --> 00:13:11.805
+Go look through the homepage
+that everything's labeled by
+
+00:13:11.805 --> 00:13:13.695
+playlist to help you further.
+
+00:13:13.765 --> 00:13:14.145
+Okay.
+
+00:13:14.725 --> 00:13:16.134
+Thank you so much for listening.
+
+00:13:16.275 --> 00:13:17.744
+I hope you have a wonderful day.
+
+00:13:18.015 --> 00:13:19.695
+And this was your first time here.
+
+00:13:20.165 --> 00:13:21.864
+Please hit that like and subscribe button.
+
+00:13:21.885 --> 00:13:25.824
+And if you are confused, comment below and
+I can help guide you to the right place
+
+00:13:25.824 --> 00:13:27.885
+and help you with the resources you need.
+
+00:13:28.255 --> 00:13:28.665
+Okay.
+
+00:13:29.105 --> 00:13:29.635
+Thank you.
+
+00:13:29.675 --> 00:13:30.455
+And bye bye.
+

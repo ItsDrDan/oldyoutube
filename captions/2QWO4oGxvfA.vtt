@@ -1,0 +1,811 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.090 --> 00:00:05.000
+Hello, and welcome back to part two of
+electromagnetic radiation in chemistry.
+
+00:00:05.360 --> 00:00:09.510
+So we're going to be continuing off
+where we left off, which is looking at
+
+00:00:09.510 --> 00:00:15.849
+quantum mechanics and how we are going
+to define this idea of quantization in
+
+00:00:15.849 --> 00:00:20.970
+terms of orbitals for especially the
+first with the Bohr model and how it has
+
+00:00:21.000 --> 00:00:26.090
+orbits and how it succeeds to an extent,
+but does not quite explain the complete
+
+00:00:26.099 --> 00:00:27.919
+picture of electron configuration.
+
+00:00:28.555 --> 00:00:29.305
+Let's take a look.
+
+00:00:38.575 --> 00:00:42.415
+Now, quantum is where
+physics broke in the 1900s.
+
+00:00:42.425 --> 00:00:45.285
+Since then, they've done a lot of
+formulas to figure out a lot of the
+
+00:00:45.285 --> 00:00:49.184
+details behind it, but there's still
+a lot to be tried and understood.
+
+00:00:50.225 --> 00:00:55.895
+So, it all kind of, it all goes with
+where you look at a really small scale.
+
+00:00:56.405 --> 00:01:00.230
+So, when you're trying to
+describe how matter works, It
+
+00:01:00.230 --> 00:01:02.240
+falls under two categories.
+
+00:01:02.790 --> 00:01:04.380
+There's small and big.
+
+00:01:04.990 --> 00:01:08.530
+Bigger scale is usually like more on
+the scale of biology, believe it or not.
+
+00:01:09.010 --> 00:01:13.450
+Smaller is when we talk about atomic,
+meaning quantum for atomic, and usually
+
+00:01:13.455 --> 00:01:18.080
+more thermo chemistry for the bigger
+picture, which we'll learn about as well.
+
+00:01:18.960 --> 00:01:22.410
+So when we're looking at that small
+scale, this is where the idea of
+
+00:01:22.410 --> 00:01:24.240
+the quan of the photon came about.
+
+00:01:25.285 --> 00:01:30.425
+And being that we have this light matter
+interaction, this is where the, the
+
+00:01:30.425 --> 00:01:36.845
+term quantization will come in as well,
+meaning that materials need to absorb
+
+00:01:37.164 --> 00:01:42.375
+a very specific amount of energy in
+order for them to be able to emit light.
+
+00:01:42.384 --> 00:01:43.994
+They just don't happen out of nowhere.
+
+00:01:44.285 --> 00:01:46.065
+It needs to be specific, right?
+
+00:01:46.085 --> 00:01:51.804
+It's like trying to pay a very specific
+amount to, uh, buy an item, right?
+
+00:01:51.804 --> 00:01:54.205
+You can't just, you know,
+go, you can't pay under.
+
+00:01:54.554 --> 00:01:57.184
+You can pay over, but you're
+gonna get change back, right?
+
+00:01:57.214 --> 00:01:59.725
+You need to pay a specific
+amount to buy something.
+
+00:02:00.204 --> 00:02:01.225
+It's the same idea.
+
+00:02:01.835 --> 00:02:07.345
+Now, when we give these, when we're seeing
+photons at specific energy levels, this
+
+00:02:07.345 --> 00:02:12.144
+is what allows you to be able to get a
+specific fingerprint for all the different
+
+00:02:12.155 --> 00:02:13.975
+pieces of matter that exist in the world.
+
+00:02:14.405 --> 00:02:18.670
+If it's something that can emit a
+photon, You can actually be able to
+
+00:02:18.670 --> 00:02:24.560
+identify different species, whether
+atomic, molecular, biological, um,
+
+00:02:24.859 --> 00:02:30.280
+medical cancer, cancers, whatever tests,
+if you can potentially apply these
+
+00:02:30.280 --> 00:02:34.280
+concepts to them, and it's being done
+even today in many different industries.
+
+00:02:34.725 --> 00:02:37.234
+So in lab, what we're going to
+be seeing is using different
+
+00:02:37.255 --> 00:02:41.984
+lamps here to be able to observe
+how different atoms will behave.
+
+00:02:41.984 --> 00:02:46.704
+They all have completely different spectra
+is what we call, what we'll be looking at.
+
+00:02:47.165 --> 00:02:49.475
+So notice how each one of
+them is a different color.
+
+00:02:49.854 --> 00:02:51.264
+Mercury up top is blue.
+
+00:02:51.575 --> 00:02:53.045
+Helium is like a pinkish color.
+
+00:02:53.045 --> 00:02:54.299
+Hydrogen is red.
+
+00:02:54.760 --> 00:03:00.100
+So they all have their own unique
+pattern of, uh, emission lines that
+
+00:03:00.100 --> 00:03:04.030
+we'll see based on how electrons are
+behaving within all these species.
+
+00:03:04.489 --> 00:03:07.479
+So exactly how does this kind of work?
+
+00:03:07.480 --> 00:03:12.459
+Well, when you take in the light from one
+of these lamps and you separate it, so
+
+00:03:12.460 --> 00:03:17.299
+you're going to be kind of spying at all
+these lamps and looking directly at them.
+
+00:03:17.600 --> 00:03:20.959
+It's going to separate the light
+into a prism and you'll actually see
+
+00:03:20.960 --> 00:03:22.809
+these unique lines that are here.
+
+00:03:22.999 --> 00:03:25.029
+which is like a fingerprint for each atom.
+
+00:03:25.029 --> 00:03:29.230
+I'll give you that ability to be
+able to see exactly what it is
+
+00:03:29.230 --> 00:03:31.809
+that you are looking at in the lab.
+
+00:03:32.310 --> 00:03:38.239
+Now, when we're trying to do this,
+how exactly is this going to work?
+
+00:03:38.920 --> 00:03:43.969
+Well, it is going to be, this is going to
+be a little bit complicated to understand.
+
+00:03:44.875 --> 00:03:45.695
+Bear with me.
+
+00:03:46.135 --> 00:03:50.925
+Try to, so this model with excitation
+and relaxation with the Bohr model
+
+00:03:51.295 --> 00:03:54.605
+only truly works with hydrogen,
+which is why it's going to be the
+
+00:03:54.605 --> 00:04:00.285
+one you're going to do calculations
+for using a Rydberg equation in lab.
+
+00:04:00.364 --> 00:04:01.315
+We'll get to that then.
+
+00:04:01.864 --> 00:04:06.675
+You try to understand exactly how
+the excitation and relaxation works.
+
+00:04:07.650 --> 00:04:12.390
+So, think of it this way, all,
+every single electron, right, that
+
+00:04:12.390 --> 00:04:14.460
+is here, has a circular orbit.
+
+00:04:15.029 --> 00:04:18.709
+Now, if you remember, each of
+those orbits were based on the
+
+00:04:18.719 --> 00:04:21.089
+rows of the Pirog table, right?
+
+00:04:21.089 --> 00:04:24.190
+So, each one had a new energy level.
+
+00:04:24.525 --> 00:04:27.555
+This is what we're going to
+refer to as a quantum number.
+
+00:04:27.775 --> 00:04:31.784
+We're going to use the letter N
+to determine that one orbital.
+
+00:04:32.485 --> 00:04:36.444
+Okay, so with each of those, right,
+you can see all the way in the
+
+00:04:36.445 --> 00:04:39.744
+center is N is equal to 1, and as
+it moves out, it goes N is equal to
+
+00:04:39.744 --> 00:04:42.664
+2, N is equal to 3, and so forth.
+
+00:04:43.455 --> 00:04:49.325
+So what is going to be happening
+is electron orbits are quantized,
+
+00:04:49.744 --> 00:04:53.844
+meaning that they have a very
+specific amount of energy.
+
+00:04:54.284 --> 00:04:56.195
+to access each orbital.
+
+00:04:56.625 --> 00:05:00.075
+So one way to think about it is think
+of an elevator that you're taking
+
+00:05:00.075 --> 00:05:01.784
+to different floors of a building.
+
+00:05:02.094 --> 00:05:03.695
+You hit a button for the second floor.
+
+00:05:04.044 --> 00:05:08.184
+It takes so much energy for the elevator
+to get pulled up to the second floor.
+
+00:05:08.554 --> 00:05:09.904
+You can hit the third floor.
+
+00:05:09.944 --> 00:05:12.604
+It takes so much energy to get
+pulled to the third floor, to
+
+00:05:12.605 --> 00:05:13.734
+the fourth floor and beyond.
+
+00:05:14.325 --> 00:05:18.485
+And you can travel between floors as
+well that require a certain amount of
+
+00:05:18.485 --> 00:05:20.555
+energy from the motor to pull it up.
+
+00:05:21.005 --> 00:05:26.574
+So the quantization is very similar to how
+an elevator works up and down a building.
+
+00:05:27.265 --> 00:05:32.704
+Now, with the N value, higher that
+value is, so if it's N is equal to
+
+00:05:32.705 --> 00:05:38.185
+1 versus, let's say, N is equal to
+5, the bigger the number, the more
+
+00:05:38.195 --> 00:05:42.435
+energy that it's going to have, and
+the farther it is from the nucleus,
+
+00:05:42.465 --> 00:05:44.104
+because it's going a farther distance.
+
+00:05:44.605 --> 00:05:47.055
+So if I want to start at the first
+floor and go all the way up to the fifth
+
+00:05:47.055 --> 00:05:51.315
+floor, it's going to take a longer time
+and more work in order to get there.
+
+00:05:53.365 --> 00:05:56.134
+Now how does transitioning
+between the orbitals work?
+
+00:05:56.145 --> 00:05:59.755
+Well, the larger it is, the more
+energy that it's going to need, right?
+
+00:06:00.265 --> 00:06:03.985
+So first way that it can
+happen is via excitation.
+
+00:06:04.425 --> 00:06:06.785
+So it's like getting that
+energy to go all the way up.
+
+00:06:06.785 --> 00:06:08.905
+So if you want to look
+at it like stairs, right?
+
+00:06:09.195 --> 00:06:13.265
+To go up the stairs, if I want to go from
+the first to the second floor, not so bad.
+
+00:06:13.335 --> 00:06:16.244
+But if I want to go from the first
+to the fifth floor, that's going
+
+00:06:16.245 --> 00:06:19.874
+to take a lot of work in order
+to get all the way up to the top.
+
+00:06:20.485 --> 00:06:24.664
+So we excite things in order to
+go from one level to the other.
+
+00:06:25.424 --> 00:06:29.005
+Now when we come back
+down, the goal is to relax.
+
+00:06:29.395 --> 00:06:34.405
+So we can relax all the way back to the
+bottom, and this is how electrons will
+
+00:06:34.425 --> 00:06:40.114
+get excited to higher levels, and they
+can relax back down to lower levels.
+
+00:06:40.695 --> 00:06:43.005
+And the goal is always
+to try to be relaxed.
+
+00:06:43.005 --> 00:06:46.515
+So if they absorb a bunch of energy
+and you're kind of running around
+
+00:06:46.515 --> 00:06:49.205
+and you're really anxious and have
+a ton of energy, either you need
+
+00:06:49.205 --> 00:06:51.394
+to find a way to relax, right?
+
+00:06:51.755 --> 00:06:55.054
+That's something that even humans
+need to do on a normal basis, right?
+
+00:06:55.054 --> 00:06:56.645
+We always need to find a way to relax.
+
+00:06:57.325 --> 00:07:01.295
+So looking at this, how is it going
+to look at in terms of a picture?
+
+00:07:01.325 --> 00:07:03.575
+Now you don't have to be an
+expert on knowing all this is kind
+
+00:07:03.575 --> 00:07:05.665
+of have the basic idea, right?
+
+00:07:06.325 --> 00:07:10.455
+So if I have, let's say a
+hydrogen that's stuck in a lamp.
+
+00:07:11.235 --> 00:07:12.775
+What we're going to do is
+we're going to excite it.
+
+00:07:13.275 --> 00:07:14.085
+How is that going to work?
+
+00:07:14.165 --> 00:07:17.285
+You plug it into a wall, it's going
+to put a lot of electricity into it.
+
+00:07:17.285 --> 00:07:21.215
+It's going to essentially cause that
+electricity to go in, and it's going to
+
+00:07:21.495 --> 00:07:24.275
+move the electrons up into higher levels.
+
+00:07:24.995 --> 00:07:29.205
+Now, when it does that, well, if I
+excite it, let's say from 1 to 3, well,
+
+00:07:29.205 --> 00:07:30.445
+it's going to have to relax back down.
+
+00:07:30.935 --> 00:07:34.755
+Being that once notice how it's the
+little red dot is in the third level.
+
+00:07:35.304 --> 00:07:38.194
+Well, if it's going to
+relax, how can I do that?
+
+00:07:38.314 --> 00:07:41.744
+The only way I can, it's
+by releasing a photon.
+
+00:07:42.325 --> 00:07:43.325
+This is how it relax.
+
+00:07:43.335 --> 00:07:44.835
+It needs to get rid of the energy.
+
+00:07:45.094 --> 00:07:46.255
+How do you do it right?
+
+00:07:46.395 --> 00:07:49.684
+There needs to be some kind
+of method for you to relax.
+
+00:07:49.965 --> 00:07:53.385
+For a lot of you, I can see that your
+relaxation methods might be just be
+
+00:07:53.624 --> 00:07:57.984
+playing video games, or maybe you have
+a lot of hobbies on your own that help
+
+00:07:57.984 --> 00:07:59.954
+you relax or something that you do.
+
+00:08:00.495 --> 00:08:04.835
+In this case, it needs to relax, it's
+going to release a red photon, and
+
+00:08:04.835 --> 00:08:09.634
+that can be observed being it's energy
+related at a specific wavelength.
+
+00:08:09.635 --> 00:08:14.294
+So if you notice in the top, uh, left
+corner of that spectrum all the way up
+
+00:08:14.294 --> 00:08:18.414
+there, you get 656 nanometers is red.
+
+00:08:18.744 --> 00:08:22.605
+So that's that transition, that relaxation
+is what you're observing with your eye.
+
+00:08:23.650 --> 00:08:27.660
+Now, you can see that specific
+transition, and it's going to relate
+
+00:08:27.720 --> 00:08:33.770
+to a very specific transition from n
+equals 3 to n is equal to 2, and we
+
+00:08:33.770 --> 00:08:40.300
+can observe that, and the way that kind
+of works is depending on the distance,
+
+00:08:40.800 --> 00:08:46.760
+these are referred to as energy gaps,
+meaning in order for it to either go up
+
+00:08:47.170 --> 00:08:53.945
+or go down, it needs to either absorb
+a Get excited or essentially release
+
+00:08:53.955 --> 00:08:58.835
+or relax a very specific amount of
+energy, which we'll see via a photon.
+
+00:08:59.965 --> 00:09:06.935
+So now the way to kind of picture this
+This exact amount is, I like to use my
+
+00:09:06.945 --> 00:09:11.805
+crappy drawings to show this, and it's
+all about, let's say if I have a toll
+
+00:09:11.805 --> 00:09:14.814
+road that I have to go through, right,
+we don't have a lot of them here in
+
+00:09:14.835 --> 00:09:19.984
+uh, central California, but if you need
+to go through a toll, and you need to
+
+00:09:19.984 --> 00:09:24.625
+spend a, and the only thing that they
+do is they accept only exact change,
+
+00:09:25.074 --> 00:09:27.574
+how can you go through that toll?
+
+00:09:27.944 --> 00:09:30.944
+There's only so many
+possibilities for you to do that.
+
+00:09:31.584 --> 00:09:34.175
+So it's the same idea as your
+lines that you're seeing.
+
+00:09:34.939 --> 00:09:38.930
+Let's say if I want to go through the
+5 toll, well, what's your option here?
+
+00:09:38.930 --> 00:09:44.010
+If you only have a 5, a 10 bill, and
+a 20 bill, what option do you have?
+
+00:09:44.400 --> 00:09:47.880
+The only way for you to go
+through is by paying a 5 bill.
+
+00:09:48.430 --> 00:09:51.479
+So that is one photon of light is the 5.
+
+00:09:52.379 --> 00:09:55.850
+If I want to go through the 20
+toll, what options do you have?
+
+00:09:55.850 --> 00:09:59.200
+Well, you could give the
+20, you could give two tens.
+
+00:09:59.595 --> 00:10:04.435
+Two or four fives, two fives and a ten,
+you have options, meaning that there could
+
+00:10:04.435 --> 00:10:09.235
+be multiple lines that are available to be
+seen, right, in terms of the quantum side.
+
+00:10:09.984 --> 00:10:15.515
+So when you have options, you can
+see that there are going to be many
+
+00:10:15.524 --> 00:10:17.315
+different lines that are possible.
+
+00:10:17.615 --> 00:10:21.415
+So if you can see like helium has a
+bunch of lines, barium has more lines.
+
+00:10:21.879 --> 00:10:25.020
+And then white light is referring to kind
+of staring at your fluorescence light.
+
+00:10:25.030 --> 00:10:28.280
+It's a spectrum of many lines because
+there's many elements in that.
+
+00:10:29.060 --> 00:10:33.689
+Um, now every single one of these
+things has a unique spectrum.
+
+00:10:33.949 --> 00:10:37.650
+It's like a barcode at a grocery
+store or a Target or wherever.
+
+00:10:37.989 --> 00:10:40.409
+It goes to every single
+individual item in the store.
+
+00:10:40.929 --> 00:10:44.619
+Essentially every one of these is like a
+barcode that has a very specific signature
+
+00:10:44.629 --> 00:10:46.709
+for any of these individual elements.
+
+00:10:47.610 --> 00:10:53.009
+So, when essentially this has that
+light being emitted, we can exactly
+
+00:10:53.009 --> 00:10:57.479
+see any of these types of things, which
+is what we're going to be observing
+
+00:10:57.490 --> 00:11:00.709
+in straightforward in lab, is all
+these elements are unique, right?
+
+00:11:00.709 --> 00:11:03.870
+They have unique properties, so going
+back to the, they all have, they're
+
+00:11:03.870 --> 00:11:06.839
+a unique piece of matter, they have
+unique properties, and they have
+
+00:11:06.839 --> 00:11:11.310
+unique spectrum that can be seen
+firsthand, and you can see the atomic
+
+00:11:11.310 --> 00:11:15.850
+signatures of atoms exist via using the
+spectroscopy, and that's the cool part.
+
+00:11:15.959 --> 00:11:17.079
+What's the summary here?
+
+00:11:17.970 --> 00:11:22.280
+So the whole big thing is, the
+first thing is that the Bohr model,
+
+00:11:22.280 --> 00:11:23.950
+what does it suggest in the end?
+
+00:11:24.580 --> 00:11:26.400
+The Bohr model is not going
+to be our final model.
+
+00:11:26.750 --> 00:11:30.140
+There's going to be one more that's going
+to be way more complicated, but it's
+
+00:11:30.149 --> 00:11:31.319
+something we're going to learn next.
+
+00:11:31.910 --> 00:11:35.130
+But it all comes from, it suggests
+one thing, is that there's
+
+00:11:35.149 --> 00:11:38.060
+quantization, meaning that we
+have specific energy levels.
+
+00:11:38.709 --> 00:11:42.339
+So we have n is equal to
+1, 2, 3, 4, 5, to infinity.
+
+00:11:43.035 --> 00:11:47.165
+Now, every single one of these, when we
+have an excited level, when we promote
+
+00:11:47.215 --> 00:11:51.934
+an electron to a higher level, it goes
+from a ground state, so its lowest
+
+00:11:51.935 --> 00:11:57.244
+level, so wherever it's relaxed, to a
+newer, higher state, right, whenever
+
+00:11:57.244 --> 00:11:58.714
+that happens, so when it's excited.
+
+00:11:59.685 --> 00:12:03.575
+Now, we label all these with quantum
+numbers, which is really useful, right,
+
+00:12:03.575 --> 00:12:07.564
+so all of the rows on your periodic
+table are going to be your quantum
+
+00:12:07.564 --> 00:12:11.575
+numbers that we're going to see, so, and
+it goes from 1 to 7, to make it really
+
+00:12:11.575 --> 00:12:13.485
+easy for us for our first semester, and.
+
+00:12:13.835 --> 00:12:16.705
+As you get farther in chemistry, you'll
+find out it's more complicated than that.
+
+00:12:17.505 --> 00:12:22.995
+Um, when it relaxes back down, this is
+going to release energy and it's going to
+
+00:12:23.005 --> 00:12:27.115
+be in the form of a photon that's going
+to be observed, right, when this happens.
+
+00:12:27.774 --> 00:12:32.115
+So you can either absorb a photon or
+it can release one through relaxation.
+
+00:12:33.095 --> 00:12:37.405
+And these transitions equal to
+a very specific amount of energy
+
+00:12:37.405 --> 00:12:40.255
+that can be calculated too, right?
+
+00:12:40.285 --> 00:12:42.455
+You can calculate these different levels.
+
+00:12:42.925 --> 00:12:47.574
+Um, if you were to try and do this using
+those formulas I showed earlier, right?
+
+00:12:47.574 --> 00:12:53.535
+So, energy is equal to h times, uh,
+nu, or you can also use, uh, energy
+
+00:12:53.545 --> 00:12:57.574
+being related to, um, h times the speed
+of light divided by the wavelength.
+
+00:12:58.035 --> 00:13:01.024
+So you can use that as
+well to find energy.
+
+00:13:01.995 --> 00:13:06.875
+Um, this is what essentially tells
+you that every element has its own
+
+00:13:06.905 --> 00:13:09.355
+characteristic spectrum, telling
+you that every element is different
+
+00:13:09.355 --> 00:13:16.045
+and lets you see how the subatomic
+particles exist and they all behave
+
+00:13:16.045 --> 00:13:17.414
+differently, which is the cool part.
+
+00:13:18.395 --> 00:13:20.924
+Okay, so that is enough for this video.
+
+00:13:21.335 --> 00:13:22.514
+I've talked for a while.
+
+00:13:22.664 --> 00:13:23.194
+I'm sorry.
+
+00:13:23.884 --> 00:13:27.675
+I hope that this helped a little bit
+to try to understand the quantum, which
+
+00:13:27.685 --> 00:13:31.074
+for the physics people out there, if
+there are a few of you, And I hope
+
+00:13:31.074 --> 00:13:34.725
+that it kind of showed you what you
+will see when you get to physics 4C.
+
+00:13:35.215 --> 00:13:37.865
+Um, and also for the people
+that are in general chem, that's
+
+00:13:37.895 --> 00:13:39.624
+through Gen Chem 1A and 1B.
+
+00:13:39.624 --> 00:13:41.974
+This is further, you'll get
+going further later too.
+
+00:13:42.465 --> 00:13:45.125
+And if you're not and you're just
+health science and bio, just keep
+
+00:13:45.125 --> 00:13:46.075
+in mind it gets crazy and gets
+

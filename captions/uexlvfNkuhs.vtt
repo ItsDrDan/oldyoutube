@@ -1,0 +1,1081 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:13.870 --> 00:00:18.210
+Hi and welcome back to another episode
+with ItsDrDan and this time we're
+
+00:00:18.210 --> 00:00:20.230
+going to be looking into gas laws.
+
+00:00:20.620 --> 00:00:25.639
+So last time on our previous video
+of introduction to gases and kinetic
+
+00:00:25.639 --> 00:00:29.750
+molecular theory we learned that we
+have little gas or little particles that
+
+00:00:29.750 --> 00:00:34.025
+are bouncing all over the place moving
+in constant speed motion and they're
+
+00:00:34.025 --> 00:00:39.575
+applying pressures with inside of whatever
+space they are located in they fill
+
+00:00:39.595 --> 00:00:41.885
+whatever volume they are currently in.
+
+00:00:42.255 --> 00:00:46.214
+So for example the air in your room,
+it's in every square inch of your room.
+
+00:00:46.525 --> 00:00:48.925
+It's not just in one little
+location around our mouth.
+
+00:00:48.925 --> 00:00:53.834
+It is everywhere then that's because all
+those millions and millions of atoms that
+
+00:00:53.834 --> 00:00:59.129
+are all around are all bouncing around
+and moving and flowing, so There are
+
+00:00:59.129 --> 00:01:04.140
+a lot of very simple laws, being that
+these are ideal gases, talking about very
+
+00:01:04.140 --> 00:01:06.380
+minimal interactions between each other.
+
+00:01:06.710 --> 00:01:10.150
+We can describe them with laws,
+meaning that we can use a lot of
+
+00:01:10.150 --> 00:01:14.329
+mathematics to describe how can we
+predict how they're going to function.
+
+00:01:14.919 --> 00:01:17.730
+So, one of the first ones is Boyle's Law.
+
+00:01:18.180 --> 00:01:22.650
+So, what Boyle's Law tells us is that
+there is, whenever you have a pressure
+
+00:01:22.680 --> 00:01:25.949
+and a volume of a gas, that are initial.
+
+00:01:25.960 --> 00:01:29.750
+So whenever we have something that's
+considered to be initial, we're
+
+00:01:29.750 --> 00:01:33.000
+going to be representing that with,
+so if I have an initial pressure,
+
+00:01:33.020 --> 00:01:34.460
+that's going to be with a one.
+
+00:01:34.810 --> 00:01:36.920
+If it's an initial
+volume, that would be V1.
+
+00:01:38.159 --> 00:01:42.869
+So whenever you have those two values,
+they are going to be equal to a
+
+00:01:42.880 --> 00:01:45.000
+final pressure and a final volume.
+
+00:01:46.215 --> 00:01:51.155
+of that gas, meaning that let's say if I
+took a, a balloon and I'm holding it in
+
+00:01:51.165 --> 00:01:55.225
+my hand, well, what were to happen if you
+were to try to compress it in your hand?
+
+00:01:55.435 --> 00:01:57.705
+Is it going to resist you
+or is it going to pop?
+
+00:01:57.985 --> 00:02:01.605
+Well, if while you're pressing on
+that balloon, you're going to feel it
+
+00:02:01.605 --> 00:02:05.885
+resisting you until eventually it pops,
+but for the longest time it will resist.
+
+00:02:06.185 --> 00:02:07.175
+That's pressure.
+
+00:02:07.625 --> 00:02:12.715
+So the whole idea that is, okay, is that
+there's this inverse relationship here,
+
+00:02:12.874 --> 00:02:20.085
+meaning that as you increase pressure,
+the volume of which that gas is occupying
+
+00:02:20.385 --> 00:02:22.885
+is going to decrease as a result.
+
+00:02:23.355 --> 00:02:25.714
+So we can make a lot of predictions here.
+
+00:02:25.714 --> 00:02:30.614
+So as pressure increases, going from
+P1 to P2, volume is going to decrease.
+
+00:02:31.134 --> 00:02:38.005
+If you go from P, uh, P1 to P2, so
+initial to final, and it's decreasing.
+
+00:02:38.684 --> 00:02:41.445
+The volume is going to be
+increasing as a result.
+
+00:02:42.175 --> 00:02:44.565
+So what does that look
+like in terms of graphing?
+
+00:02:45.094 --> 00:02:49.684
+Well, if you have, let's say, looking
+at this, if we have our initial pressure
+
+00:02:50.374 --> 00:02:55.964
+at initial volume, and let's say I
+decrease the pressure and I go down,
+
+00:02:56.464 --> 00:03:01.584
+so if I'm going downwards, well, as
+that goes down, well, what's happening
+
+00:03:01.584 --> 00:03:06.975
+is, well, the volume It's going to be
+decreasing, it's going to be increasing.
+
+00:03:06.995 --> 00:03:10.495
+So volume goes up as pressure goes down.
+
+00:03:10.945 --> 00:03:13.864
+So it's all about that
+inverse relationship.
+
+00:03:13.885 --> 00:03:17.944
+So how can we, what exactly are you
+going to have to solve mathematically?
+
+00:03:18.365 --> 00:03:21.885
+Well, it's generally
+pretty easy questions.
+
+00:03:22.075 --> 00:03:26.534
+So if I have the following one and
+I ask you this question here and
+
+00:03:26.534 --> 00:03:31.065
+I say that we have a sample of gas
+and it's placed inside of a piston.
+
+00:03:31.665 --> 00:03:32.164
+Well, it...
+
+00:03:32.385 --> 00:03:34.525
+A piston essentially
+is this metal cylinder.
+
+00:03:34.525 --> 00:03:35.765
+It's going to be pushing down.
+
+00:03:35.775 --> 00:03:39.155
+It's going to be compressing
+all the gases like I have here.
+
+00:03:39.665 --> 00:03:43.115
+So if I have a little, a little piston
+here, I have a gas inside of here.
+
+00:03:43.115 --> 00:03:47.825
+They're bouncing all around
+and this occupies 425
+
+00:03:47.825 --> 00:03:49.184
+milliliters at one atmosphere.
+
+00:03:49.304 --> 00:03:53.985
+So let's try to highlight all
+that important information.
+
+00:03:53.995 --> 00:03:56.084
+So we have 525 milliliters.
+
+00:03:56.585 --> 00:03:58.465
+And that's at one atmosphere.
+
+00:03:59.025 --> 00:04:03.585
+So, whenever you're reading these, what
+we want to do is we want to write down
+
+00:04:03.785 --> 00:04:06.324
+all of our given pieces of information.
+
+00:04:07.005 --> 00:04:09.445
+So we have 425 milliliters.
+
+00:04:10.010 --> 00:04:12.140
+and that's at one atmosphere.
+
+00:04:13.269 --> 00:04:17.659
+So that tells you your V1 and
+then your P1 of those two values.
+
+00:04:18.169 --> 00:04:22.089
+Now it mentions that the
+gas piston is compressed.
+
+00:04:22.099 --> 00:04:25.000
+So you can see that, okay, it's
+coming really close together.
+
+00:04:25.000 --> 00:04:27.270
+So it's like the example I
+said, if I push on a balloon,
+
+00:04:27.580 --> 00:04:28.679
+what's going to be happening?
+
+00:04:29.059 --> 00:04:34.815
+So when that compresses, it says
+that the pressure reaches 3.
+
+00:04:34.855 --> 00:04:35.935
+28 atmospheres.
+
+00:04:35.945 --> 00:04:41.265
+So that means that as this pressure
+is changing, it goes from 3.
+
+00:04:41.315 --> 00:04:42.635
+28 atmospheres.
+
+00:04:43.555 --> 00:04:47.894
+So what you see is that
+pressure is increasing.
+
+00:04:48.274 --> 00:04:50.754
+So, how can we try to
+predict this problem?
+
+00:04:50.754 --> 00:04:56.535
+Well, going back up, well as
+pressure increases, so looking at
+
+00:04:56.545 --> 00:04:58.475
+these, right, so pressure increases.
+
+00:04:58.960 --> 00:05:00.710
+Volume should decrease.
+
+00:05:00.719 --> 00:05:04.000
+So it's telling you that your final
+answer should be a tinier volume.
+
+00:05:04.320 --> 00:05:05.859
+It's a check for yourself.
+
+00:05:05.890 --> 00:05:08.960
+Which makes it really nicer when
+you're doing these problems.
+
+00:05:09.369 --> 00:05:11.140
+We like predictable problems.
+
+00:05:11.140 --> 00:05:14.010
+We don't want something that,
+you know, it goes into something
+
+00:05:14.010 --> 00:05:15.809
+that doesn't fit anywhere.
+
+00:05:16.269 --> 00:05:18.249
+So we're trying to figure out V2.
+
+00:05:18.739 --> 00:05:24.299
+So what we're going to be doing
+initially is setting up our formula.
+
+00:05:26.320 --> 00:05:32.600
+Meaning that I have P1
+V1 is equal to P2 V2.
+
+00:05:33.200 --> 00:05:36.480
+So we are trying to solve for V2 here.
+
+00:05:36.480 --> 00:05:38.680
+So V2 is our unknown variable.
+
+00:05:39.070 --> 00:05:41.990
+So the whole idea here is
+we need to get it by itself.
+
+00:05:42.230 --> 00:05:43.889
+Well, what's the easiest way to do that?
+
+00:05:44.380 --> 00:05:50.920
+Well, if I divide both sides by
+P2, what that's going to cause
+
+00:05:51.040 --> 00:05:55.110
+is for the P2 values to cancel.
+
+00:05:55.900 --> 00:06:02.140
+And that will, in a sense, get
+V1 by itself, so we have P1,
+
+00:06:03.109 --> 00:06:09.260
+P1 times V1, divided by P2, and
+that's going to be equal to V2.
+
+00:06:10.049 --> 00:06:13.990
+So, all we now need to do is
+plug in all of our information.
+
+00:06:14.550 --> 00:06:17.730
+Now, when you're plugging these
+things in, whatever the common,
+
+00:06:18.604 --> 00:06:20.574
+Variable is so in this case pressure.
+
+00:06:20.975 --> 00:06:22.515
+They need to be in the same units.
+
+00:06:22.515 --> 00:06:26.764
+They need to be able to cancel each other
+out So when we are doing this, right
+
+00:06:26.785 --> 00:06:33.775
+our initial pressure was one atmosphere
+and that's going to be multiplied by
+
+00:06:33.784 --> 00:06:42.655
+425 milliliters And that's all going to
+be divided by pressure 2, which is 3.
+
+00:06:42.715 --> 00:06:43.945
+28 atmospheres.
+
+00:06:44.805 --> 00:06:49.805
+Alright, so when we do that, what
+that's going to be all equal to is
+
+00:06:49.805 --> 00:06:56.795
+that V2 will be equal to, um, 129.
+
+00:06:56.815 --> 00:07:00.075
+6 mL.
+
+00:07:00.655 --> 00:07:02.165
+Now, is that the correct sig figs?
+
+00:07:02.365 --> 00:07:03.135
+We're just going to round it.
+
+00:07:03.175 --> 00:07:06.265
+And you might notice there's three
+sig figs for all of your givens.
+
+00:07:06.845 --> 00:07:08.675
+So this will round to 130.
+
+00:07:10.109 --> 00:07:10.820
+Milliliters.
+
+00:07:11.179 --> 00:07:12.850
+Okay, and now this would be your final.
+
+00:07:14.460 --> 00:07:15.440
+Your final answer there.
+
+00:07:15.909 --> 00:07:17.420
+So that's how we do Boyle's Law.
+
+00:07:17.550 --> 00:07:20.980
+For the next one, Charles Law.
+
+00:07:22.100 --> 00:07:27.730
+Charles Law is another type of
+really, another really common gas law.
+
+00:07:27.840 --> 00:07:32.450
+So what this is telling you is that volume
+is directly proportional to temperature.
+
+00:07:33.145 --> 00:07:36.305
+And this could kind of make some sense
+if you think back to the simulation that
+
+00:07:36.305 --> 00:07:41.745
+I showed in my previous problem where
+as we increase temperature, particles
+
+00:07:41.755 --> 00:07:43.985
+start to move at a very rapid pace.
+
+00:07:44.485 --> 00:07:47.655
+So when that happens, those
+particles are going to be pushing
+
+00:07:47.655 --> 00:07:51.584
+and banging against all the walls
+of whatever its container is.
+
+00:07:51.594 --> 00:07:55.484
+So if it's something that's flexible,
+well, it's going to grow as a
+
+00:07:55.484 --> 00:07:56.704
+result, so they're proportional.
+
+00:07:57.364 --> 00:08:02.104
+So meaning that if, as initial volume,
+if that's going to be increasing,
+
+00:08:02.864 --> 00:08:06.880
+then You're going to see the same,
+a proportional change in your
+
+00:08:06.880 --> 00:08:08.640
+final temperature and final volume.
+
+00:08:08.900 --> 00:08:13.799
+So the way that we can look at this
+is a very different graphical picture,
+
+00:08:14.319 --> 00:08:20.909
+is that if I have volume at an initial
+temperature, and if I increase the volume,
+
+00:08:21.415 --> 00:08:23.215
+Temperature is going to increase too.
+
+00:08:23.235 --> 00:08:25.015
+They're both going to increase.
+
+00:08:25.375 --> 00:08:28.195
+So if temperature increases,
+volume should increase too.
+
+00:08:28.255 --> 00:08:29.984
+They are directly proportional.
+
+00:08:30.555 --> 00:08:33.424
+Now, one of the things about this
+is, being that we're talking about
+
+00:08:33.504 --> 00:08:37.924
+temperature, this is one of the units
+that needs to be in the correct scale.
+
+00:08:38.314 --> 00:08:39.804
+It needs to be in Kelvin.
+
+00:08:40.205 --> 00:08:45.335
+Now, the reason behind that is because
+Kelvin is an absolute unit scale.
+
+00:08:45.845 --> 00:08:49.525
+Meaning that it only
+refers to positive values.
+
+00:08:49.564 --> 00:08:54.765
+You cannot do the mathematics here with
+negatives or with zero as a possibility.
+
+00:08:54.775 --> 00:08:56.674
+It has to be a positive number.
+
+00:08:56.674 --> 00:08:59.885
+So anywhere from 0.
+
+00:08:59.885 --> 00:09:02.705
+0001 all the way up to infinity, right?
+
+00:09:02.715 --> 00:09:04.475
+So it's always a positive value.
+
+00:09:05.275 --> 00:09:07.395
+So, now this is also predictable.
+
+00:09:07.944 --> 00:09:10.694
+As volume increases,
+temperature should increase.
+
+00:09:10.875 --> 00:09:11.954
+If volume decreases...
+
+00:09:12.245 --> 00:09:13.405
+Temperature should decrease.
+
+00:09:13.415 --> 00:09:17.785
+So we should be able to predict our answer
+too, which is always a nice thing to have.
+
+00:09:17.785 --> 00:09:21.505
+We want as predictable as possible.
+
+00:09:22.755 --> 00:09:26.664
+So the idea for this one, if
+I had the following question,
+
+00:09:27.314 --> 00:09:30.234
+so if I say I have a 2.
+
+00:09:30.235 --> 00:09:34.774
+75 liter sample, okay, so we
+have a volume, and it's at a
+
+00:09:34.775 --> 00:09:37.255
+temperature of 25 degrees C.
+
+00:09:38.155 --> 00:09:42.205
+When the amount of gas and pressure
+are held constant, so being that that's
+
+00:09:42.205 --> 00:09:45.465
+telling you that it's not relevant to
+this problem It's helping you be able
+
+00:09:45.465 --> 00:09:49.565
+to decide which formula to use this
+time We know it's Charles law, but most
+
+00:09:49.574 --> 00:09:55.424
+problems are given you have to pick
+from all of them What is the new volume
+
+00:09:55.755 --> 00:09:59.425
+when argon is heated to 45 degrees C?
+
+00:09:59.775 --> 00:10:05.215
+So argon is being heated this Volume of
+gas is going to be growing because they're
+
+00:10:05.215 --> 00:10:12.270
+moving more rapidly so Now keep note, we
+do have to convert all these to Kelvin.
+
+00:10:12.390 --> 00:10:14.370
+So we have to use our
+little Kelvin equation.
+
+00:10:14.790 --> 00:10:17.680
+So why don't we write down
+all these values we had.
+
+00:10:18.120 --> 00:10:23.069
+So we had that volume 1 was 2.
+
+00:10:23.070 --> 00:10:24.379
+75 liters.
+
+00:10:24.820 --> 00:10:29.860
+We have, we don't have a
+volume 2, kind of going through
+
+00:10:29.860 --> 00:10:31.700
+these, so we have no volume 2.
+
+00:10:31.720 --> 00:10:32.710
+That's a question mark.
+
+00:10:33.725 --> 00:10:41.545
+And T1 and T2 were 25
+degrees C and 45 degrees C.
+
+00:10:42.935 --> 00:10:45.705
+Alright, so when you're going through
+these, the first thing we have to do
+
+00:10:45.705 --> 00:10:47.914
+is convert our temperatures to Kelvin.
+
+00:10:48.435 --> 00:10:52.105
+So in order to do that, we
+just take our temperatures.
+
+00:10:52.105 --> 00:10:56.105
+So if I have T1, Kelvin is
+just going to be that 25.
+
+00:10:56.625 --> 00:11:00.155
+0 degrees C plus 273.
+
+00:11:00.975 --> 00:11:04.105
+And what that's going to give
+us, our first value is 298.
+
+00:11:05.579 --> 00:11:12.380
+Kelvin for T1, and then T2, doing the
+same mathematics, you're going to see
+
+00:11:12.380 --> 00:11:15.669
+that that one's going to be 318 Kelvin.
+
+00:11:16.709 --> 00:11:19.689
+All right, so now we can
+plug it into our equation.
+
+00:11:19.789 --> 00:11:28.260
+Our equation before was V1,
+T1, is equal to V2 over T2.
+
+00:11:29.320 --> 00:11:35.540
+So, what we're going to do is we're going
+to rearrange it to get V2 by itself.
+
+00:11:35.990 --> 00:11:40.780
+So what we can simply do is, being
+that we want to get this by itself,
+
+00:11:41.190 --> 00:11:44.200
+we can multiply both sides by T2.
+
+00:11:45.950 --> 00:11:51.099
+This is going to cause the number of the
+T2s on the right hand side to cancel,
+
+00:11:52.000 --> 00:12:00.340
+giving us a new formula, or a rearranged
+formula, of this is equal to V2.
+
+00:12:01.275 --> 00:12:05.075
+And what we're simply going to be
+doing is plugging in our variables.
+
+00:12:05.625 --> 00:12:12.565
+So we have T2, which
+was equal to 318 Kelvin.
+
+00:12:14.104 --> 00:12:16.574
+We have V1, which was 2.
+
+00:12:16.574 --> 00:12:18.704
+75 liters.
+
+00:12:20.215 --> 00:12:24.965
+And then we have T1, which was 298 Kelvin.
+
+00:12:25.625 --> 00:12:29.654
+Now, notice how the Kelvin ends
+up canceling each other out,
+
+00:12:29.665 --> 00:12:31.425
+leaving us only with a volume.
+
+00:12:32.085 --> 00:12:37.784
+So when we go through this calculation,
+what we're going to end up getting is 2.
+
+00:12:38.725 --> 00:12:42.015
+93 liters of gas.
+
+00:12:42.485 --> 00:12:44.765
+Now, does that make sense
+based on what we saw?
+
+00:12:45.205 --> 00:12:51.085
+Well, as you notice, temperature was
+increasing as we went from T1 to T2.
+
+00:12:52.149 --> 00:12:56.609
+So, if that's the case, volume should
+also increase, and based on our original
+
+00:12:56.609 --> 00:13:00.369
+volume, you can see that increase by a
+little tiny bit when it was heated up.
+
+00:13:00.780 --> 00:13:05.229
+So this gives you an idea of what we
+are looking for with this gas law.
+
+00:13:05.339 --> 00:13:09.740
+So as volume increases,
+temperature should also increase.
+
+00:13:09.930 --> 00:13:11.780
+Same thing with vice versa.
+
+00:13:11.920 --> 00:13:14.310
+Temperature decreases,
+volume should decrease.
+
+00:13:17.470 --> 00:13:21.900
+The next law, so there's a lot of these,
+but we'll go through them step by step.
+
+00:13:22.129 --> 00:13:24.449
+This one is Gay Lussac's Law.
+
+00:13:25.050 --> 00:13:27.310
+This one's also a very similar idea.
+
+00:13:27.890 --> 00:13:29.960
+This one tells you that as pressure.
+
+00:13:30.439 --> 00:13:32.360
+is directly proportional to temperature.
+
+00:13:32.510 --> 00:13:36.990
+So if you think of your car tires,
+for example, throughout the summer, as
+
+00:13:36.990 --> 00:13:40.079
+it gets really hot out, the pressure
+of your tires is going to increase.
+
+00:13:40.139 --> 00:13:44.139
+This is one of the reasons why your
+tires have a maximum recommended
+
+00:13:44.139 --> 00:13:49.109
+pressure on your tires, because
+if you overfill them, and then it
+
+00:13:49.109 --> 00:13:50.430
+gets hot out, they will explode.
+
+00:13:50.995 --> 00:13:54.595
+Versus when it gets to winter time and
+you might have that air pressure light
+
+00:13:54.595 --> 00:13:56.145
+that comes on saying low pressure.
+
+00:13:56.405 --> 00:13:58.965
+Well, that's because all those
+molecules are getting really cold
+
+00:13:58.995 --> 00:14:03.185
+and they're starting to kind of
+try to bundle up really closely.
+
+00:14:03.755 --> 00:14:08.044
+So whenever you have a gas at initial
+pressure and initial temperature,
+
+00:14:08.104 --> 00:14:12.274
+this is proportional to the final
+pressure and final temperature.
+
+00:14:12.974 --> 00:14:15.394
+So it's a very similar graph
+to the one I just showed you.
+
+00:14:15.674 --> 00:14:19.814
+Instead though, when we have an initial
+pressure and temperature and if I decide
+
+00:14:19.814 --> 00:14:25.440
+to increase Pressure, temperature is going
+to increase as well and it's the whole
+
+00:14:25.440 --> 00:14:30.130
+idea that fast moving molecule picture the
+faster They're moving if you have a solid
+
+00:14:30.130 --> 00:14:35.700
+container that can't expand Let's say for
+example, maybe a gas cylinder the steel
+
+00:14:35.700 --> 00:14:40.599
+walls Well, if those molecules are heated
+up, they're going to be really pushing
+
+00:14:40.599 --> 00:14:46.520
+against those walls of that container So
+once again, this is a direct relationship
+
+00:14:46.540 --> 00:14:48.535
+meaning that They go together.
+
+00:14:49.075 --> 00:14:51.705
+As pressure increases,
+temperature increases.
+
+00:14:51.805 --> 00:14:53.295
+They both increase together.
+
+00:14:53.644 --> 00:14:56.324
+Or, the opposite is they
+both decrease together.
+
+00:14:56.765 --> 00:14:59.235
+Pressure goes down,
+temperature comes down too.
+
+00:15:00.635 --> 00:15:02.545
+So, what kind of problems would you have?
+
+00:15:02.645 --> 00:15:04.125
+So, let's say if I gave
+you the following one.
+
+00:15:04.855 --> 00:15:08.175
+Let's say I had a balloon and I
+decided to dump liquid nitrogen on it.
+
+00:15:08.395 --> 00:15:12.635
+So, if you have a balloon and it's
+at 3 atmospheres of gas, and it's
+
+00:15:12.635 --> 00:15:17.065
+at room temperature, so about 300
+Kelvin, and it's cooled down with
+
+00:15:17.065 --> 00:15:21.155
+liquid nitrogen to a pressure of 0.
+
+00:15:21.155 --> 00:15:21.169
+77 atmospheres.
+
+00:15:21.890 --> 00:15:25.079
+What is the new
+temperature of the balloon?
+
+00:15:25.079 --> 00:15:28.310
+So if this thing is completely deflated,
+and that's because those molecules
+
+00:15:28.310 --> 00:15:33.120
+are so cold, they're moving really
+slowly, they're not able to push
+
+00:15:33.140 --> 00:15:35.940
+against the walls of the container
+because they're not moving as fast.
+
+00:15:36.250 --> 00:15:40.140
+So, same as before, we're going to
+write down all of the key things.
+
+00:15:40.359 --> 00:15:47.010
+So the first one is that the pressure
+was at 3 atmospheres, and that was at a
+
+00:15:47.090 --> 00:15:55.020
+temperature of 300 K, and notice how I
+put the decimal place there to 3 sig figs.
+
+00:15:55.730 --> 00:16:04.069
+Now, I mentioned that the pressure
+changes to P2, and that's at 0.
+
+00:16:04.220 --> 00:16:05.469
+77 atmospheres.
+
+00:16:06.050 --> 00:16:11.819
+So T2 is not known, so we're going
+to be using Our equation, which
+
+00:16:11.819 --> 00:16:17.810
+was P1 over T1, is equal to P2, T2.
+
+00:16:18.750 --> 00:16:21.249
+Okay, so we want to get T2 by itself.
+
+00:16:21.930 --> 00:16:28.350
+Notice how T2 here is in the denominator,
+so it's really not an easy thing.
+
+00:16:28.965 --> 00:16:29.865
+to get by itself.
+
+00:16:29.865 --> 00:16:32.975
+You have to multiply it and kind
+of move a bunch of things around.
+
+00:16:33.485 --> 00:16:38.665
+One thing about these equations, if
+your variable is in the denominator,
+
+00:16:38.755 --> 00:16:42.955
+or the part I have highlighted
+in purple, what you can do is
+
+00:16:42.965 --> 00:16:46.414
+you can use the inverse of this.
+
+00:16:46.714 --> 00:16:51.775
+So if you have an inverse,
+what that's doing is, is it's
+
+00:16:51.785 --> 00:16:53.355
+flipping your whole equation.
+
+00:16:53.765 --> 00:17:00.595
+So if we flip it, well, what's that
+going to be doing if you flip something?
+
+00:17:00.604 --> 00:17:11.060
+Well, You're just flipping it to be T1
+P1 is equal to P2, or sorry, T2 over P2.
+
+00:17:12.159 --> 00:17:17.059
+So if we do that, notice now
+that T2 is now on the top.
+
+00:17:17.815 --> 00:17:25.204
+Meaning that this makes it a little bit
+easier to cancel out P2 in this case.
+
+00:17:27.195 --> 00:17:35.035
+So now when we try to cancel things,
+P2 and P2 cancel and it gets T2 by
+
+00:17:35.035 --> 00:17:36.724
+itself in a really quick matter.
+
+00:17:36.724 --> 00:17:39.815
+It's a good little trick to have
+in your chemist's toolbox to store
+
+00:17:39.815 --> 00:17:42.045
+for later as a mathematical tip.
+
+00:17:42.575 --> 00:17:48.290
+So our formula in this case will
+be P2 So taking what's over here,
+
+00:17:49.290 --> 00:17:55.070
+P2 T1 over P1 is equal to T2.
+
+00:17:55.909 --> 00:17:59.290
+So when we take all of our
+numbers from earlier, we'll plug
+
+00:17:59.300 --> 00:18:01.990
+in our new atmospheric pressure.
+
+00:18:03.400 --> 00:18:07.900
+We'll plug in our original
+temperature, so it would be 0.
+
+00:18:07.900 --> 00:18:10.040
+77 atmospheres times 300 Kelvin.
+
+00:18:10.645 --> 00:18:13.315
+And that's divided by three atmospheres.
+
+00:18:13.925 --> 00:18:19.035
+So, when that happens, when we go through
+that process, uh, what we're going to
+
+00:18:19.035 --> 00:18:29.455
+be getting in a sense is, um, that the
+temperature of our gas is going to be 77
+
+00:18:29.975 --> 00:18:34.685
+Kelvin from our mathematics here, which
+is the temperature of liquid nitrogen
+
+00:18:34.715 --> 00:18:37.070
+when it is, uh, Portal on something.
+
+00:18:37.070 --> 00:18:38.430
+So 77 Kelvin.
+
+00:18:38.430 --> 00:18:40.100
+That is extremely cold.
+
+00:18:40.470 --> 00:18:48.700
+So that is like roughly about negative
+200 degrees Celsius to about or so.
+
+00:18:48.959 --> 00:18:54.959
+It is extremely cold in terms of You
+know the most freezing temperature
+
+00:18:54.960 --> 00:19:01.820
+and then even beyond that The
+next law is the Combined Gas Law.
+
+00:19:02.740 --> 00:19:07.210
+The Combined Gas Law takes the previous
+three and puts them all together.
+
+00:19:07.889 --> 00:19:10.739
+So what exactly does that refer to?
+
+00:19:11.239 --> 00:19:16.449
+Well, whenever we have the Combined
+Gas Law, this is something that it
+
+00:19:16.449 --> 00:19:22.515
+takes Boyle's Law, Charles Law, and Gay
+Lussac's Law and puts them all together.
+
+00:19:23.175 --> 00:19:28.245
+So this is something that, um, we're
+going to go into on the subsequent video
+
+00:19:28.315 --> 00:19:35.495
+of this to go into how all three of these
+previous laws combine together to make one
+
+00:19:35.545 --> 00:19:38.794
+unique law regarding change of a molecule.
+
+00:19:38.954 --> 00:19:43.464
+So the past three, all the ones that
+we're talking about are all about change.
+
+00:19:43.485 --> 00:19:46.015
+Something is increasing,
+something is decreasing.
+
+00:19:46.545 --> 00:19:48.405
+Combined Gay Lussac's Law is
+going to go into that too.
+
+00:19:48.935 --> 00:19:49.285
+So...
+
+00:19:49.575 --> 00:19:53.385
+Watch the next video, so that way it
+breaks up the content for you, so you're
+
+00:19:53.385 --> 00:19:56.095
+not getting a fire hose of information.
+
+00:19:56.795 --> 00:19:59.655
+And I hope that to see you again
+in the next video, to be able to
+
+00:19:59.655 --> 00:20:01.434
+practice more of these gas laws.
+
+00:20:01.484 --> 00:20:05.524
+And we'll go into combined, Avogadro's,
+and then another video will be on
+
+00:20:05.524 --> 00:20:07.254
+ideal gas law, going into that one.
+
+00:20:07.535 --> 00:20:07.925
+Okay?
+
+00:20:08.414 --> 00:20:10.824
+Look forward to seeing
+you all in the future.
+
+00:20:10.904 --> 00:20:11.784
+Alright, bye.
+

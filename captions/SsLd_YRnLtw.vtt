@@ -1,0 +1,637 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:09.690 --> 00:00:13.980
+Hi and welcome back to another video
+with Math Skills to ACE Chemistry.
+
+00:00:14.430 --> 00:00:19.560
+We're gonna be going over how to
+round sig figs, meaning that if
+
+00:00:19.560 --> 00:00:23.640
+we are doing all these different
+calculations or measurements and.
+
+00:00:24.405 --> 00:00:25.815
+All this different mathematics.
+
+00:00:25.815 --> 00:00:30.375
+When it comes to chemistry, we need to
+make sure we are representing our values
+
+00:00:30.435 --> 00:00:33.285
+with the correct amount of significance.
+
+00:00:33.825 --> 00:00:38.175
+Meaning that if you're doing an
+experiment, and let's say if you take
+
+00:00:38.175 --> 00:00:42.315
+one measurement with a beaker, you take
+another one with like a graduated cylinder
+
+00:00:42.435 --> 00:00:47.565
+and so different piece of glassware, and
+then you do another one with a $50,000
+
+00:00:47.595 --> 00:00:49.425
+piece of chemical instrumentation.
+
+00:00:50.235 --> 00:00:53.715
+Well, Some of those are pretty accurate.
+
+00:00:54.075 --> 00:00:57.435
+One of them you're paying a lot of
+money for, so, but if you use like a
+
+00:00:57.435 --> 00:01:01.125
+beaker, let's say, to measure the amount
+of liquid you put into the, into the
+
+00:01:01.125 --> 00:01:05.114
+instrument in the beginning, well that
+might not be, it might set off your
+
+00:01:05.120 --> 00:01:10.605
+values possibly, or who knows, depending
+on how you did the experiment, there's a
+
+00:01:10.605 --> 00:01:14.535
+possibility that is not completely showing
+the correct amount of significance.
+
+00:01:14.955 --> 00:01:18.750
+So, we need to make sure that when
+we do chemical calculations, We
+
+00:01:18.750 --> 00:01:22.440
+are representing it by whatever
+we shirked off the most, most on.
+
+00:01:22.440 --> 00:01:26.280
+So if you were kind of lazy on one part
+of it, well sadly, you gotta represent
+
+00:01:26.460 --> 00:01:28.289
+all your numbers based on that value.
+
+00:01:28.830 --> 00:01:30.720
+So let's take a look at it.
+
+00:01:30.720 --> 00:01:32.399
+Let's try to see what this is all about.
+
+00:01:32.820 --> 00:01:38.699
+So if I have the following example, so if
+I have the following number, it's 26.542.
+
+00:01:39.190 --> 00:01:43.860
+And if we wanted to kinda label all these
+different numbers here, well remember just
+
+00:01:43.860 --> 00:01:46.229
+kind of review our places of a decimal.
+
+00:01:46.590 --> 00:01:49.800
+Usually this is what we're typically
+rounding most of the time in
+
+00:01:49.800 --> 00:01:51.810
+chemistry is the decimal place.
+
+00:01:52.080 --> 00:01:53.040
+Where do you want to put it?
+
+00:01:53.490 --> 00:01:56.610
+Well, if we're looking at these, sometimes
+we are gonna be seeing different labels,
+
+00:01:56.610 --> 00:01:58.830
+which maybe you remember from high school.
+
+00:01:58.920 --> 00:02:00.540
+Maybe you don't, and that's okay too.
+
+00:02:00.630 --> 00:02:01.620
+That's why we're going over it.
+
+00:02:02.220 --> 00:02:07.020
+So these are the tenth place, the
+hundredth place, the thousandth
+
+00:02:07.410 --> 00:02:10.620
+place of that little TH just
+tells you it's after the decimal.
+
+00:02:11.130 --> 00:02:15.900
+So it's was the first, second,
+or third position tells you what
+
+00:02:15.900 --> 00:02:17.100
+you might have to round it to.
+
+00:02:17.520 --> 00:02:22.350
+So if you're using a piece of, of
+glassware that only goes to the hundredth
+
+00:02:22.350 --> 00:02:26.670
+position, well then you need to round
+it correctly and cut off numbers.
+
+00:02:27.100 --> 00:02:30.279
+So what you're gonna be doing is
+when you're rounding, you always
+
+00:02:30.279 --> 00:02:31.839
+look to the digit on the right.
+
+00:02:32.290 --> 00:02:38.980
+So let's say, for example, if I ask you
+to round to the tenth position here.
+
+00:02:39.774 --> 00:02:43.974
+So rounding right in here and
+let's clean that up for a second.
+
+00:02:44.124 --> 00:02:48.114
+So if I tell you right here, the
+tenth spot is what we're gonna be
+
+00:02:48.119 --> 00:02:51.144
+rounding, well, how would we do that?
+
+00:02:51.265 --> 00:02:55.494
+Well, the whole idea when it comes to
+rounding is you look to the digit on the
+
+00:02:55.494 --> 00:03:01.524
+right, meaning that when we are doing
+this, we want to stick a big underline
+
+00:03:01.614 --> 00:03:07.404
+right under our five, and then we're gonna
+be looking at the four value next door.
+
+00:03:08.019 --> 00:03:10.929
+Now when we're doing that, what do you do?
+
+00:03:10.959 --> 00:03:15.489
+Well, if the digit is zero
+to four, you round down.
+
+00:03:15.489 --> 00:03:18.640
+So meaning whatever's on the
+right, you round down, meaning
+
+00:03:18.640 --> 00:03:21.160
+you keep your five at what it is.
+
+00:03:21.940 --> 00:03:25.839
+If the digit to the right is five
+or nine, you're gonna round up.
+
+00:03:26.470 --> 00:03:31.870
+So in this case, looking at
+this, well, five was next to
+
+00:03:32.410 --> 00:03:35.230
+four, meaning that we round down.
+
+00:03:35.814 --> 00:03:39.504
+So when we do this, we
+keep it at its number.
+
+00:03:39.504 --> 00:03:41.004
+We don't round it up.
+
+00:03:41.575 --> 00:03:43.494
+So in this case, what would it be?
+
+00:03:43.524 --> 00:03:51.594
+Well, it's going to be 26.5 is going to
+be our final number in this situation
+
+00:03:51.635 --> 00:03:53.844
+because we had a four next to it.
+
+00:03:53.844 --> 00:03:56.515
+You want the, the lower
+value to represent that.
+
+00:03:57.445 --> 00:04:01.945
+Now, if I take the same number and I
+ask you, okay, why don't you try to
+
+00:04:01.950 --> 00:04:04.795
+round to the nearest hundredth place?
+
+00:04:05.170 --> 00:04:07.390
+Which is this second spot?
+
+00:04:08.019 --> 00:04:09.939
+Well, same situation here.
+
+00:04:09.939 --> 00:04:14.499
+We look over, we look one to the right,
+we could see, well, it's zero to four.
+
+00:04:14.920 --> 00:04:15.249
+Okay.
+
+00:04:15.640 --> 00:04:17.919
+So that's telling you, all
+right, we gotta round down again.
+
+00:04:17.924 --> 00:04:19.870
+So how would we show that value?
+
+00:04:20.589 --> 00:04:24.549
+Well, it would be 26.54.
+
+00:04:24.909 --> 00:04:26.379
+Would be our number.
+
+00:04:26.409 --> 00:04:28.960
+And this tells you how many
+significant figures you have, right?
+
+00:04:28.960 --> 00:04:32.979
+So we rounded it to show four sig
+figs, which might be how many, is
+
+00:04:32.979 --> 00:04:35.770
+a very common amount you need for
+a lot of chemical calculations.
+
+00:04:36.549 --> 00:04:38.080
+I asked you another example.
+
+00:04:38.085 --> 00:04:40.780
+What if I asked you to
+give you the other half?
+
+00:04:41.379 --> 00:04:46.749
+If I asked you round it to the
+10 or the the tens position, her.
+
+00:04:47.575 --> 00:04:49.254
+So not tens, but the ones position.
+
+00:04:49.254 --> 00:04:49.614
+Sorry.
+
+00:04:50.034 --> 00:04:52.885
+And if you were to do that, well,
+you're gonna once again look
+
+00:04:52.885 --> 00:04:56.364
+over to the right and you see,
+oh, this is greater than five.
+
+00:04:56.604 --> 00:04:59.364
+So you're going to this case round up.
+
+00:04:59.784 --> 00:05:05.754
+So what instead is that six is
+going to go up and become a seven.
+
+00:05:05.754 --> 00:05:07.825
+So that would make it 27.
+
+00:05:08.424 --> 00:05:10.614
+So these are some of the
+different ways you can round.
+
+00:05:10.614 --> 00:05:14.304
+So, and you can see how many different
+number of sig figs that you have.
+
+00:05:14.650 --> 00:05:16.749
+In each of these rounding scenarios.
+
+00:05:16.749 --> 00:05:20.020
+So this is why it's really important
+'cause you want to represent however
+
+00:05:20.020 --> 00:05:23.799
+many sig figs are appropriate
+for your current situation.
+
+00:05:24.669 --> 00:05:27.369
+So let's practice this
+again to wrap up the video.
+
+00:05:28.330 --> 00:05:33.729
+So round each number to the
+underlined digit and determine
+
+00:05:33.789 --> 00:05:35.439
+the number of significant figures.
+
+00:05:35.739 --> 00:05:38.229
+Okay, so let's do it.
+
+00:05:38.469 --> 00:05:39.669
+If we look at the first one.
+
+00:05:40.420 --> 00:05:41.289
+We have four.
+
+00:05:41.440 --> 00:05:46.215
+We're gonna look to the right
+and we see that we have 3 32.452.
+
+00:05:46.870 --> 00:05:49.240
+The five is is up there.
+
+00:05:49.240 --> 00:05:50.740
+So five through nine you round up.
+
+00:05:51.130 --> 00:05:53.140
+So in this case, what
+are we going to have?
+
+00:05:53.680 --> 00:06:02.200
+We're gonna make 332.5 is going to be
+our number 'cause that four rounds up.
+
+00:06:02.920 --> 00:06:09.159
+And if we want to count sig figs, this
+would be a total of four non-zero digits.
+
+00:06:09.999 --> 00:06:13.330
+We have four significant
+figures in our calculation.
+
+00:06:14.169 --> 00:06:15.760
+Now let's do the next one.
+
+00:06:16.479 --> 00:06:21.909
+So we have eight thousand eight
+hundred and two point fourteen, right.
+
+00:06:22.359 --> 00:06:24.219
+However, we want to round that number.
+
+00:06:24.789 --> 00:06:27.489
+So by doing this, we can look
+over and we can see, all right,
+
+00:06:27.489 --> 00:06:28.719
+well we can look to the right.
+
+00:06:29.030 --> 00:06:32.260
+We see that as two, meaning
+that it's from zero to four.
+
+00:06:32.890 --> 00:06:33.760
+You round down.
+
+00:06:34.510 --> 00:06:37.299
+In this case, are we going to show this?
+
+00:06:37.299 --> 00:06:38.770
+Well, this one's a little weird 'cause.
+
+00:06:39.550 --> 00:06:42.849
+If we round down, do we drop
+things and get rid of it?
+
+00:06:43.030 --> 00:06:43.300
+No.
+
+00:06:43.300 --> 00:06:45.820
+We need to make sure we're still
+showing the correct number of
+
+00:06:45.880 --> 00:06:48.970
+placeholders in our calculation.
+
+00:06:48.970 --> 00:06:52.150
+It still has to show the same
+general size of the value.
+
+00:06:52.990 --> 00:07:01.090
+So when we do this, we have 800
+or 8,800 would be our value.
+
+00:07:01.765 --> 00:07:04.105
+Notice that it still
+shows that same value.
+
+00:07:04.105 --> 00:07:05.425
+We don't drop the zero.
+
+00:07:05.455 --> 00:07:07.195
+We don't just drop it as it is.
+
+00:07:07.525 --> 00:07:11.455
+A common error that I see a lot of
+students do is that in this case,
+
+00:07:11.455 --> 00:07:16.735
+you might have wrote 880 and think
+I'm good, but the thing is, think of
+
+00:07:16.735 --> 00:07:20.425
+it in this light and you'll probably
+will won't do this mistake again.
+
+00:07:21.055 --> 00:07:24.055
+Let's think of this all in terms of money.
+
+00:07:25.045 --> 00:07:26.305
+People never forget money.
+
+00:07:27.055 --> 00:07:30.625
+Let's say someone owed you $8,800.
+
+00:07:31.480 --> 00:07:35.890
+They're like, oh, I rounded
+it and here's $880 because I
+
+00:07:35.890 --> 00:07:37.240
+dropped that significant figure.
+
+00:07:38.050 --> 00:07:40.510
+You would not be very
+happy about that, right?
+
+00:07:40.515 --> 00:07:43.420
+To get paid a 10th of what
+you're supposed to get paid.
+
+00:07:44.020 --> 00:07:44.260
+Right?
+
+00:07:44.265 --> 00:07:49.330
+So you still wanna show the same
+size of value that's supposed to be.
+
+00:07:49.870 --> 00:07:51.400
+So that's the whole idea, right?
+
+00:07:51.400 --> 00:07:56.530
+It shows what is the,
+the right place or size.
+
+00:07:56.800 --> 00:07:58.840
+So when we look at this, we only have.
+
+00:07:59.410 --> 00:08:03.340
+Two significant figures because
+in this case, there's no decimal.
+
+00:08:03.880 --> 00:08:05.830
+So the trailing zeros are not significant.
+
+00:08:05.830 --> 00:08:09.760
+So when we round it, it gets rid of
+the decimal when you round it in the
+
+00:08:09.760 --> 00:08:12.730
+middle of the big side of these numbers.
+
+00:08:13.870 --> 00:08:21.040
+Okay, now the next one
+I have 3000 or 35,402.
+
+00:08:21.850 --> 00:08:22.720
+Same idea, right?
+
+00:08:22.720 --> 00:08:26.230
+We have five and we wanna look over
+and we're gonna be rounding down.
+
+00:08:26.800 --> 00:08:28.690
+So we're gonna have 35.
+
+00:08:30.100 --> 00:08:33.100
+Hundred is going to be our answer here.
+
+00:08:33.850 --> 00:08:38.319
+We only have two significant
+figures because the trailing
+
+00:08:38.319 --> 00:08:40.030
+zeros are not significant.
+
+00:08:41.740 --> 00:08:44.500
+The next one, oh, what the heck is that?
+
+00:08:44.589 --> 00:08:46.780
+Well, this is scientific notation.
+
+00:08:47.170 --> 00:08:48.250
+This is gonna be the next video.
+
+00:08:48.760 --> 00:08:53.319
+So scientific notation
+is a very easy way to.
+
+00:08:53.800 --> 00:08:58.420
+Kind of minimize or to make
+smaller lot really big numbers
+
+00:08:58.420 --> 00:09:00.219
+or really, really small numbers.
+
+00:09:00.729 --> 00:09:04.839
+But the cool thing about scientific
+notation is the numbers that are
+
+00:09:04.839 --> 00:09:10.510
+in front of that multiplication
+symbol are the only numbers that
+
+00:09:10.510 --> 00:09:12.219
+represent any significant digits.
+
+00:09:12.224 --> 00:09:17.319
+So before rounding, just to kind
+of let you know, there are four
+
+00:09:17.319 --> 00:09:20.140
+sig figs currently in this number.
+
+00:09:20.680 --> 00:09:22.569
+We don't count the times 10 to the fifth.
+
+00:09:23.035 --> 00:09:26.855
+That's just telling you how much you're
+moving a decimal when you wanna show
+
+00:09:26.855 --> 00:09:29.045
+this in its numeric or standard form.
+
+00:09:29.735 --> 00:09:33.275
+So if we wanna round it, we could leave
+it in this form, which is awesome.
+
+00:09:33.575 --> 00:09:38.555
+So you take that zero, you look
+over at the seven and we see that,
+
+00:09:38.585 --> 00:09:40.055
+okay, well it's gonna round up.
+
+00:09:40.565 --> 00:09:47.285
+So in this case we'll have 1.31 and
+we have our number sig figs there.
+
+00:09:47.435 --> 00:09:51.275
+So this tells you you
+have 1, 2, 3 sig figs.
+
+00:09:52.175 --> 00:09:56.435
+And we can't forget to bring
+down the times 10 to the fifth.
+
+00:09:57.365 --> 00:09:59.765
+Now, this is scientific notation form.
+
+00:09:59.915 --> 00:10:02.735
+What this tells you is eventually
+what we're gonna go over in the
+
+00:10:02.735 --> 00:10:05.645
+next video is how you can show
+in standard form, all right?
+
+00:10:05.855 --> 00:10:08.735
+This is how you can count
+and round different examples.
+
+00:10:08.735 --> 00:10:11.255
+So hopefully this helps with future
+homework assignments and to help
+
+00:10:11.255 --> 00:10:12.305
+you in your chemistry course.
+
+00:10:12.855 --> 00:10:13.395
+It says, Dr.
+
+00:10:13.400 --> 00:10:15.465
+Dan here, please hit the
+like and subscribe button.
+
+00:10:15.470 --> 00:10:18.825
+Hit comment below if you have any
+questions or if you need help or have
+
+00:10:18.825 --> 00:10:20.595
+any future videos you'd love to see.
+
+00:10:21.000 --> 00:10:21.300
+All right.
+
+00:10:21.305 --> 00:10:23.130
+Thank you so much and
+I'll see you all soon.
+
+00:10:23.310 --> 00:10:23.690
+Bye now.
+

@@ -1,8 +1,8 @@
 {
   "channel": "https://www.youtube.com/@itsdrdan",
-  "generatedAt": "2026-09-02T11:31:12.422700+00:00",
+  "generatedAt": "2026-09-03T11:41:41.013238+00:00",
   "videoCount": 151,
-  "captionCount": 1,
+  "captionCount": 151,
   "videos": [
     {
       "id": "Nb4z-SSwmb4",
@@ -15,7 +15,7 @@
       "durationSeconds": 2973,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Nb4z-SSwmb4.vtt"
     },
     {
       "id": "nN-RMEEbjLI",
@@ -28,7 +28,7 @@
       "durationSeconds": 707,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/nN-RMEEbjLI.vtt"
     },
     {
       "id": "kEkvxf6e-Ro",
@@ -41,7 +41,7 @@
       "durationSeconds": 831,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/kEkvxf6e-Ro.vtt"
     },
     {
       "id": "r3IGajq0hD8",
@@ -54,7 +54,7 @@
       "durationSeconds": 1280,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/r3IGajq0hD8.vtt"
     },
     {
       "id": "NoEGwwWuNmg",
@@ -67,7 +67,7 @@
       "durationSeconds": 1178,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/NoEGwwWuNmg.vtt"
     },
     {
       "id": "zr0Y2hF_aOE",
@@ -80,7 +80,7 @@
       "durationSeconds": 1299,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/zr0Y2hF_aOE.vtt"
     },
     {
       "id": "txENA0lLLg4",
@@ -93,7 +93,7 @@
       "durationSeconds": 1119,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/txENA0lLLg4.vtt"
     },
     {
       "id": "6GcGBVTu3c8",
@@ -106,7 +106,7 @@
       "durationSeconds": 5694,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/6GcGBVTu3c8.vtt"
     },
     {
       "id": "ec1npXqFdDM",
@@ -119,7 +119,7 @@
       "durationSeconds": 1419,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ec1npXqFdDM.vtt"
     },
     {
       "id": "PslRg4W-QDY",
@@ -132,7 +132,7 @@
       "durationSeconds": 6199,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/PslRg4W-QDY.vtt"
     },
     {
       "id": "NYbTp0OEHCM",
@@ -145,7 +145,7 @@
       "durationSeconds": 7717,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/NYbTp0OEHCM.vtt"
     },
     {
       "id": "b4DBut72xEI",
@@ -158,7 +158,7 @@
       "durationSeconds": 1054,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/b4DBut72xEI.vtt"
     },
     {
       "id": "JutTTWvB2wQ",
@@ -171,7 +171,7 @@
       "durationSeconds": 768,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/JutTTWvB2wQ.vtt"
     },
     {
       "id": "OxLTA0CZrd4",
@@ -184,7 +184,7 @@
       "durationSeconds": 742,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/OxLTA0CZrd4.vtt"
     },
     {
       "id": "9lxWINhQtUc",
@@ -197,7 +197,7 @@
       "durationSeconds": 916,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/9lxWINhQtUc.vtt"
     },
     {
       "id": "oV83y0awOow",
@@ -210,7 +210,7 @@
       "durationSeconds": 2808,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/oV83y0awOow.vtt"
     },
     {
       "id": "EnO_abUy44Q",
@@ -223,7 +223,7 @@
       "durationSeconds": 1839,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/EnO_abUy44Q.vtt"
     },
     {
       "id": "e8MKqfkXo4k",
@@ -236,7 +236,7 @@
       "durationSeconds": 1339,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/e8MKqfkXo4k.vtt"
     },
     {
       "id": "bZHo3kHvGi0",
@@ -249,7 +249,7 @@
       "durationSeconds": 1895,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/bZHo3kHvGi0.vtt"
     },
     {
       "id": "g--JowvBqM8",
@@ -262,7 +262,7 @@
       "durationSeconds": 2075,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/g--JowvBqM8.vtt"
     },
     {
       "id": "bizYea5i82k",
@@ -275,7 +275,7 @@
       "durationSeconds": 2625,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/bizYea5i82k.vtt"
     },
     {
       "id": "8kCMJML2hrg",
@@ -288,7 +288,7 @@
       "durationSeconds": 1057,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/8kCMJML2hrg.vtt"
     },
     {
       "id": "ZojNOgXleJA",
@@ -301,7 +301,7 @@
       "durationSeconds": 1809,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ZojNOgXleJA.vtt"
     },
     {
       "id": "qatdA_ALnx8",
@@ -314,7 +314,7 @@
       "durationSeconds": 1171,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/qatdA_ALnx8.vtt"
     },
     {
       "id": "JMRz9TRVUQg",
@@ -327,7 +327,7 @@
       "durationSeconds": 1847,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/JMRz9TRVUQg.vtt"
     },
     {
       "id": "-UrwKIGAj08",
@@ -340,7 +340,7 @@
       "durationSeconds": 1433,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/-UrwKIGAj08.vtt"
     },
     {
       "id": "tGqiUbBxqec",
@@ -353,7 +353,7 @@
       "durationSeconds": 1581,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/tGqiUbBxqec.vtt"
     },
     {
       "id": "AAOXGkcrUMg",
@@ -366,7 +366,7 @@
       "durationSeconds": 845,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/AAOXGkcrUMg.vtt"
     },
     {
       "id": "T8Uxtqoi1-8",
@@ -379,7 +379,7 @@
       "durationSeconds": 1035,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/T8Uxtqoi1-8.vtt"
     },
     {
       "id": "_3MEHX5yvzQ",
@@ -392,7 +392,7 @@
       "durationSeconds": 1176,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/_3MEHX5yvzQ.vtt"
     },
     {
       "id": "yXV7aNPvkWA",
@@ -405,7 +405,7 @@
       "durationSeconds": 2274,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/yXV7aNPvkWA.vtt"
     },
     {
       "id": "EcT5aqQzaYA",
@@ -418,7 +418,7 @@
       "durationSeconds": 993,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/EcT5aqQzaYA.vtt"
     },
     {
       "id": "Ca7o0AjwhcY",
@@ -431,7 +431,7 @@
       "durationSeconds": 1240,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Ca7o0AjwhcY.vtt"
     },
     {
       "id": "auELinUz1R4",
@@ -444,7 +444,7 @@
       "durationSeconds": 1688,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/auELinUz1R4.vtt"
     },
     {
       "id": "bfW4V1krrkY",
@@ -457,7 +457,7 @@
       "durationSeconds": 1603,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/bfW4V1krrkY.vtt"
     },
     {
       "id": "VPY5E6j5ltM",
@@ -470,7 +470,7 @@
       "durationSeconds": 980,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/VPY5E6j5ltM.vtt"
     },
     {
       "id": "fFGZdJ6F-e4",
@@ -483,7 +483,7 @@
       "durationSeconds": 818,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/fFGZdJ6F-e4.vtt"
     },
     {
       "id": "XMlP-sRigPM",
@@ -496,7 +496,7 @@
       "durationSeconds": 1333,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/XMlP-sRigPM.vtt"
     },
     {
       "id": "fBVx-i_Ehmc",
@@ -509,7 +509,7 @@
       "durationSeconds": 941,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/fBVx-i_Ehmc.vtt"
     },
     {
       "id": "efD7e2XiNsM",
@@ -522,7 +522,7 @@
       "durationSeconds": 1361,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/efD7e2XiNsM.vtt"
     },
     {
       "id": "qwkB_gLdg6s",
@@ -535,7 +535,7 @@
       "durationSeconds": 789,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/qwkB_gLdg6s.vtt"
     },
     {
       "id": "-G1zjTVpkgU",
@@ -548,7 +548,7 @@
       "durationSeconds": 1764,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/-G1zjTVpkgU.vtt"
     },
     {
       "id": "sadO3B7s_UY",
@@ -561,7 +561,7 @@
       "durationSeconds": 1123,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/sadO3B7s_UY.vtt"
     },
     {
       "id": "dtdiKtrVQ5Y",
@@ -574,7 +574,7 @@
       "durationSeconds": 896,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/dtdiKtrVQ5Y.vtt"
     },
     {
       "id": "UteEh5Vgvv8",
@@ -587,7 +587,7 @@
       "durationSeconds": 725,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/UteEh5Vgvv8.vtt"
     },
     {
       "id": "efgNeWjlsGY",
@@ -600,7 +600,7 @@
       "durationSeconds": 1731,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/efgNeWjlsGY.vtt"
     },
     {
       "id": "IsypcIC7XqA",
@@ -613,7 +613,7 @@
       "durationSeconds": 1210,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/IsypcIC7XqA.vtt"
     },
     {
       "id": "YqZjFTpnHjc",
@@ -626,7 +626,7 @@
       "durationSeconds": 1666,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/YqZjFTpnHjc.vtt"
     },
     {
       "id": "-PeAGG6s6nY",
@@ -639,7 +639,7 @@
       "durationSeconds": 875,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/-PeAGG6s6nY.vtt"
     },
     {
       "id": "wCVdwxuh__U",
@@ -652,7 +652,7 @@
       "durationSeconds": 370,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/wCVdwxuh__U.vtt"
     },
     {
       "id": "DPH8NZF_99I",
@@ -665,7 +665,7 @@
       "durationSeconds": 852,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/DPH8NZF_99I.vtt"
     },
     {
       "id": "lAcgVwEmjM8",
@@ -678,7 +678,7 @@
       "durationSeconds": 889,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/lAcgVwEmjM8.vtt"
     },
     {
       "id": "CdA3Ov94lw0",
@@ -691,7 +691,7 @@
       "durationSeconds": 1034,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/CdA3Ov94lw0.vtt"
     },
     {
       "id": "vf1I8M32OXQ",
@@ -704,7 +704,7 @@
       "durationSeconds": 841,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/vf1I8M32OXQ.vtt"
     },
     {
       "id": "--NtKZsyS4I",
@@ -717,7 +717,7 @@
       "durationSeconds": 755,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/--NtKZsyS4I.vtt"
     },
     {
       "id": "-WH0D2cWcJc",
@@ -730,7 +730,7 @@
       "durationSeconds": 1603,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/-WH0D2cWcJc.vtt"
     },
     {
       "id": "H_waFW9LG_Y",
@@ -743,7 +743,7 @@
       "durationSeconds": 1379,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/H_waFW9LG_Y.vtt"
     },
     {
       "id": "b__bU7D6YIM",
@@ -756,7 +756,7 @@
       "durationSeconds": 583,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/b__bU7D6YIM.vtt"
     },
     {
       "id": "-fyDACk_Zx0",
@@ -769,7 +769,7 @@
       "durationSeconds": 1120,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/-fyDACk_Zx0.vtt"
     },
     {
       "id": "1xjSCl5hsug",
@@ -782,7 +782,7 @@
       "durationSeconds": 1186,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/1xjSCl5hsug.vtt"
     },
     {
       "id": "KqKvWr6Y2zs",
@@ -795,7 +795,7 @@
       "durationSeconds": 851,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/KqKvWr6Y2zs.vtt"
     },
     {
       "id": "Uk5EulrSWeI",
@@ -808,7 +808,7 @@
       "durationSeconds": 1684,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Uk5EulrSWeI.vtt"
     },
     {
       "id": "W_AHDPMBqrA",
@@ -821,7 +821,7 @@
       "durationSeconds": 534,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/W_AHDPMBqrA.vtt"
     },
     {
       "id": "REdYqnSIjCg",
@@ -834,7 +834,7 @@
       "durationSeconds": 387,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/REdYqnSIjCg.vtt"
     },
     {
       "id": "7fWGLGY_6Wo",
@@ -847,7 +847,7 @@
       "durationSeconds": 690,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/7fWGLGY_6Wo.vtt"
     },
     {
       "id": "oy7dm7qZiXY",
@@ -860,7 +860,7 @@
       "durationSeconds": 471,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/oy7dm7qZiXY.vtt"
     },
     {
       "id": "u_Y1sC58C7M",
@@ -873,7 +873,7 @@
       "durationSeconds": 864,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/u_Y1sC58C7M.vtt"
     },
     {
       "id": "84sL9kEAVmQ",
@@ -886,7 +886,7 @@
       "durationSeconds": 1276,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/84sL9kEAVmQ.vtt"
     },
     {
       "id": "2QWO4oGxvfA",
@@ -899,7 +899,7 @@
       "durationSeconds": 827,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/2QWO4oGxvfA.vtt"
     },
     {
       "id": "AgKAXoYLRBA",
@@ -912,7 +912,7 @@
       "durationSeconds": 1027,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/AgKAXoYLRBA.vtt"
     },
     {
       "id": "Gl6OxNmAc7M",
@@ -925,7 +925,7 @@
       "durationSeconds": 1212,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Gl6OxNmAc7M.vtt"
     },
     {
       "id": "T6j9Gw1EyPU",
@@ -938,7 +938,7 @@
       "durationSeconds": 1512,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/T6j9Gw1EyPU.vtt"
     },
     {
       "id": "jNh0S62GrHg",
@@ -951,7 +951,7 @@
       "durationSeconds": 1041,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/jNh0S62GrHg.vtt"
     },
     {
       "id": "YFd6XTQpI08",
@@ -964,7 +964,7 @@
       "durationSeconds": 1252,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/YFd6XTQpI08.vtt"
     },
     {
       "id": "p1vMT2wxsBc",
@@ -977,7 +977,7 @@
       "durationSeconds": 448,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/p1vMT2wxsBc.vtt"
     },
     {
       "id": "USaNyE1y6gE",
@@ -990,7 +990,7 @@
       "durationSeconds": 1410,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/USaNyE1y6gE.vtt"
     },
     {
       "id": "W1fKRtt0CZc",
@@ -1003,7 +1003,7 @@
       "durationSeconds": 828,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/W1fKRtt0CZc.vtt"
     },
     {
       "id": "sCmUQWVB90Q",
@@ -1016,7 +1016,7 @@
       "durationSeconds": 1117,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/sCmUQWVB90Q.vtt"
     },
     {
       "id": "ARE5_CgcxW4",
@@ -1029,7 +1029,7 @@
       "durationSeconds": 823,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ARE5_CgcxW4.vtt"
     },
     {
       "id": "tjAebD_t8PA",
@@ -1042,7 +1042,7 @@
       "durationSeconds": 748,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/tjAebD_t8PA.vtt"
     },
     {
       "id": "WDBiyaeivFY",
@@ -1055,7 +1055,7 @@
       "durationSeconds": 1061,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/WDBiyaeivFY.vtt"
     },
     {
       "id": "Y_bXmJDoANI",
@@ -1068,7 +1068,7 @@
       "durationSeconds": 874,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Y_bXmJDoANI.vtt"
     },
     {
       "id": "pwyW-X99GI8",
@@ -1081,7 +1081,7 @@
       "durationSeconds": 644,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/pwyW-X99GI8.vtt"
     },
     {
       "id": "M7VkdbGkPXY",
@@ -1094,7 +1094,7 @@
       "durationSeconds": 372,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/M7VkdbGkPXY.vtt"
     },
     {
       "id": "gO3YPk_2lTE",
@@ -1107,7 +1107,7 @@
       "durationSeconds": 325,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/gO3YPk_2lTE.vtt"
     },
     {
       "id": "Heg74N-mZms",
@@ -1120,7 +1120,7 @@
       "durationSeconds": 290,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Heg74N-mZms.vtt"
     },
     {
       "id": "BQwU9Z7myeg",
@@ -1133,7 +1133,7 @@
       "durationSeconds": 314,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/BQwU9Z7myeg.vtt"
     },
     {
       "id": "5L0AmyTCyi4",
@@ -1146,7 +1146,7 @@
       "durationSeconds": 1049,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/5L0AmyTCyi4.vtt"
     },
     {
       "id": "417CUTR3H1E",
@@ -1159,7 +1159,7 @@
       "durationSeconds": 467,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/417CUTR3H1E.vtt"
     },
     {
       "id": "udPzY15vH1w",
@@ -1172,7 +1172,7 @@
       "durationSeconds": 1095,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/udPzY15vH1w.vtt"
     },
     {
       "id": "r7isVoOlWyU",
@@ -1185,7 +1185,7 @@
       "durationSeconds": 984,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/r7isVoOlWyU.vtt"
     },
     {
       "id": "mvdjSfWFdaU",
@@ -1198,7 +1198,7 @@
       "durationSeconds": 1066,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/mvdjSfWFdaU.vtt"
     },
     {
       "id": "whVLjQhx3FI",
@@ -1211,7 +1211,7 @@
       "durationSeconds": 980,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/whVLjQhx3FI.vtt"
     },
     {
       "id": "HU4KHyptdVA",
@@ -1224,7 +1224,7 @@
       "durationSeconds": 1145,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/HU4KHyptdVA.vtt"
     },
     {
       "id": "RudBXy5lTuU",
@@ -1237,7 +1237,7 @@
       "durationSeconds": 1264,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/RudBXy5lTuU.vtt"
     },
     {
       "id": "4Z7_TvNmeR4",
@@ -1250,7 +1250,7 @@
       "durationSeconds": 1374,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/4Z7_TvNmeR4.vtt"
     },
     {
       "id": "ZtWHJci1vgc",
@@ -1263,7 +1263,7 @@
       "durationSeconds": 1013,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ZtWHJci1vgc.vtt"
     },
     {
       "id": "r5ciwMWV8Ns",
@@ -1276,7 +1276,7 @@
       "durationSeconds": 1004,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/r5ciwMWV8Ns.vtt"
     },
     {
       "id": "vfSSUIcgzTY",
@@ -1289,7 +1289,7 @@
       "durationSeconds": 1068,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/vfSSUIcgzTY.vtt"
     },
     {
       "id": "K0oEXP7JBZU",
@@ -1302,7 +1302,7 @@
       "durationSeconds": 681,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/K0oEXP7JBZU.vtt"
     },
     {
       "id": "2pwJ5G0uOtA",
@@ -1315,7 +1315,7 @@
       "durationSeconds": 689,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/2pwJ5G0uOtA.vtt"
     },
     {
       "id": "oxbd7aS8ROg",
@@ -1328,7 +1328,7 @@
       "durationSeconds": 1271,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/oxbd7aS8ROg.vtt"
     },
     {
       "id": "veiUgkx_Dlc",
@@ -1341,7 +1341,7 @@
       "durationSeconds": 567,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/veiUgkx_Dlc.vtt"
     },
     {
       "id": "l3Sb_GWBano",
@@ -1354,7 +1354,7 @@
       "durationSeconds": 626,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/l3Sb_GWBano.vtt"
     },
     {
       "id": "Dcun-l5jM9w",
@@ -1367,7 +1367,7 @@
       "durationSeconds": 1239,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Dcun-l5jM9w.vtt"
     },
     {
       "id": "xbsGe976lZ4",
@@ -1380,7 +1380,7 @@
       "durationSeconds": 1195,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/xbsGe976lZ4.vtt"
     },
     {
       "id": "gSKpPWYVnTU",
@@ -1393,7 +1393,7 @@
       "durationSeconds": 1001,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/gSKpPWYVnTU.vtt"
     },
     {
       "id": "a73T36_j0Xg",
@@ -1406,7 +1406,7 @@
       "durationSeconds": 1275,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/a73T36_j0Xg.vtt"
     },
     {
       "id": "Ia26SFitnIE",
@@ -1419,7 +1419,7 @@
       "durationSeconds": 1237,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Ia26SFitnIE.vtt"
     },
     {
       "id": "JmyWmu3RA6Q",
@@ -1432,7 +1432,7 @@
       "durationSeconds": 1206,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/JmyWmu3RA6Q.vtt"
     },
     {
       "id": "FEl475fUSqY",
@@ -1445,7 +1445,7 @@
       "durationSeconds": 1042,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/FEl475fUSqY.vtt"
     },
     {
       "id": "gVI0NWuv9VU",
@@ -1458,7 +1458,7 @@
       "durationSeconds": 1791,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/gVI0NWuv9VU.vtt"
     },
     {
       "id": "s7Dr7FSQ4R8",
@@ -1471,7 +1471,7 @@
       "durationSeconds": 1498,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/s7Dr7FSQ4R8.vtt"
     },
     {
       "id": "ilqm5Quaggc",
@@ -1484,7 +1484,7 @@
       "durationSeconds": 1076,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ilqm5Quaggc.vtt"
     },
     {
       "id": "ewjg7JtM_cA",
@@ -1497,7 +1497,7 @@
       "durationSeconds": 1268,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ewjg7JtM_cA.vtt"
     },
     {
       "id": "QsFEWZz-Uj0",
@@ -1510,7 +1510,7 @@
       "durationSeconds": 107,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/QsFEWZz-Uj0.vtt"
     },
     {
       "id": "c3m2L5Ni3wk",
@@ -1523,7 +1523,7 @@
       "durationSeconds": 996,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/c3m2L5Ni3wk.vtt"
     },
     {
       "id": "UCQq22qA-vo",
@@ -1549,7 +1549,7 @@
       "durationSeconds": 632,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/SsLd_YRnLtw.vtt"
     },
     {
       "id": "JbkiO-RLx6A",
@@ -1562,7 +1562,7 @@
       "durationSeconds": 1170,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/JbkiO-RLx6A.vtt"
     },
     {
       "id": "-ie15qDdHjE",
@@ -1575,7 +1575,7 @@
       "durationSeconds": 905,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/-ie15qDdHjE.vtt"
     },
     {
       "id": "tbcxL9K3KBU",
@@ -1588,7 +1588,7 @@
       "durationSeconds": 1088,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/tbcxL9K3KBU.vtt"
     },
     {
       "id": "M5gCzKjb0kA",
@@ -1601,7 +1601,7 @@
       "durationSeconds": 1153,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/M5gCzKjb0kA.vtt"
     },
     {
       "id": "7FP2lehyuRU",
@@ -1614,7 +1614,7 @@
       "durationSeconds": 1130,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/7FP2lehyuRU.vtt"
     },
     {
       "id": "oLCLggs3Zmw",
@@ -1627,7 +1627,7 @@
       "durationSeconds": 1118,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/oLCLggs3Zmw.vtt"
     },
     {
       "id": "x4VcJBZFGAY",
@@ -1640,7 +1640,7 @@
       "durationSeconds": 883,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/x4VcJBZFGAY.vtt"
     },
     {
       "id": "7Qf_7T3XDns",
@@ -1653,7 +1653,7 @@
       "durationSeconds": 1188,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/7Qf_7T3XDns.vtt"
     },
     {
       "id": "RsPUbM1DivA",
@@ -1666,7 +1666,7 @@
       "durationSeconds": 1280,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/RsPUbM1DivA.vtt"
     },
     {
       "id": "drIkMSVAE0A",
@@ -1679,7 +1679,7 @@
       "durationSeconds": 1136,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/drIkMSVAE0A.vtt"
     },
     {
       "id": "gpjC3C_zkoE",
@@ -1692,7 +1692,7 @@
       "durationSeconds": 1463,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/gpjC3C_zkoE.vtt"
     },
     {
       "id": "T0fOuTmNY6g",
@@ -1705,7 +1705,7 @@
       "durationSeconds": 1208,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/T0fOuTmNY6g.vtt"
     },
     {
       "id": "qcuMu3m77Yw",
@@ -1718,7 +1718,7 @@
       "durationSeconds": 922,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/qcuMu3m77Yw.vtt"
     },
     {
       "id": "uexlvfNkuhs",
@@ -1731,7 +1731,7 @@
       "durationSeconds": 1214,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/uexlvfNkuhs.vtt"
     },
     {
       "id": "_8sGFdLBhRk",
@@ -1744,7 +1744,7 @@
       "durationSeconds": 1015,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/_8sGFdLBhRk.vtt"
     },
     {
       "id": "2MsgPQYwsjA",
@@ -1757,7 +1757,7 @@
       "durationSeconds": 987,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/2MsgPQYwsjA.vtt"
     },
     {
       "id": "t65x7RaFeFY",
@@ -1770,7 +1770,7 @@
       "durationSeconds": 1241,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/t65x7RaFeFY.vtt"
     },
     {
       "id": "xMjXa2mliZA",
@@ -1783,7 +1783,7 @@
       "durationSeconds": 459,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/xMjXa2mliZA.vtt"
     },
     {
       "id": "ckrRl0L3sr4",
@@ -1796,7 +1796,7 @@
       "durationSeconds": 1033,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/ckrRl0L3sr4.vtt"
     },
     {
       "id": "RNQKJ1hnHes",
@@ -1809,7 +1809,7 @@
       "durationSeconds": 1001,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/RNQKJ1hnHes.vtt"
     },
     {
       "id": "0fzuzHnkPAc",
@@ -1822,7 +1822,7 @@
       "durationSeconds": 1082,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/0fzuzHnkPAc.vtt"
     },
     {
       "id": "Wz23sE4KUBE",
@@ -1835,7 +1835,7 @@
       "durationSeconds": 750,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/Wz23sE4KUBE.vtt"
     },
     {
       "id": "qPM-C3V0l80",
@@ -1848,7 +1848,7 @@
       "durationSeconds": 1734,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/qPM-C3V0l80.vtt"
     },
     {
       "id": "wD3b-7J0Xy0",
@@ -1861,7 +1861,7 @@
       "durationSeconds": 1220,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/wD3b-7J0Xy0.vtt"
     },
     {
       "id": "CGmbd2YwflY",
@@ -1874,7 +1874,7 @@
       "durationSeconds": 1345,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/CGmbd2YwflY.vtt"
     },
     {
       "id": "hLxGdWoM7Fk",
@@ -1887,7 +1887,7 @@
       "durationSeconds": 822,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/hLxGdWoM7Fk.vtt"
     },
     {
       "id": "wB01PrQBxVw",
@@ -1900,7 +1900,7 @@
       "durationSeconds": 1099,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/wB01PrQBxVw.vtt"
     },
     {
       "id": "CTvvJRGMdxY",
@@ -1913,7 +1913,7 @@
       "durationSeconds": 712,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/CTvvJRGMdxY.vtt"
     },
     {
       "id": "VjF8XYfvkLI",
@@ -1926,7 +1926,7 @@
       "durationSeconds": 371,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/VjF8XYfvkLI.vtt"
     },
     {
       "id": "A1-PS3fGOw8",
@@ -1939,7 +1939,7 @@
       "durationSeconds": 679,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/A1-PS3fGOw8.vtt"
     },
     {
       "id": "2ZT9T8M2CWM",
@@ -1952,7 +1952,7 @@
       "durationSeconds": 870,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/2ZT9T8M2CWM.vtt"
     },
     {
       "id": "1KPqZ2pp9bg",
@@ -1965,7 +1965,7 @@
       "durationSeconds": 713,
       "tags": [],
       "course": "",
-      "caption": null
+      "caption": "./captions/1KPqZ2pp9bg.vtt"
     }
   ]
 }

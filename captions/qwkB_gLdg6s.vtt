@@ -1,0 +1,794 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.140 --> 00:00:04.630
+Hello and welcome back to another video
+with ItsDrDan, and today we're going to
+
+00:00:04.630 --> 00:00:10.669
+be learning about how to dilute solutions
+and go through many different examples and
+
+00:00:10.670 --> 00:00:15.419
+to explain exactly what it is that you're
+going to be using when you're in your
+
+00:00:15.419 --> 00:00:19.960
+general chemistry or introductory biology
+courses, when you have to do dilutions,
+
+00:00:19.979 --> 00:00:25.080
+which is a very common skill that you'll
+need as a scientist or as a student.
+
+00:00:25.640 --> 00:00:28.060
+So with this formula, what
+it's all about is we're going
+
+00:00:28.060 --> 00:00:29.699
+to be using the formula above.
+
+00:00:30.065 --> 00:00:33.975
+Which is M1V1=M2V2.
+
+00:00:34.444 --> 00:00:36.455
+So when, what is that all about?
+
+00:00:36.455 --> 00:00:39.304
+So what are we talking about
+when it comes to dilutions?
+
+00:00:39.655 --> 00:00:42.445
+So the easiest way to think
+about it is, let's say I wanted
+
+00:00:42.445 --> 00:00:44.005
+to make, let's say a solution.
+
+00:00:44.035 --> 00:00:48.085
+Let's say I wanted to make Kool-Aid or
+a lemonade or iced tea or something.
+
+00:00:48.694 --> 00:00:53.464
+And when you make it originally, so on
+the very far left and you drink it and you
+
+00:00:53.464 --> 00:00:55.959
+realize like, oh, that is way too sweet.
+
+00:00:56.669 --> 00:00:58.000
+What do you do, right?
+
+00:00:58.000 --> 00:01:01.920
+If something is too sweet, too
+salty, how do you change it?
+
+00:01:02.240 --> 00:01:05.190
+Well, usually the first thing
+you do is you dilute it, right?
+
+00:01:05.190 --> 00:01:06.809
+You add a little bit of water.
+
+00:01:07.150 --> 00:01:11.430
+So when you do that, so let's say if
+I started to over here on the far left
+
+00:01:11.760 --> 00:01:15.920
+and I add a little bit of water and
+I keep adding water, one thing you'll
+
+00:01:15.920 --> 00:01:18.130
+notice is the color is going to change.
+
+00:01:18.130 --> 00:01:20.570
+It's gonna get lighter
+and lighter and lighter.
+
+00:01:20.920 --> 00:01:22.170
+Why is that happening?
+
+00:01:22.210 --> 00:01:29.125
+Well, because the concentration Of the,
+of the juice that's in that powder is
+
+00:01:29.145 --> 00:01:33.955
+getting less and less and less, meaning
+you're not going to taste it as much.
+
+00:01:33.965 --> 00:01:35.495
+It's being diluted.
+
+00:01:35.765 --> 00:01:37.015
+So it's becoming less sweet.
+
+00:01:37.345 --> 00:01:38.785
+And that's the whole idea of dilution.
+
+00:01:38.795 --> 00:01:43.814
+We're making our solutions less sweet
+in a way or less moles in our solution.
+
+00:01:44.115 --> 00:01:47.505
+So this is what we're going to be
+exploring when we're looking at this.
+
+00:01:47.919 --> 00:01:50.130
+So let's take a look and this
+is going to be a skill that
+
+00:01:50.130 --> 00:01:51.229
+you're going to use in the lab.
+
+00:01:51.509 --> 00:01:52.369
+That's very common.
+
+00:01:52.369 --> 00:01:55.779
+So let's try to figure out how to do
+different calculations for it and how
+
+00:01:55.779 --> 00:01:58.269
+to utilize it for your chemistry course.
+
+00:02:04.359 --> 00:02:09.430
+So the first thing is when we're
+looking at M1V1=M2V2 is that as
+
+00:02:09.430 --> 00:02:13.149
+you may have realized, this is a
+relationship between concentration.
+
+00:02:13.510 --> 00:02:14.329
+and volume.
+
+00:02:14.810 --> 00:02:18.280
+So why M instead of maybe another letter?
+
+00:02:18.350 --> 00:02:23.249
+M is usually representing of molarity,
+meaning that's usually the most common
+
+00:02:23.320 --> 00:02:25.309
+concentration that's used in chem.
+
+00:02:25.900 --> 00:02:29.989
+However, you might have also seen
+the version of the formula above,
+
+00:02:30.360 --> 00:02:34.350
+which is C1V1 is equal to C2V2.
+
+00:02:34.820 --> 00:02:39.370
+Both formulas are identical because
+they are an inverse relationship.
+
+00:02:39.995 --> 00:02:43.385
+Meaning that as volume goes
+up, concentration goes down.
+
+00:02:43.705 --> 00:02:47.425
+So if you like one version or the other,
+they'll both work the same as long as
+
+00:02:47.425 --> 00:02:50.735
+you're using your concentration as C or M.
+
+00:02:51.255 --> 00:02:55.174
+So what I'm trying to get to is
+that this formula can be used for
+
+00:02:55.174 --> 00:02:58.174
+molarity, for percents, for molality.
+
+00:02:58.534 --> 00:03:02.555
+It can be used for any of the
+concentrations as long as the
+
+00:03:02.555 --> 00:03:05.035
+units are matching on both sides.
+
+00:03:05.410 --> 00:03:10.729
+So meaning molarity has to cancel
+molarity, millimoles have to
+
+00:03:10.730 --> 00:03:14.259
+cancel millimoles, liters have to
+cancel liters, everything needs
+
+00:03:14.259 --> 00:03:15.880
+to match on the left and right.
+
+00:03:16.370 --> 00:03:20.900
+So, let's take a look at some examples
+of how exactly we can use this for
+
+00:03:20.900 --> 00:03:24.660
+our skills so that we can do the
+best that we can in our account.
+
+00:03:24.660 --> 00:03:25.160
+1.
+
+00:03:25.220 --> 00:03:31.880
+3 molar solution needs to have
+a final concentration of 0.
+
+00:03:31.880 --> 00:03:32.779
+0400 molarity.
+
+00:03:33.390 --> 00:03:35.180
+What the heck does that even mean?
+
+00:03:35.740 --> 00:03:43.570
+So when we're doing this, being that, as
+you remember, the formula was M1V1=M2V2.
+
+00:03:44.260 --> 00:03:48.870
+So the first thing I would recommend
+doing is, with these, is stay organized.
+
+00:03:49.300 --> 00:03:51.420
+It's talking about making a new solution.
+
+00:03:51.430 --> 00:03:53.480
+So you see that there's change involved.
+
+00:03:53.950 --> 00:03:56.720
+So when you're, it's talking
+about this, of making a new
+
+00:03:56.730 --> 00:03:58.670
+solution, it's the same chemicals.
+
+00:03:58.900 --> 00:04:00.210
+It's talking about diluting it.
+
+00:04:00.810 --> 00:04:03.519
+So what we're going to do is
+we're going to write out M1.
+
+00:04:04.220 --> 00:04:10.040
+V one, M two, V two, and all that
+separately, and we're gonna see
+
+00:04:10.040 --> 00:04:12.440
+is which pieces were we given?
+
+00:04:12.960 --> 00:04:15.510
+So at the very beginning of
+the prom, it says we have 10
+
+00:04:15.510 --> 00:04:20.719
+milliliters of a 1.30 molar solution.
+
+00:04:20.810 --> 00:04:22.130
+So that's on the second line here.
+
+00:04:22.755 --> 00:04:27.065
+Now what those represent are those
+two terms are together, meaning
+
+00:04:27.065 --> 00:04:29.115
+they're part of the same solution.
+
+00:04:29.585 --> 00:04:33.735
+So we're going to label that as
+solution one, um, and they are together.
+
+00:04:34.124 --> 00:04:37.885
+It doesn't matter if they're, if
+they're one or two, as long as they go
+
+00:04:37.925 --> 00:04:39.755
+together, that's the most important part.
+
+00:04:40.124 --> 00:04:43.355
+So the molarity, you
+have 10 milliliters of 1.
+
+00:04:43.355 --> 00:04:43.919
+30 molar.
+
+00:04:44.780 --> 00:04:49.710
+And it wants to know what the final volume
+is, so we'll put a question mark by that.
+
+00:04:50.409 --> 00:04:56.139
+And it says that the,
+the concentration is 0.
+
+00:04:56.139 --> 00:04:58.039
+0400 molarity.
+
+00:04:58.390 --> 00:04:59.500
+Okay, looks good.
+
+00:04:59.930 --> 00:05:02.840
+So now what we're going to do is we're
+going to plug all this into our equation.
+
+00:05:03.190 --> 00:05:07.859
+We want V2, so we'll move things around
+a little bit and get V2 by itself.
+
+00:05:08.470 --> 00:05:10.600
+So divide M2 by both sides.
+
+00:05:11.424 --> 00:05:14.145
+So now what we will have is we'll take 1.
+
+00:05:14.145 --> 00:05:22.935
+30 molar times that by 10 milliliters,
+and then we're going to divide that by 0.
+
+00:05:23.024 --> 00:05:25.474
+0400 molarity.
+
+00:05:26.544 --> 00:05:29.054
+And now the one thing you're going
+to notice is you'll see that the
+
+00:05:29.055 --> 00:05:33.525
+molarity, being that these are the
+same units, they're going to cancel
+
+00:05:33.525 --> 00:05:36.965
+each other out, which is really
+important to kind of realize here.
+
+00:05:37.299 --> 00:05:39.069
+that both these two cancel.
+
+00:05:39.620 --> 00:05:43.390
+Now what this is going to leave
+you is only with milliliters,
+
+00:05:43.400 --> 00:05:44.900
+so we're going to do 1.
+
+00:05:44.900 --> 00:05:49.300
+3 times 10, and then we're
+going to divide that by 0.
+
+00:05:49.300 --> 00:05:49.319
+05.
+
+00:05:49.739 --> 00:05:58.360
+And we get 325 milliliters of our
+solution here, and this will be your final
+
+00:05:58.399 --> 00:06:01.380
+answer for your first dilution problem.
+
+00:06:01.890 --> 00:06:03.089
+So not too bad, right?
+
+00:06:03.140 --> 00:06:06.219
+So and this is kind of the general
+idea of how we put all these together.
+
+00:06:06.770 --> 00:06:09.909
+Let's take a look at another
+problem of working with dilutions.
+
+00:06:10.609 --> 00:06:11.260
+You have 0.
+
+00:06:11.260 --> 00:06:15.640
+600 molar NaCl stock solution.
+
+00:06:15.749 --> 00:06:21.664
+You need to make 500 of
+a 20 millimolar dilution.
+
+00:06:22.015 --> 00:06:23.794
+What volumes do you add?
+
+00:06:24.305 --> 00:06:27.715
+So sometimes you might be told
+when you walk into a lab is
+
+00:06:27.715 --> 00:06:29.055
+that you need to make this.
+
+00:06:29.480 --> 00:06:31.850
+And you're like, what, what
+do you mean I need to do that?
+
+00:06:32.160 --> 00:06:35.480
+It's not always given to you, which is
+sometimes really scary and especially
+
+00:06:35.490 --> 00:06:36.840
+the first time you have to do it.
+
+00:06:37.340 --> 00:06:40.149
+So once again, what we're going
+to do is we're going to write
+
+00:06:40.160 --> 00:06:41.370
+down everything that we had.
+
+00:06:41.740 --> 00:06:43.520
+So it says you have a 0.
+
+00:06:43.580 --> 00:06:46.259
+600 molar NaCl solution.
+
+00:06:46.259 --> 00:06:47.819
+So let's write down that first thing.
+
+00:06:47.819 --> 00:06:48.760
+So that's M1.
+
+00:06:49.369 --> 00:06:51.100
+So we got 0.
+
+00:06:51.170 --> 00:06:52.440
+600 molar.
+
+00:06:53.210 --> 00:06:56.420
+Now it's, and that's referred
+to as a stock solution.
+
+00:06:56.430 --> 00:06:57.590
+What does that mean?
+
+00:06:57.969 --> 00:07:02.950
+So a stock solution refers to
+the most concentrated solution
+
+00:07:02.950 --> 00:07:04.409
+that you have available.
+
+00:07:04.710 --> 00:07:08.479
+Meaning it's like what's available
+in the stock room or the prep room.
+
+00:07:08.759 --> 00:07:10.370
+So it's what you have on hand.
+
+00:07:10.680 --> 00:07:16.380
+So if it's your stock solution, you
+can't go any more concentrated than that.
+
+00:07:16.400 --> 00:07:17.460
+You can only go down.
+
+00:07:17.830 --> 00:07:20.710
+So you can dilute, you can't go upwards.
+
+00:07:20.719 --> 00:07:22.230
+So remember that for later.
+
+00:07:23.115 --> 00:07:28.525
+So you need to make 500 milliliters
+of a 20 millimolar solution.
+
+00:07:28.534 --> 00:07:32.645
+So we actually don't know what
+volume one is because it's
+
+00:07:32.684 --> 00:07:34.164
+asking us what we're adding.
+
+00:07:34.894 --> 00:07:44.215
+But we do know V2, which is 500 mLs,
+and we know M2, which is 20 millimoles.
+
+00:07:45.145 --> 00:07:48.195
+All right, so what else
+is kind of a problem here?
+
+00:07:48.205 --> 00:07:51.275
+Well, notice how the
+units don't quite match.
+
+00:07:51.275 --> 00:07:53.085
+So we have 20 millimoles here.
+
+00:07:53.470 --> 00:07:57.410
+And then we have 600 molar up here.
+
+00:07:57.979 --> 00:08:03.800
+So what we need to do is, is essentially
+convert this guy on the bottom to molar.
+
+00:08:03.810 --> 00:08:07.930
+So we'll divide this number
+by 1000, we'll get 0.
+
+00:08:08.049 --> 00:08:11.210
+0200 molarity.
+
+00:08:11.430 --> 00:08:13.650
+Now we can plug all this into our formula.
+
+00:08:14.320 --> 00:08:16.270
+So when we are to do this.
+
+00:08:16.835 --> 00:08:23.095
+We are going to have V1 is
+equal to m2 V2 divided by m1.
+
+00:08:24.865 --> 00:08:27.365
+So we'll take, uh, 0.
+
+00:08:27.415 --> 00:08:31.195
+0200 times that by 500.
+
+00:08:31.364 --> 00:08:34.454
+And it's, as you kind of notice how
+important it was to make sure the
+
+00:08:34.455 --> 00:08:37.485
+units match, because if they don't,
+then you, you're not going to be,
+
+00:08:37.545 --> 00:08:38.925
+you're not going to get a right answer.
+
+00:08:39.495 --> 00:08:43.995
+So we'll see that we
+have, molar on bottom.
+
+00:08:44.665 --> 00:08:47.875
+The two terms cancel out, which is great.
+
+00:08:48.645 --> 00:08:50.684
+And what that's going
+to leave us with is 16.
+
+00:08:50.685 --> 00:08:56.105
+7 milliliters of solution is required.
+
+00:08:56.695 --> 00:09:01.294
+So now what this refers to is, is this
+exactly how you make the solution?
+
+00:09:01.665 --> 00:09:02.204
+It's not.
+
+00:09:02.214 --> 00:09:03.385
+This is only part of it.
+
+00:09:03.805 --> 00:09:08.145
+So if you were to do this and you
+were how, what volume do you need?
+
+00:09:08.145 --> 00:09:09.645
+I didn't specify anything.
+
+00:09:10.185 --> 00:09:11.825
+So sometimes you need
+to make the whole thing.
+
+00:09:11.985 --> 00:09:16.834
+So this refers to in here is 16.
+
+00:09:16.875 --> 00:09:18.785
+7 milliliters of your stock solution.
+
+00:09:19.265 --> 00:09:22.915
+which is what you will
+add first to your flask.
+
+00:09:23.615 --> 00:09:28.604
+Now, being that it's talking about
+making a 500 mL solution, you
+
+00:09:28.605 --> 00:09:32.575
+would dilute this volume, the 16.
+
+00:09:32.645 --> 00:09:36.404
+7 mL here, with DI water.
+
+00:09:36.405 --> 00:09:40.945
+So what you would do is you'd take your
+little DI water bottle, you would fill
+
+00:09:41.005 --> 00:09:46.965
+up the vol flask here, with the rest
+of it with water up to the line on your
+
+00:09:46.975 --> 00:09:50.055
+volumetric flask to get 500 milliliters.
+
+00:09:50.665 --> 00:09:55.975
+So essentially to make your solution is
+you would fill the rest with DI water.
+
+00:09:56.565 --> 00:09:59.985
+Now, could you just calculate
+it and you'd get like 483.
+
+00:09:59.985 --> 00:10:03.015
+3 or whatever number it is?
+
+00:10:03.265 --> 00:10:06.505
+Yeah, you would, but you got to keep
+in mind is you want to fill it to the
+
+00:10:06.505 --> 00:10:08.265
+glassware because it's calibrated.
+
+00:10:08.610 --> 00:10:11.720
+So we fill the rest with the
+eye water, is the right answer.
+
+00:10:12.350 --> 00:10:14.030
+Let's take a look at another problem.
+
+00:10:14.079 --> 00:10:16.819
+You need to make 4 liters of a 0.
+
+00:10:16.870 --> 00:10:20.000
+900 percent saline solution.
+
+00:10:20.569 --> 00:10:23.459
+You check the storeroom, and you find 0.
+
+00:10:23.480 --> 00:10:27.560
+450 percent and a 20
+percent saline solution.
+
+00:10:28.085 --> 00:10:29.625
+What do you use to make this?
+
+00:10:29.855 --> 00:10:33.925
+And what volume of that solute do you
+need to add to make your solution?
+
+00:10:34.505 --> 00:10:36.225
+Okay, so this is a tough one.
+
+00:10:36.225 --> 00:10:37.145
+Let's take a look.
+
+00:10:37.154 --> 00:10:40.324
+So, what it says is, let's
+write everything down.
+
+00:10:40.324 --> 00:10:49.305
+So, our volume 2 is, we need a, we need to
+make 4 liters with a concentration of 0.
+
+00:10:49.345 --> 00:10:50.845
+900%.
+
+00:10:52.229 --> 00:10:57.369
+And from that, we are trying to figure
+out what our original volume is, and
+
+00:10:57.379 --> 00:11:02.679
+we have a couple options for volume,
+for the molarity here, which is pretty
+
+00:11:02.679 --> 00:11:04.689
+common in terms of a chemistry lab.
+
+00:11:04.699 --> 00:11:06.920
+What do you use to make this?
+
+00:11:07.415 --> 00:11:12.745
+Now, the thing is you need to dilute
+the stock solution to do this.
+
+00:11:13.155 --> 00:11:17.385
+So if we were to kind of put these
+over here, which one can you dilute?
+
+00:11:17.435 --> 00:11:18.645
+Can you dilute 0.
+
+00:11:18.705 --> 00:11:20.784
+450 percent to 0.
+
+00:11:20.835 --> 00:11:24.725
+9 or can you dilute 20 percent to 0.
+
+00:11:24.725 --> 00:11:25.044
+9?
+
+00:11:25.225 --> 00:11:30.595
+Which one is making it less sweet as
+per se or less salty in this case?
+
+00:11:30.995 --> 00:11:32.265
+Which one is that?
+
+00:11:32.285 --> 00:11:35.694
+Well, if you think about it,
+well, that is going to be the 20%.
+
+00:11:36.915 --> 00:11:40.805
+Because it's more concentrated,
+you need to go down.
+
+00:11:40.815 --> 00:11:42.774
+You cannot go up.
+
+00:11:43.194 --> 00:11:47.044
+So we will use a 20 percent here,
+and we're going to set it up just
+
+00:11:47.045 --> 00:11:48.475
+like how we did the last problem.
+
+00:11:48.805 --> 00:11:52.694
+So being that they're percents, the beauty
+of this is that they'll cancel each other
+
+00:11:52.704 --> 00:11:55.685
+out when we are trying to solve this.
+
+00:11:55.695 --> 00:11:56.764
+So we'll have 0.
+
+00:11:56.764 --> 00:12:02.995
+9 percent times 4, divide that by
+20%, and you can see here is that
+
+00:12:02.995 --> 00:12:07.034
+the percents will cancel, being
+that they're made of the same thing.
+
+00:12:07.630 --> 00:12:09.970
+So what this will give you is 0.
+
+00:12:10.860 --> 00:12:16.030
+180 liters is what's required to make
+this, which I kind of put that in
+
+00:12:16.030 --> 00:12:19.309
+normal speak, there's nothing that
+measures just liters in the lab.
+
+00:12:19.770 --> 00:12:25.779
+This would be about 180 milliliters is
+how much you would use of your solute.
+
+00:12:26.340 --> 00:12:30.400
+So if you were to try to do the
+solvent part, you would fill it
+
+00:12:30.450 --> 00:12:32.640
+up to four liters of your vessel.
+
+00:12:33.145 --> 00:12:34.835
+To make the rest of the solution.
+
+00:12:35.295 --> 00:12:39.055
+Okay, so this has been all my examples
+and dilutions So I try to go through
+
+00:12:39.055 --> 00:12:42.994
+some different examples of real real
+practical examples for how to do this
+
+00:12:43.414 --> 00:12:46.465
+I hope that this helped you understand
+it a little bit more for something
+
+00:12:46.465 --> 00:12:50.484
+that you will have to do in the lab
+If you need any help, feel free to
+
+00:12:50.484 --> 00:12:55.055
+comment below message me Hit the like
+button subscribe if you haven't before
+
+00:12:55.425 --> 00:12:58.865
+and I hope to see you back for future
+videos Thank you so much for listening.
+
+00:12:58.865 --> 00:13:00.015
+I hope you have a wonderful day.
+
+00:13:00.055 --> 00:13:00.925
+I'll see you all later.
+
+00:13:01.135 --> 00:13:01.634
+Bye now
+

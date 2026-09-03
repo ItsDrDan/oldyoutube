@@ -1,0 +1,1046 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.300 --> 00:00:03.990
+Hi, and welcome back to another
+video with ItsDrDan, and welcome
+
+00:00:03.990 --> 00:00:05.880
+to my Practice Problem series.
+
+00:00:06.330 --> 00:00:09.540
+So with Practice Problem series, we're
+gonna go through some more advanced
+
+00:00:09.540 --> 00:00:12.690
+problems that help you solve your
+general chemistry homework, and try
+
+00:00:12.690 --> 00:00:16.260
+to figure out different problems
+that are combining different concepts
+
+00:00:16.260 --> 00:00:20.490
+found throughout my videos and those
+from your classes in chemistry.
+
+00:00:20.880 --> 00:00:24.750
+So this one we're gonna really be
+focusing on how equilibrium and
+
+00:00:24.750 --> 00:00:30.180
+solutions and molarity are all gonna be
+mixing together in practice problems.
+
+00:00:30.480 --> 00:00:33.810
+So we're gonna be going through a
+series of three different major practice
+
+00:00:33.810 --> 00:00:38.129
+problems that are gonna be varying in
+difficulty from introductory chemistry
+
+00:00:38.135 --> 00:00:42.060
+to all the way to general chemistry two,
+just so you can kind of see what some
+
+00:00:42.060 --> 00:00:44.070
+of these are going to be coming across.
+
+00:00:44.430 --> 00:00:47.070
+So there are a lot of different
+types of problems that you
+
+00:00:47.070 --> 00:00:48.420
+can come across in these.
+
+00:00:49.065 --> 00:00:52.485
+But the biggest ones are really
+gonna be calculating K values.
+
+00:00:52.515 --> 00:00:59.205
+So those equilibrium constants, whether
+it's Keq, Kc, Ka, Kb, Ksp, right?
+
+00:00:59.210 --> 00:01:00.375
+There's all kinds of these.
+
+00:01:00.855 --> 00:01:04.515
+The other thing is looking at, alright,
+based on that value, how does it, what
+
+00:01:04.515 --> 00:01:05.955
+side of the reaction does it favor?
+
+00:01:06.255 --> 00:01:09.405
+Is it reactant focus
+or is a product focus?
+
+00:01:09.410 --> 00:01:13.005
+And that has to do with the K,
+how big or small that K value is.
+
+00:01:13.634 --> 00:01:17.895
+The last thing that we're gonna be really
+looking at is writing solubility products,
+
+00:01:17.895 --> 00:01:23.414
+which is, uh, Ksp, which really sees is
+something soluble when you throw it in.
+
+00:01:23.420 --> 00:01:27.375
+So if you take a solid, you throw it
+into a solution, does it break apart?
+
+00:01:27.585 --> 00:01:30.585
+And we're gonna actually go through a
+general chemistry two concept, which are
+
+00:01:30.585 --> 00:01:34.845
+preview of future videos, um, that will
+eventually come in the years to come.
+
+00:01:35.385 --> 00:01:37.965
+So, uh, other videos that we're
+gonna, one other question we're
+
+00:01:37.965 --> 00:01:42.015
+gonna look at is calculating
+concentrations at equilibrium as well.
+
+00:01:42.495 --> 00:01:47.235
+So how can we try to look at these
+problems and calculate a concentration?
+
+00:01:47.535 --> 00:01:49.965
+So if you're trying to figure out,
+if you only are interested in one of
+
+00:01:49.970 --> 00:01:53.445
+these problems, don't forget, you can
+use a little, little, uh, scroll wheel
+
+00:01:53.445 --> 00:01:56.505
+down below with the labeled chapters,
+the Find Your Practice Problem.
+
+00:01:56.745 --> 00:01:58.725
+They are labeled for
+you to easily find them.
+
+00:01:59.310 --> 00:02:02.460
+Um, hopefully this video helps
+and stay tuned and please hit
+
+00:02:02.580 --> 00:02:05.970
+that like and subscribe button for
+future videos on different topics
+
+00:02:06.030 --> 00:02:07.530
+and for future practice problems.
+
+00:02:08.145 --> 00:02:11.445
+So thank you for, for coming
+here and let's get to it.
+
+00:02:20.895 --> 00:02:22.125
+All right, let's get at it.
+
+00:02:22.185 --> 00:02:24.495
+So, the first problem at equilibrium.
+
+00:02:24.705 --> 00:02:28.875
+So with this problem, what we are
+looking at is we have two sulfur
+
+00:02:28.875 --> 00:02:35.155
+dioxide reacting with oxygen gas
+to yield two sulfur trioxide.
+
+00:02:35.954 --> 00:02:39.975
+So what we have is that the amount
+of each gas was measured, meaning
+
+00:02:39.975 --> 00:02:42.674
+that yeah, at equilibrium we
+are able to do that in the lab.
+
+00:02:43.275 --> 00:02:49.995
+So we have the following concentrations
+of 0.35 molar of SO2, 3.25 times 10 to
+
+00:02:49.995 --> 00:02:57.195
+the negative one molar of oxygen and 6.41
+times 10 to negative two molar of SO3.
+
+00:02:57.524 --> 00:02:59.415
+So it says calculate the Keq, so.
+
+00:03:00.315 --> 00:03:02.805
+If this is something that you weren't
+too sure about, go back to the
+
+00:03:02.805 --> 00:03:05.205
+equilibrium video so we can set up these.
+
+00:03:05.205 --> 00:03:07.695
+But just in brief, the one thing
+that we're looking at when it
+
+00:03:07.695 --> 00:03:12.945
+comes to K equations is it's all
+about products over reactants.
+
+00:03:13.485 --> 00:03:17.295
+Meaning that we are going to be
+looking at the concentrations of
+
+00:03:17.295 --> 00:03:22.995
+these and we are going to be raising
+it, raising those different values by
+
+00:03:22.995 --> 00:03:25.125
+their coefficients to their powers.
+
+00:03:25.575 --> 00:03:28.245
+So let's look at this one in particular.
+
+00:03:28.710 --> 00:03:34.170
+So if I have, I'm interested in doing
+the Keq for the following problem.
+
+00:03:34.200 --> 00:03:40.420
+Well, we have our products,
+which is sulfur trioxide, so SO3.
+
+00:03:41.070 --> 00:03:44.250
+And for that one, one thing
+that you may notice is that
+
+00:03:44.250 --> 00:03:47.070
+it has a coefficient of two.
+
+00:03:47.519 --> 00:03:53.100
+So what that means is that we are going
+to raise this to the power of two to
+
+00:03:53.430 --> 00:03:55.920
+illustrate that it has that coefficient.
+
+00:03:55.920 --> 00:03:56.880
+So that's going to.
+
+00:03:57.420 --> 00:04:01.560
+Um, essentially square its
+potential of colliding with other.
+
+00:04:01.650 --> 00:04:05.580
+So twos in this reaction,
+we have our reactants.
+
+00:04:05.580 --> 00:04:10.260
+So we have SO2, and then
+we also have oxygen.
+
+00:04:10.829 --> 00:04:14.430
+And one thing you might be kind of yelling
+right now at you, maybe yelling at your
+
+00:04:14.430 --> 00:04:20.640
+monitor is like, oh wait, there is a
+coefficient for SO2, so let's do that.
+
+00:04:20.644 --> 00:04:22.860
+We are gonna put that to a power as well.
+
+00:04:23.159 --> 00:04:26.370
+So that is what I was mentioning,
+is that we need to raise these
+
+00:04:26.760 --> 00:04:31.409
+by their coefficients when we
+are writing out these values.
+
+00:04:31.920 --> 00:04:37.620
+So the problem calls for calculating
+its K value going through this.
+
+00:04:38.190 --> 00:04:43.289
+So when we are trying to calculate
+this, what we need to do is take
+
+00:04:43.380 --> 00:04:45.750
+our values and plug them in.
+
+00:04:46.049 --> 00:04:47.369
+So SO3 is 0.
+
+00:04:47.369 --> 00:04:49.530
+0 6 4 1 molar.
+
+00:04:50.310 --> 00:04:54.150
+And for SO2 we have 0.35 molar.
+
+00:04:54.810 --> 00:04:58.140
+So let's just highlight those in
+the problem to help us see that.
+
+00:04:58.140 --> 00:05:04.500
+So, SO2 is here, and then we
+have, SO3, which was here.
+
+00:05:05.610 --> 00:05:10.740
+And then our last one is going to
+be oxygen that we will put in our
+
+00:05:10.740 --> 00:05:19.140
+oxygen value as well, and that
+is going to be 0.325 and that's
+
+00:05:19.140 --> 00:05:20.550
+going to get plugged in as well.
+
+00:05:20.760 --> 00:05:27.130
+Then we gotta raise our SO2 to a
+power, and then we can calculate Keq.
+
+00:05:27.150 --> 00:05:30.750
+So we'll plug these into our
+calculator and then we will solve it.
+
+00:05:30.930 --> 00:05:32.770
+Get for Keq.
+
+00:05:33.390 --> 00:05:40.890
+Is a value of 0.10 as our value
+and what we need to go off three
+
+00:05:40.895 --> 00:05:42.900
+sig figs in all of our values.
+
+00:05:43.380 --> 00:05:47.610
+This is going to be a value of 0.103.
+
+00:05:47.640 --> 00:05:49.860
+So what does that tell
+us about looking at this?
+
+00:05:50.250 --> 00:05:54.410
+Well, if you remember from my previous
+video, in equilibrium K can either
+
+00:05:54.480 --> 00:05:56.010
+be greater than or less than one.
+
+00:05:56.490 --> 00:06:00.120
+With that, it tells you what the
+ratio is of the concentrations.
+
+00:06:00.479 --> 00:06:06.120
+So if K is less than one, that
+means that it favors the reactants.
+
+00:06:06.570 --> 00:06:09.690
+If it's greater than one,
+it favors the products.
+
+00:06:10.260 --> 00:06:14.340
+So in this situation, it is telling you
+that based on this reaction that we have,
+
+00:06:14.700 --> 00:06:17.640
+this is greatly favoring the reactants.
+
+00:06:17.640 --> 00:06:23.489
+So it's favoring the left side of it,
+meaning that there's more SO2 in oxygen.
+
+00:06:23.489 --> 00:06:27.719
+Once this, this equation or
+this reaction is at equilibrium.
+
+00:06:28.305 --> 00:06:32.175
+So this is one thing to look at
+for this problem on to the next.
+
+00:06:32.295 --> 00:06:33.974
+Okay, this, let's do it.
+
+00:06:33.974 --> 00:06:38.414
+So this next one is, what we are trying
+to do is look at the following thing,
+
+00:06:38.414 --> 00:06:42.675
+which tells you, right, the net ionic
+equation for the solubility of copper
+
+00:06:42.675 --> 00:06:47.445
+hydroxide, which what this is trying to
+set up when it comes to equilibrium is
+
+00:06:47.445 --> 00:06:52.215
+telling you that if I have a solid, let's
+say, kind of like table salt, right?
+
+00:06:52.245 --> 00:06:54.615
+So, which is something that
+you've just put on food every day.
+
+00:06:55.320 --> 00:06:59.850
+If you are to have that in your hand,
+it is in the form of a solid, but if you
+
+00:06:59.850 --> 00:07:03.840
+throw it in a glass of water quickly,
+in a blink of an eye, it will, it will
+
+00:07:03.840 --> 00:07:05.880
+dissolve and vanish before your eyes.
+
+00:07:06.450 --> 00:07:11.040
+This is what this is trying to ask
+you is if I have something like copper
+
+00:07:11.040 --> 00:07:17.700
+hydroxide where this is a copper salt,
+which is a solid, what would happen
+
+00:07:17.700 --> 00:07:20.010
+when that is thrown into solution?
+
+00:07:21.000 --> 00:07:25.410
+When it goes in, it's going to
+dissolve into its most basic ions.
+
+00:07:25.410 --> 00:07:30.210
+So the first one being copper two plus,
+and the other one being hydroxide.
+
+00:07:30.930 --> 00:07:36.390
+But being that this is, OH
+minus with a two here, we don't
+
+00:07:36.390 --> 00:07:38.190
+write, OH, we don't write that.
+
+00:07:38.195 --> 00:07:41.550
+There's uh OH minus with a two subscript.
+
+00:07:41.940 --> 00:07:45.600
+We are going to show that
+as a two coefficient.
+
+00:07:45.660 --> 00:07:49.500
+To say that, oh, this is breaking
+down into its most simple
+
+00:07:49.500 --> 00:07:52.230
+ions when this is in solution.
+
+00:07:52.710 --> 00:07:56.400
+So being that it's breaking down
+in water, these are all considered
+
+00:07:56.400 --> 00:08:02.710
+to be aqueous as we write what is
+referred to as the solubility product.
+
+00:08:03.750 --> 00:08:07.230
+So that is what this, what these
+are on the right hand side.
+
+00:08:07.560 --> 00:08:12.510
+These are all solubility products, as
+these are dissolved dissociating and
+
+00:08:12.515 --> 00:08:15.210
+being ionized by water in solution.
+
+00:08:16.080 --> 00:08:19.260
+So the next part is asking,
+all right, write the solubility
+
+00:08:19.260 --> 00:08:21.330
+product equilibrium expression.
+
+00:08:21.570 --> 00:08:24.540
+A little bit of a mouthful, but
+what that's asking for you is a
+
+00:08:24.540 --> 00:08:29.140
+different form of K, which is still
+products over reactance, but is Ksp?
+
+00:08:29.640 --> 00:08:35.850
+So when we are writing our expression for
+Ksp, we still do products over reactives.
+
+00:08:36.270 --> 00:08:40.920
+So we have oh, minus as one
+product, and that's gonna be
+
+00:08:40.920 --> 00:08:42.750
+raised to the power of two.
+
+00:08:43.605 --> 00:08:49.695
+And then we have be, we have a coefficient
+of two, and then we have copper two plus.
+
+00:08:50.325 --> 00:08:53.565
+Now the reactance is copper hydroxide.
+
+00:08:53.835 --> 00:08:56.685
+But one thing you might remember
+is that one of our rules is we
+
+00:08:56.685 --> 00:09:01.275
+never write solids or liquids.
+
+00:09:01.575 --> 00:09:05.385
+So being that we never write solids
+or liquids, we do not include it
+
+00:09:05.385 --> 00:09:07.185
+in this portion of the problem.
+
+00:09:08.865 --> 00:09:11.595
+This is going to be our equilibrium value.
+
+00:09:11.595 --> 00:09:15.975
+It stays the way it is, so we can
+kind of box that portion off, and
+
+00:09:15.975 --> 00:09:18.135
+that is our equilibrium expression.
+
+00:09:18.855 --> 00:09:24.045
+So based on that, let's say if
+I ask you the following, if the
+
+00:09:24.045 --> 00:09:30.525
+Ksp of this, uh, solution is
+1.6 times 10 to the negative 19.
+
+00:09:31.395 --> 00:09:33.615
+Is copper hydroxide soluble?
+
+00:09:33.944 --> 00:09:38.175
+Well, what do you mean then we just do
+a whole entire solubility expression?
+
+00:09:38.775 --> 00:09:43.724
+Well, based on the K value that
+tells you how soluble is something.
+
+00:09:44.145 --> 00:09:47.775
+Is it soluble or is it relatively
+insoluble or partially?
+
+00:09:48.375 --> 00:09:53.025
+So this gives you an idea of if you look
+at the reaction, 1.6 times 10 to the
+
+00:09:53.025 --> 00:09:58.185
+nine, first, you're gonna ask yourself,
+is that greater or less than one?
+
+00:09:58.755 --> 00:10:04.035
+And one thing you're gonna kind of see
+is that K is a very much less than one.
+
+00:10:04.035 --> 00:10:05.685
+It is very, very small.
+
+00:10:06.285 --> 00:10:10.094
+So when that happens, that's telling
+you, if I go back up to my reaction
+
+00:10:10.094 --> 00:10:16.395
+here, that this is very much favoring
+the left hand side of the reaction.
+
+00:10:17.084 --> 00:10:19.454
+So being at that is favoring the left.
+
+00:10:20.025 --> 00:10:23.415
+That's telling you it's mainly
+existing in the form of a solid.
+
+00:10:24.104 --> 00:10:28.125
+So this expression is
+not very soluble at all.
+
+00:10:28.530 --> 00:10:32.610
+In fact, it's 10 to the, that's 19
+orders of magnitude away from one.
+
+00:10:33.150 --> 00:10:37.410
+So you can probably say,
+no, it is not soluble.
+
+00:10:37.410 --> 00:10:41.339
+This would be a big no, this is insoluble.
+
+00:10:42.569 --> 00:10:45.825
+So, Into a more advanced concept.
+
+00:10:45.825 --> 00:10:49.185
+If this, if you're just here for
+introductory chemistry, there's some
+
+00:10:49.185 --> 00:10:53.265
+little math skills that might be
+useful here that are worth watching,
+
+00:10:53.685 --> 00:10:57.075
+but if you're not, if you're not
+here for this, this will not be
+
+00:10:57.075 --> 00:10:58.515
+in the introductory chem class.
+
+00:10:58.665 --> 00:11:00.555
+This will be in general chemistry two.
+
+00:11:01.095 --> 00:11:03.585
+So let's try to make
+this one step farther.
+
+00:11:04.425 --> 00:11:07.755
+If I ask you the following, if
+I have, based on the information
+
+00:11:07.755 --> 00:11:12.045
+that we had before, so the K S P
+was 1.6 times 10 and negative 19.
+
+00:11:12.795 --> 00:11:19.545
+We know that it's equal to copper in
+solution times, hydroxide in solution.
+
+00:11:20.175 --> 00:11:22.905
+So what if I ask you, what
+is the copper concentration?
+
+00:11:23.205 --> 00:11:24.345
+How would you figure that out?
+
+00:11:24.495 --> 00:11:28.485
+Well, we have all the piece of
+information that we need and how?
+
+00:11:28.665 --> 00:11:29.564
+How could that be?
+
+00:11:29.865 --> 00:11:35.145
+Well, one thing that we can do is
+that these are all particles that are
+
+00:11:35.145 --> 00:11:38.025
+all pretty hard to tell apart, right?
+
+00:11:38.025 --> 00:11:39.705
+All particles are really tiny.
+
+00:11:40.125 --> 00:11:43.875
+And they're indistinguishable based on the
+theories that we've looked at in the past.
+
+00:11:44.625 --> 00:11:47.475
+So one, and this is a basic
+general chemistry assumption
+
+00:11:47.475 --> 00:11:48.705
+we like to make often.
+
+00:11:49.335 --> 00:11:52.755
+So if we say that where every one
+of these ions, let's say if I have
+
+00:11:52.755 --> 00:11:57.735
+copper, so which is an ion, I also
+have hydroxide, which is an ion.
+
+00:11:58.305 --> 00:12:02.715
+What we are going to do with them is
+all assume that they all equal just a
+
+00:12:02.715 --> 00:12:04.335
+common variable that we haven't met.
+
+00:12:04.455 --> 00:12:05.655
+We'll just call it X.
+
+00:12:06.465 --> 00:12:16.620
+So what we will do is if I have Ksp, And
+I plug in X for copper and for hydroxide.
+
+00:12:16.620 --> 00:12:23.969
+So now I have X times X squared and all
+of that is equal to 1.6 times 10 to 19.
+
+00:12:24.750 --> 00:12:28.740
+Well, based on algebra, this is
+something that's, that you can simplify.
+
+00:12:28.740 --> 00:12:31.020
+Being this is X times x squared.
+
+00:12:31.650 --> 00:12:34.620
+Multiply these two things
+together on both sides.
+
+00:12:35.280 --> 00:12:40.020
+So when that happens, we can
+simplify that to be X cubed.
+
+00:12:41.130 --> 00:12:41.520
+Okay.
+
+00:12:42.000 --> 00:12:47.435
+So being that this is now X cubed
+equal to 1.6 times 10 to the
+
+00:12:47.435 --> 00:12:51.450
+19, how can I get X by itself?
+
+00:12:52.110 --> 00:12:59.640
+Well, the way that we can do that
+is we can take a cube root of this.
+
+00:12:59.850 --> 00:13:06.030
+So instead of a square root, it's a root
+with a three power instead of each side.
+
+00:13:06.825 --> 00:13:12.314
+And what that's going to do is cancel
+out our, our cube on the left side.
+
+00:13:13.275 --> 00:13:16.515
+So that's something that you can just
+plug into a calculator when you do that.
+
+00:13:17.564 --> 00:13:21.795
+And when you do that function,
+that's gonna tell you that X,
+
+00:13:22.305 --> 00:13:24.885
+which is the same thing as copper.
+
+00:13:26.175 --> 00:13:31.545
+The concentration of that is
+going to be equal to 5.4 times 10
+
+00:13:31.545 --> 00:13:33.255
+to the negative seven molarity.
+
+00:13:34.155 --> 00:13:38.625
+Okay, so, and that's going to be
+your copper two plus concentration.
+
+00:13:39.135 --> 00:13:42.555
+So this is something that if you're
+taking future classes, that's a
+
+00:13:42.555 --> 00:13:44.985
+future concept on to the next.
+
+00:13:45.405 --> 00:13:48.675
+Okay, let's do our last
+practice problem for this set.
+
+00:13:49.215 --> 00:13:54.315
+So the Ka of the following reaction
+is 1.6 times 10 to the negative
+
+00:13:54.315 --> 00:14:00.135
+five, meaning that we have a
+reaction of acetic acid, so CH3COOH.
+
+00:14:00.750 --> 00:14:07.380
+And it's reacting with water to create
+H three O plus and CH3COO minus.
+
+00:14:07.740 --> 00:14:14.520
+So what we are seeing is an acid donating
+its proton to create hydronium, and
+
+00:14:14.520 --> 00:14:17.069
+it's making a conjugate base as well.
+
+00:14:17.280 --> 00:14:21.689
+So what we have as we have the
+reaction, the Ka value, and we have the
+
+00:14:21.689 --> 00:14:28.530
+concentrations of acetic acid, which
+is two molar, and we are given the.
+
+00:14:29.310 --> 00:14:35.850
+Concentration of CH3COO
+minus, and that is 0.25 molar.
+
+00:14:35.940 --> 00:14:37.140
+And this is at equilibrium.
+
+00:14:37.860 --> 00:14:42.720
+What is the concentration of
+hydronium and determinants pH?
+
+00:14:42.780 --> 00:14:47.550
+So this is combining equilibrium
+with acids and bases altogether.
+
+00:14:47.580 --> 00:14:48.870
+So how do we start it?
+
+00:14:49.620 --> 00:14:53.550
+The first step is being that we already
+have a balanced chemical reaction.
+
+00:14:54.105 --> 00:14:58.275
+It's for us to write out the
+equilibrium expression for ka.
+
+00:14:59.535 --> 00:15:04.035
+So Ka is going to be equal to
+the products over the reactants.
+
+00:15:04.515 --> 00:15:12.255
+So we have H3O plus, then
+we have CH3COO minus.
+
+00:15:13.275 --> 00:15:21.315
+In our reactants we have
+CH3COOH, and we also have water.
+
+00:15:21.495 --> 00:15:24.765
+But one thing to remember is we
+do not include water because we
+
+00:15:24.765 --> 00:15:27.015
+never include solids or liquids.
+
+00:15:27.465 --> 00:15:29.955
+So this will be our
+equilibrium expression.
+
+00:15:30.945 --> 00:15:34.515
+Now, from that, we were giving
+a lot of different values
+
+00:15:34.515 --> 00:15:36.315
+that we can plug into this.
+
+00:15:36.705 --> 00:15:45.765
+The first one from above was the um,
+Ka or Ka constant for this formula.
+
+00:15:46.230 --> 00:15:47.850
+So we can plug that in.
+
+00:15:48.270 --> 00:15:53.340
+So Ka was 1.6 times 10
+to the negative fifth.
+
+00:15:54.630 --> 00:15:58.380
+So when we plug that in, we
+can now ha take our formula and
+
+00:15:58.385 --> 00:16:00.330
+plug in all the concentrations.
+
+00:16:01.170 --> 00:16:03.240
+So H3O plus is our variable.
+
+00:16:03.245 --> 00:16:10.330
+We're trying to find that we can plug
+in the concentration of CH3COO minus.
+
+00:16:10.350 --> 00:16:12.900
+That was 0.25.
+
+00:16:13.470 --> 00:16:14.550
+Was that value?
+
+00:16:15.495 --> 00:16:19.425
+And then we also had our
+concentration of acetic acid,
+
+00:16:20.175 --> 00:16:24.765
+which was 2.0 molar as our value.
+
+00:16:25.755 --> 00:16:29.444
+Alright, so what are we trying to do here?
+
+00:16:29.444 --> 00:16:33.225
+Well, we have to get H3O plus by itself.
+
+00:16:33.824 --> 00:16:35.235
+So how do you do that?
+
+00:16:35.235 --> 00:16:37.574
+Well, this is all an algebra problem.
+
+00:16:38.055 --> 00:16:41.775
+So the first thing that we're
+gonna do is to get this by itself
+
+00:16:41.805 --> 00:16:43.334
+is we're going to multiply.
+
+00:16:43.995 --> 00:16:49.095
+2.0 by both sides to cancel
+out the 2.0 on the bottom.
+
+00:16:49.995 --> 00:16:51.615
+So that would be step one.
+
+00:16:52.574 --> 00:16:54.975
+When that happens, 2.0 gets by itself.
+
+00:16:55.064 --> 00:16:59.115
+We can simplify our number now
+on the left, so that would be
+
+00:16:59.120 --> 00:17:01.905
+3.2 times 10 to the negative.
+
+00:17:01.965 --> 00:17:10.935
+Fifth is equal to hydronium plus and
+0.25, which that was in blue before,
+
+00:17:10.935 --> 00:17:11.954
+so let's put that in blue again.
+
+00:17:13.829 --> 00:17:16.050
+So let's put that in the same size.
+
+00:17:16.050 --> 00:17:16.379
+Two.
+
+00:17:17.129 --> 00:17:19.170
+That's 0.25.
+
+00:17:20.310 --> 00:17:22.530
+Now, how do we get hydronium by itself?
+
+00:17:22.710 --> 00:17:25.560
+Well, being that they're both
+being multiplied by each other.
+
+00:17:25.800 --> 00:17:28.620
+The way to get them separated
+is by dividing them.
+
+00:17:29.430 --> 00:17:33.750
+So if we divide those two values
+by both sides, so if I divide it
+
+00:17:33.750 --> 00:17:38.520
+on the left and on the right, we
+will get to that value by itself.
+
+00:17:38.520 --> 00:17:39.960
+So 0.25.
+
+00:17:40.950 --> 00:17:42.090
+These cancel out.
+
+00:17:42.899 --> 00:17:45.540
+We'll do the same thing on the left side.
+
+00:17:46.590 --> 00:17:50.580
+Now what that's gonna do is give
+us our concentration of hydronium,
+
+00:17:51.180 --> 00:17:59.700
+which will be 1.28 times 10 to the
+negative four molar of hydronium.
+
+00:18:00.510 --> 00:18:01.800
+So that's our concentration.
+
+00:18:01.805 --> 00:18:03.360
+So that is one answer.
+
+00:18:04.050 --> 00:18:08.340
+Now, if you remember from the
+problem, we also had to figure out pH.
+
+00:18:09.210 --> 00:18:09.840
+So how do we do that?
+
+00:18:10.395 --> 00:18:14.475
+Well, that goes back to the pH and
+acids and basis video, which the way
+
+00:18:14.475 --> 00:18:20.205
+to solve for that is, if you remember,
+is that pH is equal to the negative
+
+00:18:20.205 --> 00:18:24.105
+log of the hydronium concentration.
+
+00:18:25.095 --> 00:18:29.895
+And one thing that's a tip, if you ever
+see high hydronium, that concentration
+
+00:18:29.895 --> 00:18:34.875
+is going to be equal to what you see
+for hydrogen ion, depending on how
+
+00:18:34.875 --> 00:18:36.375
+a, how a problem is being written.
+
+00:18:36.375 --> 00:18:39.045
+So another little tip
+for a practice problem.
+
+00:18:40.485 --> 00:18:45.825
+So when we have this, we're gonna
+plug our value in to this equation.
+
+00:18:45.825 --> 00:18:51.495
+So the, the 1.28 is going to
+be plugged into this value.
+
+00:18:52.215 --> 00:19:00.435
+So when we do that, we are going to get
+a pH of 3.89 When we take the negative
+
+00:19:00.435 --> 00:19:03.855
+log of 1.28 times 10 and negative four.
+
+00:19:04.740 --> 00:19:06.210
+This is my last practice prom.
+
+00:19:06.210 --> 00:19:08.550
+I hope this video helped going
+through several different
+
+00:19:08.550 --> 00:19:10.650
+examples if these helped.
+
+00:19:10.980 --> 00:19:11.910
+Remember, this is Dr.
+
+00:19:11.910 --> 00:19:12.630
+Dan here.
+
+00:19:12.660 --> 00:19:15.990
+Please hit that like and subscribe
+button to see future videos, and
+
+00:19:15.990 --> 00:19:18.720
+I hope that I can help you pass
+and acce your chemistry class.
+
+00:19:19.110 --> 00:19:22.140
+Thank you so much for stopping
+by, and I'll see you all later.
+
+00:19:22.200 --> 00:19:22.710
+Bye now.
+

@@ -1,0 +1,987 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.170 --> 00:00:03.870
+Hello, and welcome back to another
+video with ItsDrDan, and today we're
+
+00:00:03.870 --> 00:00:08.599
+going to be learning about how to
+calculate theoretical n percent yield.
+
+00:00:09.160 --> 00:00:11.070
+Now, when is this really important?
+
+00:00:11.090 --> 00:00:15.380
+Well, typically it has to do with
+stoichiometry and relating to your work
+
+00:00:15.400 --> 00:00:17.760
+that you do within the laboratory setting.
+
+00:00:18.349 --> 00:00:22.839
+Percent yield is equal to the actual
+yield, which is how much you obtain
+
+00:00:22.839 --> 00:00:27.209
+within an experiment, so it's also
+commonly called the experimental yield,
+
+00:00:27.749 --> 00:00:30.119
+divided by the theoretical yield.
+
+00:00:30.435 --> 00:00:34.805
+which is how much you obtain when
+you calculate it using stoichiometry.
+
+00:00:35.144 --> 00:00:39.405
+So just using your calculators and going
+through all the mathematical steps of
+
+00:00:39.665 --> 00:00:43.525
+what you've been learning about in general
+chemistry, and we times it by 100%.
+
+00:00:44.065 --> 00:00:46.904
+Now, why is it that we
+try to calculate this?
+
+00:00:46.944 --> 00:00:47.974
+Let's take a look at it.
+
+00:00:48.114 --> 00:00:52.835
+Now, throughout stoichiometry, we
+make the assumption that all reactants
+
+00:00:53.245 --> 00:00:55.815
+100 percent convert to products.
+
+00:00:56.310 --> 00:00:59.200
+meaning that we are assuming
+that we are perfect.
+
+00:00:59.770 --> 00:01:01.990
+The thing is, as we all
+know, we are not perfect.
+
+00:01:02.040 --> 00:01:03.880
+We make errors in the lab.
+
+00:01:04.310 --> 00:01:06.860
+It is not possible to get
+100 percent in chemistry.
+
+00:01:06.860 --> 00:01:11.250
+You always are making errors all
+over the place, which is normal.
+
+00:01:11.280 --> 00:01:13.210
+You make errors because you're learning.
+
+00:01:13.220 --> 00:01:15.640
+You're trying to get
+your lab skills better.
+
+00:01:16.010 --> 00:01:19.630
+Sometimes reactions don't completely
+occur the way you want them to.
+
+00:01:20.025 --> 00:01:22.575
+But there are errors and these are
+things that we have to deal with.
+
+00:01:22.635 --> 00:01:24.755
+Now, where can these errors come up from?
+
+00:01:25.115 --> 00:01:27.895
+Well, sometimes they can come
+from maybe just transferring
+
+00:01:27.905 --> 00:01:29.515
+chemicals between glassware.
+
+00:01:29.775 --> 00:01:33.525
+It's really easy to see like, Hey,
+some, some solid got left here.
+
+00:01:33.775 --> 00:01:36.565
+Maybe when you're mixing, you
+see it on the stirring rod or on
+
+00:01:36.565 --> 00:01:38.765
+the spatulas or on the beakers.
+
+00:01:39.214 --> 00:01:43.645
+Uh, it's very common the reaction
+doesn't go to completion or maybe
+
+00:01:43.645 --> 00:01:45.175
+you didn't wait long enough.
+
+00:01:45.205 --> 00:01:48.865
+Like, okay, the lab manual said 15
+minutes, but hey, your lab partner
+
+00:01:48.865 --> 00:01:49.914
+wanted to leave a little early.
+
+00:01:49.914 --> 00:01:51.395
+So you just did it for five minutes.
+
+00:01:51.695 --> 00:01:53.004
+So maybe there was an error.
+
+00:01:53.565 --> 00:01:56.674
+Other things that could be made
+is maybe you made a side product,
+
+00:01:56.674 --> 00:02:00.374
+meaning that another reaction
+occurred without your knowledge.
+
+00:02:00.845 --> 00:02:05.985
+Or the reactant isn't P or let's say the
+reactants weren't even pure to begin with.
+
+00:02:06.305 --> 00:02:10.225
+So let's say if you just had like some,
+maybe not the best quality ingredients.
+
+00:02:10.600 --> 00:02:13.130
+Well, then, yeah, you're going
+to have different, different, uh,
+
+00:02:13.130 --> 00:02:17.100
+read it products in the very end
+or just human error to begin with.
+
+00:02:17.100 --> 00:02:21.000
+Maybe you just made a mistake or
+forgot to do something or added
+
+00:02:21.000 --> 00:02:24.120
+too much water or whatever it
+is, there are going to be errors.
+
+00:02:24.570 --> 00:02:26.400
+So when we are calculating this.
+
+00:02:27.005 --> 00:02:30.745
+We calculate on paper the theoretical
+yield, which is something that
+
+00:02:30.755 --> 00:02:31.945
+you've been doing all along.
+
+00:02:31.955 --> 00:02:34.105
+This is all stoichiometry calculations.
+
+00:02:34.115 --> 00:02:38.435
+So whether it's mass to mass, gas
+stoichiometry, solution stoichiometry,
+
+00:02:38.825 --> 00:02:41.225
+you're assuming that you have
+a perfect experiment, right?
+
+00:02:41.225 --> 00:02:45.265
+This is all about mass
+conservation and being Perfect.
+
+00:02:45.565 --> 00:02:47.195
+And that is a true law.
+
+00:02:47.245 --> 00:02:51.285
+However, we do make errors and
+there is mass that can be lost.
+
+00:02:51.805 --> 00:02:55.674
+So if something is lost, this
+is what the actual yield is
+
+00:02:55.715 --> 00:02:57.114
+and what we measure in lab.
+
+00:02:57.484 --> 00:03:01.295
+So we compare the two numbers
+to see, well, how good did you
+
+00:03:01.295 --> 00:03:02.484
+do when you were in the lab?
+
+00:03:02.485 --> 00:03:06.515
+It gives us a reference point
+to see, can we improve, right?
+
+00:03:06.515 --> 00:03:10.524
+One of the things about school is all
+about improvement and getting better.
+
+00:03:10.845 --> 00:03:11.575
+better, right?
+
+00:03:11.905 --> 00:03:14.744
+If you were getting 100 percent on
+everything going throughout the gate, then
+
+00:03:14.755 --> 00:03:16.095
+you don't need to be in school, right?
+
+00:03:16.095 --> 00:03:18.625
+You can just start working in
+the field that you want to be in.
+
+00:03:19.014 --> 00:03:20.785
+But we do this because we want to learn.
+
+00:03:20.825 --> 00:03:22.205
+We want to grow.
+
+00:03:22.694 --> 00:03:26.285
+And the whole idea here is when it comes
+to chemistry is products are always lost.
+
+00:03:26.285 --> 00:03:30.715
+We're always trying to search for them
+with our little magnifying glass, but
+
+00:03:30.744 --> 00:03:32.575
+we always are losing a little bit.
+
+00:03:32.575 --> 00:03:36.394
+So we're going to be using this formula
+to help us try to understand this.
+
+00:03:36.855 --> 00:03:40.915
+So let's try to take a look at an example
+of how this could work and then we'll get
+
+00:03:40.915 --> 00:03:42.945
+into some harder stoichiometry examples.
+
+00:03:48.975 --> 00:03:54.875
+In the reaction box, there are 6 moles of
+hydrogen gas and 3 moles of nitrogen gas.
+
+00:03:55.285 --> 00:03:59.034
+Based on the reaction, determine
+the theoretical yield based on
+
+00:03:59.035 --> 00:04:00.575
+the following chemical expression.
+
+00:04:01.245 --> 00:04:04.684
+Well, if we were doing this and we
+wanted to figure out exactly how
+
+00:04:04.684 --> 00:04:08.034
+much ammonia you were going to make,
+which is your theoretical yield.
+
+00:04:08.540 --> 00:04:09.510
+What would we do?
+
+00:04:09.519 --> 00:04:14.040
+Well, the first thing is that we
+saw is that we had 6 moles of H2.
+
+00:04:14.600 --> 00:04:18.589
+So if we wanted to convert that using
+this formula, well, we would just use
+
+00:04:18.599 --> 00:04:25.190
+our molar coefficients, and we can see
+that, okay, for every 3 We are going
+
+00:04:25.190 --> 00:04:27.690
+to be making two moles of ammonia.
+
+00:04:28.490 --> 00:04:31.660
+So if we were to do this little
+conversion here, we are going to
+
+00:04:31.660 --> 00:04:36.230
+quickly see that we would obtain four
+moles of ammonia that are possible.
+
+00:04:37.300 --> 00:04:40.079
+Now, the thing is that this is a
+limiting reagent problem because you
+
+00:04:40.079 --> 00:04:42.489
+were given two different starting points.
+
+00:04:42.979 --> 00:04:46.020
+We were also told, hey, we have
+three moles of nitrogen in that
+
+00:04:46.020 --> 00:04:48.350
+box, too, and we can see it as well.
+
+00:04:48.620 --> 00:04:52.180
+There are these little, the little,
+uh, blue orbs that are here.
+
+00:04:52.690 --> 00:04:54.240
+Um, are reacting as well.
+
+00:04:54.680 --> 00:04:59.180
+So if I have three moles of nitrogen
+and from our chemical equation, we can
+
+00:04:59.180 --> 00:05:04.880
+see that one mole of nitrogen reacts
+and it creates two moles of ammonia.
+
+00:05:06.210 --> 00:05:10.130
+Well, this is going to make a
+total of six moles of ammonia.
+
+00:05:10.770 --> 00:05:13.389
+Well, which one is the theoretical yield?
+
+00:05:13.509 --> 00:05:16.520
+Well, it's all about which
+made less out of the two.
+
+00:05:17.080 --> 00:05:22.150
+So our answer in this case is going to be
+that hydrogen was the limiting reagent.
+
+00:05:22.670 --> 00:05:27.910
+And our possible theoretical
+yield is going to be, uh, going
+
+00:05:27.910 --> 00:05:34.390
+to be hydrogen in this case
+making only four moles of ammonia.
+
+00:05:34.539 --> 00:05:34.899
+Okay?
+
+00:05:35.740 --> 00:05:37.430
+So our theoretical yield is four.
+
+00:05:38.145 --> 00:05:42.395
+Now, if we wanted to calculate,
+let's say, percent yield, how
+
+00:05:42.395 --> 00:05:43.805
+exactly would you do this?
+
+00:05:44.365 --> 00:05:49.295
+Well, so let's say if, however, you
+actually only created 3 moles of ammonia
+
+00:05:49.414 --> 00:05:52.505
+in the lab, what is your percent yield?
+
+00:05:52.844 --> 00:05:57.395
+Well, so this is your actual,
+which is 3, your theoretical was 4.
+
+00:05:57.865 --> 00:06:02.110
+So what do you got to do is you'll take
+3 moles, which is your actual yield.
+
+00:06:02.640 --> 00:06:05.480
+Divide that by 4 moles,
+which was our theoretical.
+
+00:06:05.480 --> 00:06:06.890
+We calculated that together.
+
+00:06:07.780 --> 00:06:15.660
+So telling us that you have about a 75
+percent yield within your reaction, which
+
+00:06:15.660 --> 00:06:18.550
+is pretty good actually in chemistry
+to get about a 75 percent yield.
+
+00:06:18.935 --> 00:06:22.135
+A lot of times when you're doing organic
+chemistry, you might be lucky if you
+
+00:06:22.135 --> 00:06:26.715
+even get 5 or 10 percent yield depending
+on what reaction you were trying to do.
+
+00:06:26.855 --> 00:06:27.975
+So that's the basic idea.
+
+00:06:28.245 --> 00:06:32.235
+How much were you supposed to
+make and how much did you actually
+
+00:06:32.305 --> 00:06:33.705
+make when you did the experiment?
+
+00:06:34.155 --> 00:06:34.445
+All right.
+
+00:06:34.575 --> 00:06:37.445
+Let's take a look at some
+different stoichiometry examples.
+
+00:06:38.155 --> 00:06:41.395
+from the air to form lithium bicarbonate.
+
+00:06:42.095 --> 00:06:46.305
+So lithium hydroxide plus CO2
+makes lithium bicarbonate or
+
+00:06:46.325 --> 00:06:47.705
+lithium hydrogen carbonate.
+
+00:06:48.335 --> 00:06:54.245
+Uh, what is the percent yield of lithium
+bicarbonate for the reaction if 50
+
+00:06:54.255 --> 00:06:58.225
+grams of lithium hydroxide gives 72.
+
+00:06:58.295 --> 00:07:00.325
+8 grams of lithium bicarbonate?
+
+00:07:01.830 --> 00:07:05.090
+The first thing is that what a lot of
+students will do is they want to just
+
+00:07:05.090 --> 00:07:10.460
+divide these two numbers and then times
+it by 100 percent and think they are done.
+
+00:07:10.979 --> 00:07:12.940
+The thing is that would
+be very, very wrong.
+
+00:07:12.950 --> 00:07:15.319
+We can't just take 50
+grams and divide it by 72.
+
+00:07:15.359 --> 00:07:18.089
+8 and be done with the problem.
+
+00:07:18.550 --> 00:07:22.560
+We need to convert it to be
+the same molecule when we are
+
+00:07:22.560 --> 00:07:23.930
+comparing the two numbers.
+
+00:07:24.370 --> 00:07:28.110
+So we need to do the stoichiometry
+for 50 grams of lithium hydroxide.
+
+00:07:28.539 --> 00:07:31.190
+and then convert it to
+lithium bicarbonate.
+
+00:07:31.240 --> 00:07:34.860
+So in this case, using mass
+stoichiometry to do the conversion.
+
+00:07:35.550 --> 00:07:39.589
+So now whenever we do these, we
+always need to check if, if the
+
+00:07:39.590 --> 00:07:41.350
+chemical equation is balanced.
+
+00:07:41.820 --> 00:07:46.599
+Typically the easiest way to know if it
+is, is if you see coefficients, but with
+
+00:07:46.600 --> 00:07:49.430
+this one, there are no coefficients,
+but you can, you might be able to
+
+00:07:49.430 --> 00:07:51.670
+quickly identify that it is balanced.
+
+00:07:51.950 --> 00:07:55.370
+You have one lithium on each side,
+one carbon, and then three oxygens.
+
+00:07:55.739 --> 00:07:58.909
+So it's pretty quick to see that,
+that this one is balanced, so we
+
+00:07:58.909 --> 00:08:00.130
+don't have to do anything else.
+
+00:08:00.669 --> 00:08:04.640
+So, what we are going to do is we need
+to calculate what the theoretical yield
+
+00:08:04.800 --> 00:08:07.010
+is using stoichiometry conversions.
+
+00:08:07.299 --> 00:08:10.240
+So we want to write down all the
+important pieces of information that
+
+00:08:10.240 --> 00:08:15.120
+we were given, which was 50 grams
+of lithium hydroxide, and then what
+
+00:08:15.190 --> 00:08:18.510
+our actual yield was, which was 72.
+
+00:08:18.559 --> 00:08:18.909
+8.
+
+00:08:19.530 --> 00:08:23.645
+Keep in mind, whenever there's
+actual yields involved, It's always
+
+00:08:23.645 --> 00:08:27.895
+generally given to you in some form
+or it's what you did in the lab.
+
+00:08:27.905 --> 00:08:31.265
+It has to either be given to
+you or you did it yourself.
+
+00:08:31.705 --> 00:08:34.704
+There's no, you generally
+can't calculate it unless you
+
+00:08:34.704 --> 00:08:36.194
+were given the percent yield.
+
+00:08:36.669 --> 00:08:39.760
+Um, you have to, usually
+something has to be given to you.
+
+00:08:40.280 --> 00:08:46.419
+So if we were to do this, we have 50
+grams of lithium hydroxide, so LiOH
+
+00:08:48.339 --> 00:08:55.025
+at our disposal, and we are going to
+convert this to lithium bicarbonate.
+
+00:08:55.035 --> 00:08:58.415
+So what is our first step to do that?
+
+00:08:58.895 --> 00:09:03.255
+Well, whenever we are given a
+mass, our goal is always the mole.
+
+00:09:03.795 --> 00:09:09.054
+So we need to use the molar mass
+of lithium hydroxide to get there.
+
+00:09:09.064 --> 00:09:13.684
+So what we'll do is we'll use our
+periodic table and you'll get 23.
+
+00:09:13.755 --> 00:09:18.225
+938 grams A lithium hydroxide,
+and if you're watching this, I
+
+00:09:18.225 --> 00:09:22.015
+recommend you check that so you can
+practice it, and that's equivalent
+
+00:09:22.025 --> 00:09:25.015
+to one mole of lithium hydroxide.
+
+00:09:26.105 --> 00:09:29.915
+Now from there, what we're going to
+do is use our chemical equation, which
+
+00:09:29.915 --> 00:09:36.324
+we can see it's a one to one ratio,
+so one mole of LiOH is equivalent
+
+00:09:36.345 --> 00:09:41.505
+to one mole of LiHCO3, alright?
+
+00:09:41.515 --> 00:09:43.165
+So that's a one to one ratio.
+
+00:09:43.660 --> 00:09:46.600
+And let's change the hydroxide
+to match the formula too.
+
+00:09:48.200 --> 00:09:51.530
+Now from there, we're now going
+to use the molar mass of lithium
+
+00:09:51.530 --> 00:09:54.250
+hydroxide to cancel out the last part.
+
+00:09:54.610 --> 00:09:57.429
+But before we do that, let's just
+show our units are all canceling,
+
+00:09:57.429 --> 00:10:02.689
+so grams cancelled grams, and
+then moles cancelled moles.
+
+00:10:03.649 --> 00:10:07.200
+Alright, so our molar mass of
+lithium hydroxide is going to
+
+00:10:07.210 --> 00:10:11.180
+be one mole is equivalent to 67.
+
+00:10:11.250 --> 00:10:13.830
+956 grams.
+
+00:10:14.205 --> 00:10:19.385
+And we can see that, hey, these canceled
+as well, so one mole cancels one mole.
+
+00:10:20.085 --> 00:10:22.694
+And what we will get in the end is 141.
+
+00:10:22.725 --> 00:10:27.955
+94 grams of LiHCO3.
+
+00:10:28.345 --> 00:10:32.864
+So this is your theoretical yield that
+we are here and we have labeled in pink.
+
+00:10:33.975 --> 00:10:35.005
+What do we got to do now?
+
+00:10:35.025 --> 00:10:36.625
+How do we figure out the percent yield?
+
+00:10:36.785 --> 00:10:39.515
+Well, the whole entire thing with
+the percent yield is we got to kind
+
+00:10:39.515 --> 00:10:41.515
+of plug it into the formula below.
+
+00:10:42.085 --> 00:10:44.354
+So we were given 72.
+
+00:10:44.445 --> 00:10:46.615
+8 grams is how much we started with.
+
+00:10:47.235 --> 00:10:50.964
+So what we are going to do is
+essentially take that value and
+
+00:10:50.964 --> 00:10:55.350
+then divide it by our 141 0.
+
+00:10:55.390 --> 00:11:02.130
+94 grams and we're going to times that
+by 100 percent and what we are going to
+
+00:11:02.130 --> 00:11:05.840
+end up having in the end is about 51.
+
+00:11:06.020 --> 00:11:09.950
+3 percent is our yield in this problem.
+
+00:11:10.519 --> 00:11:12.570
+So which isn't, which is pretty good.
+
+00:11:12.590 --> 00:11:15.720
+I know it sounds like a really low number,
+but in terms of percent yields, this is
+
+00:11:15.720 --> 00:11:17.800
+pretty good for most chemical reactions.
+
+00:11:17.800 --> 00:11:21.190
+You always want to get higher, but
+it's not bad for a chemical reaction.
+
+00:11:22.070 --> 00:11:23.510
+Let's look at another example.
+
+00:11:23.600 --> 00:11:26.730
+So we want to find the
+actual yield in this problem.
+
+00:11:26.740 --> 00:11:30.790
+So we're going to be working
+backwards, meaning that aluminum
+
+00:11:30.790 --> 00:11:36.410
+reacts with oxygen to produce aluminum
+oxide via the following reaction.
+
+00:11:36.970 --> 00:11:42.710
+So we have four aluminum reacting with
+three oxygen to make two aluminum oxide.
+
+00:11:43.260 --> 00:11:46.100
+So what we are going to do is we're
+going to calculate the mass of
+
+00:11:46.100 --> 00:11:52.980
+aluminum that can be produced if the
+reaction of 50 grams of aluminum with
+
+00:11:53.040 --> 00:11:56.420
+excess oxygen has a yield of 75%.
+
+00:11:58.130 --> 00:12:01.310
+First things first is we need to
+calculate the theoretical yield
+
+00:12:01.370 --> 00:12:04.130
+starting with 50 grams of aluminum.
+
+00:12:04.600 --> 00:12:08.300
+So we're going to convert that to
+aluminum oxide in this problem.
+
+00:12:08.310 --> 00:12:12.099
+So we've got to kind of look through what
+all the important piece of information is.
+
+00:12:12.099 --> 00:12:13.950
+So, right, there's a lot of words here.
+
+00:12:14.395 --> 00:12:18.835
+But we only need a few of these more
+important terms, which was essentially we
+
+00:12:18.835 --> 00:12:23.735
+have 50 grams of aluminum, excess oxygen
+means it's not going to run out, and then
+
+00:12:23.735 --> 00:12:26.405
+we have 75 percent is what our yield is.
+
+00:12:26.905 --> 00:12:27.944
+So we're starting with 50.
+
+00:12:28.314 --> 00:12:31.714
+So what we're going to do is calculate
+what that theoretical yield is.
+
+00:12:32.175 --> 00:12:37.915
+Um, so we're going to start
+with 50 grams of aluminum and
+
+00:12:37.925 --> 00:12:39.575
+we need to get that to moles.
+
+00:12:39.585 --> 00:12:41.825
+So how do we get a mass to moles?
+
+00:12:42.290 --> 00:12:45.280
+Well, we need to use the
+molar mass to do that.
+
+00:12:45.700 --> 00:12:49.950
+So we're going to use our periodic
+table to see that, okay, 26.
+
+00:12:50.020 --> 00:12:55.080
+98 grams of aluminum is equivalent
+to one mole of aluminum.
+
+00:12:55.810 --> 00:13:01.169
+Now we are interested in getting to the
+final product, which is aluminum oxide.
+
+00:13:01.599 --> 00:13:05.120
+So we need to use our molar
+coefficients to get there.
+
+00:13:05.550 --> 00:13:10.340
+So we see that four moles of
+aluminum is equivalent to two moles.
+
+00:13:10.910 --> 00:13:17.390
+Of AL 2 0 3, then we are going to
+use the molar mass of aluminum oxide
+
+00:13:17.719 --> 00:13:20.830
+to get two grams as our final step.
+
+00:13:20.830 --> 00:13:31.650
+So one mole of AL 2 0 3 is equivalent
+to 101.957 grams a L 2 0 3.
+
+00:13:32.859 --> 00:13:35.530
+Before we continue, we want
+to double check did all of
+
+00:13:35.530 --> 00:13:37.300
+our units cancel properly?
+
+00:13:37.850 --> 00:13:42.650
+So, we see grams are opposite each
+other, they cancelled, moles cancelled
+
+00:13:42.650 --> 00:13:48.240
+moles of aluminum, and then moles of
+aluminum oxide cancelled moles of aluminum
+
+00:13:48.260 --> 00:13:51.030
+oxide, leaving us only with the grams.
+
+00:13:52.200 --> 00:13:56.749
+So when we solve this,
+we'll take 50 divided by 26.
+
+00:13:56.750 --> 00:14:03.020
+98 times by 2, Divide by
+4, then multiply by 101.
+
+00:14:03.050 --> 00:14:09.260
+97, and what we will get for a
+theoretical yield is about 94.
+
+00:14:09.260 --> 00:14:12.779
+5 grams of Al2O3.
+
+00:14:13.160 --> 00:14:19.179
+This is our theoretical yield here,
+which is what we've been doing all
+
+00:14:19.179 --> 00:14:20.109
+along when it comes to stoichiometry.
+
+00:14:20.960 --> 00:14:23.689
+It's nothing new, it's just we're
+just labeling it a little differently.
+
+00:14:24.790 --> 00:14:26.000
+Calculate the actual yield.
+
+00:14:26.110 --> 00:14:26.880
+How do we do it?
+
+00:14:26.910 --> 00:14:30.640
+Well, the thing is, we
+were given that we had 75%.
+
+00:14:31.110 --> 00:14:32.870
+percent yield in the problem.
+
+00:14:33.330 --> 00:14:39.030
+So what we are going to do is we're going
+to pretty much take the problem and plug
+
+00:14:39.060 --> 00:14:42.300
+in the theoretical yield that we got.
+
+00:14:42.829 --> 00:14:47.520
+So we have our actual yield and
+then our theoretical was 94.
+
+00:14:47.619 --> 00:14:49.720
+5 grams of Al2O3.
+
+00:14:51.560 --> 00:14:53.640
+So the first thing we're going
+to do is we're going to move the
+
+00:14:53.640 --> 00:14:55.170
+100 percent to the other side.
+
+00:14:55.505 --> 00:14:59.755
+And what we'll quickly get is, alright,
+75 divided by 100, we'll get 0.
+
+00:14:59.795 --> 00:15:06.284
+75, and that's gonna be equal to our
+actual divided by our theoretical.
+
+00:15:07.224 --> 00:15:10.344
+And then we will multiply
+both sides by 94.
+
+00:15:10.374 --> 00:15:14.754
+5, so that way we get
+that number by itself.
+
+00:15:14.770 --> 00:15:16.259
+And
+
+00:15:20.120 --> 00:15:25.380
+then what we will have for
+our actual yield is 70.
+
+00:15:25.580 --> 00:15:30.340
+9 grams, that's how much
+they actually got in lab.
+
+00:15:30.749 --> 00:15:35.339
+So this is if you had to calculate actual
+yield, but as I mentioned before, this has
+
+00:15:35.340 --> 00:15:36.450
+to be a number that's somehow calculated.
+
+00:15:36.795 --> 00:15:37.615
+given to you.
+
+00:15:37.725 --> 00:15:40.645
+As you saw, it was given via
+the percent yield this time.
+
+00:15:41.205 --> 00:15:44.395
+Um, it's something that you
+have to have to physically do.
+
+00:15:44.395 --> 00:15:45.235
+All right.
+
+00:15:45.785 --> 00:15:48.815
+So this has been my video on
+percent yield and actual yield.
+
+00:15:48.815 --> 00:15:53.195
+This is just another check for
+yourself to see how you did when
+
+00:15:53.195 --> 00:15:58.385
+you're comparing your lab data to
+what you actually could theoretically
+
+00:15:58.385 --> 00:16:01.325
+get if the reaction went Lawlessly.
+
+00:16:01.865 --> 00:16:02.215
+All right.
+
+00:16:02.345 --> 00:16:03.995
+So thank you so much for listening.
+
+00:16:04.085 --> 00:16:10.525
+If you need help, please reach out, email
+me, comment below, uh, ask me in class.
+
+00:16:10.545 --> 00:16:12.224
+I hope that this does help you.
+
+00:16:12.235 --> 00:16:14.155
+If not, then I'm sorry.
+
+00:16:14.615 --> 00:16:18.615
+Um, but if this is your first time here,
+please hit that like and subscribe button.
+
+00:16:18.624 --> 00:16:20.084
+Please keep supporting the channel.
+
+00:16:20.105 --> 00:16:23.955
+I really appreciate all of you and
+I hope you have a wonderful day.
+
+00:16:24.255 --> 00:16:24.535
+All right.
+
+00:16:24.585 --> 00:16:25.775
+I will see you all later.
+
+00:16:25.845 --> 00:16:26.335
+Bye now.
+

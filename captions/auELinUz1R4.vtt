@@ -1,0 +1,1717 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:04.340
+Hello and welcome back to another video
+with ItsDrDan and today we're going to
+
+00:00:04.350 --> 00:00:06.229
+be learning about solution stoichiometry.
+
+00:00:07.415 --> 00:00:11.905
+Specifically, we're going to look about
+how to find molarity, volume, and mass.
+
+00:00:12.375 --> 00:00:14.085
+So when exactly do you have to use this?
+
+00:00:14.085 --> 00:00:19.695
+So solution stoichiometry is all about
+aqueous solutions and when you are trying
+
+00:00:19.695 --> 00:00:25.595
+to mix them together to try to solve for
+volumes, masses, using molarity to try to
+
+00:00:25.595 --> 00:00:27.794
+do different stoichiometric conversions.
+
+00:00:28.259 --> 00:00:33.910
+Using using a balanced chemical equation,
+these can tend to be the hardest, uh,
+
+00:00:33.919 --> 00:00:38.339
+stoichiometric equations to do just
+because it has to use that concept of
+
+00:00:38.339 --> 00:00:42.360
+molarity, which, as we know, is moles
+over liters and can be very, very
+
+00:00:42.360 --> 00:00:44.260
+challenging to try to really master.
+
+00:00:44.709 --> 00:00:47.409
+So we're gonna go through the
+steps and tips and tricks of how to
+
+00:00:47.409 --> 00:00:51.129
+solve these going through different
+examples of problems that you may
+
+00:00:51.129 --> 00:00:55.080
+see in your introductory chemistry
+course, uh, to be able to try to
+
+00:00:55.080 --> 00:00:56.730
+help you solve them in your course.
+
+00:00:57.295 --> 00:00:59.375
+Alright, so let's go take a
+look at the different steps.
+
+00:00:59.565 --> 00:01:02.445
+So when we're doing these reactions,
+the first thing that we need to do
+
+00:01:02.505 --> 00:01:06.095
+is when it comes to the steps is
+balancing the chemical equation.
+
+00:01:06.535 --> 00:01:10.205
+So sometimes this may involve
+predicting the chemical equation.
+
+00:01:10.515 --> 00:01:14.264
+The good news is that most
+solution equations typically are
+
+00:01:14.264 --> 00:01:16.114
+double replacement reactions.
+
+00:01:16.580 --> 00:01:21.170
+So, you're going to be doing that inside
+outside bonding together, and balancing
+
+00:01:21.170 --> 00:01:25.030
+them usually is some of the easier
+types of ones to balance, especially
+
+00:01:25.030 --> 00:01:28.330
+when you compare them to combustion,
+which tend to be really difficult.
+
+00:01:29.000 --> 00:01:32.420
+Now, after that, you always want to,
+after you check if it's balanced, if
+
+00:01:32.420 --> 00:01:35.980
+you generally see coefficients, that
+means it's already done for you, then
+
+00:01:35.980 --> 00:01:39.850
+you want to write down your mole ratios
+that are important for your problem and
+
+00:01:39.860 --> 00:01:42.040
+all the given information that you have.
+
+00:01:42.450 --> 00:01:45.280
+This may include volumes,
+molarities, masses.
+
+00:01:45.720 --> 00:01:48.940
+And it's really important to try
+to stay organized while doing it.
+
+00:01:49.330 --> 00:01:52.010
+I'll go through exactly how I
+usually go through these problems
+
+00:01:52.020 --> 00:01:53.590
+so that you can stay organized too.
+
+00:01:54.010 --> 00:01:59.230
+Being organized is crucial because it's
+very easy to accidentally mix terms up.
+
+00:01:59.589 --> 00:02:04.300
+So read the word problems carefully and
+make sure you sort things out as you go.
+
+00:02:05.050 --> 00:02:08.380
+Um, the last step is always
+let your units guide you.
+
+00:02:08.995 --> 00:02:13.155
+It's always generally helpful to have like
+a molar map to help guide the way that
+
+00:02:13.155 --> 00:02:14.965
+you're going to be canceling out units.
+
+00:02:15.225 --> 00:02:18.114
+So I'll be showing you exactly
+the process that I use to
+
+00:02:18.344 --> 00:02:19.825
+actually cancel these units out.
+
+00:02:20.174 --> 00:02:24.325
+Remember opposites cancel when we're
+showing these, so let those units guide
+
+00:02:24.325 --> 00:02:26.075
+you to get you to that final answer.
+
+00:02:26.395 --> 00:02:27.985
+All right, let's look
+at our first example.
+
+00:02:33.915 --> 00:02:39.165
+First problem is acid base neutralization,
+which is a type of double replacement
+
+00:02:39.185 --> 00:02:44.475
+reaction, meaning that you have an acid
+which is always led with an H in front
+
+00:02:44.505 --> 00:02:49.524
+of the name reacting with a base that has
+a hydroxide ion at the end of the name.
+
+00:02:50.035 --> 00:02:52.575
+So this one's all about
+finding the volume.
+
+00:02:52.960 --> 00:03:00.030
+So when, what it's asking is how many
+liters of 0.1 molar HCL can be neutralized
+
+00:03:00.030 --> 00:03:03.570
+with 0.10 grams of magnesium hydroxide.
+
+00:03:04.109 --> 00:03:07.079
+So one thing to kind of point
+out is some key words here.
+
+00:03:07.440 --> 00:03:09.480
+One is the word neutralized.
+
+00:03:09.630 --> 00:03:14.280
+If you see that word that's telling you
+that the reaction is going to completion,
+
+00:03:14.690 --> 00:03:18.050
+and that is essentially just letting
+you know, hey, that this is reacting.
+
+00:03:18.615 --> 00:03:21.995
+Uh, these are the two things that are
+going to be, uh, reacting together.
+
+00:03:22.535 --> 00:03:26.545
+So what we have here is we have
+HCl, which is the first part that
+
+00:03:26.545 --> 00:03:31.084
+we see, and it says that it's
+reacting with magnesium hydroxide.
+
+00:03:31.565 --> 00:03:36.265
+So the very first step that we have to
+do is we need to balance and predict.
+
+00:03:36.625 --> 00:03:37.755
+the chemical equation.
+
+00:03:38.275 --> 00:03:41.865
+Now, as I kind of mentioned
+before, these are mainly all
+
+00:03:41.885 --> 00:03:43.595
+double replacement reactions.
+
+00:03:44.045 --> 00:03:46.415
+So how can you kind of
+quickly identify them?
+
+00:03:46.435 --> 00:03:49.835
+Well, you whip out essentially your
+different types of chemical recipes.
+
+00:03:50.250 --> 00:03:55.830
+Where we assign ions with letters, so
+hydrogen is an A, chlorine is a B, and
+
+00:03:55.830 --> 00:04:00.880
+then we add that to magnesium, which is
+C, and then the hydroxide OH ion is D.
+
+00:04:01.200 --> 00:04:02.540
+So we see A plus CD.
+
+00:04:03.169 --> 00:04:06.800
+So now the way these always
+bond together is inside out.
+
+00:04:06.850 --> 00:04:11.439
+So the inside bond together
+and the outside bond together.
+
+00:04:12.030 --> 00:04:17.210
+So, our first part is going to be
+pretty much H and OH are going to be
+
+00:04:17.210 --> 00:04:23.170
+bonding together, so making H2O, so
+H and then OH, we'll write that down.
+
+00:04:23.230 --> 00:04:26.829
+This will make it a little bit easier
+to balance as by kind of representing
+
+00:04:26.830 --> 00:04:31.329
+that, but keep in mind when you have HOH,
+that's just water in disguise, it's H2O.
+
+00:04:32.120 --> 00:04:35.620
+Then the inside bond together,
+which is magnesium chloride.
+
+00:04:36.320 --> 00:04:41.715
+Now, when we are trying to balance these
+different pieces, What one trick is,
+
+00:04:41.715 --> 00:04:44.255
+is using the polyatomics to balance.
+
+00:04:45.030 --> 00:04:49.109
+Meaning that if you look on the right hand
+side of this equation, we see a hydroxide.
+
+00:04:49.319 --> 00:04:50.129
+There's two of them.
+
+00:04:50.549 --> 00:04:54.380
+So that means that you need two
+hydroxides on the right hand
+
+00:04:54.380 --> 00:04:56.570
+side over here to Mount Match.
+
+00:04:56.870 --> 00:05:00.200
+Now this is why I write H
+two Os, HOH, because it helps
+
+00:05:00.410 --> 00:05:02.810
+illustrate the OH ion here.
+
+00:05:03.110 --> 00:05:05.210
+It makes it a little bit easier to see.
+
+00:05:05.760 --> 00:05:11.749
+So being that we have two ohs on the left,
+we also need to have two ohs on the right.
+
+00:05:12.210 --> 00:05:12.840
+So let's do that.
+
+00:05:12.840 --> 00:05:13.354
+We'll all add it to here.
+
+00:05:14.145 --> 00:05:17.785
+So now that we are doing that, what
+we're now going to do is look at the
+
+00:05:17.785 --> 00:05:19.595
+different ions that are here as well.
+
+00:05:20.065 --> 00:05:23.975
+So being that we just did OH, we're
+going to kind of zigzag to its
+
+00:05:23.975 --> 00:05:26.045
+partner and look at the hydrogens.
+
+00:05:26.915 --> 00:05:31.355
+Being that we separated these two, we have
+two hydrogens, and we only have one on the
+
+00:05:31.355 --> 00:05:35.954
+left hand side, so I'm going to add a two
+over here to balance out the hydrogens.
+
+00:05:36.895 --> 00:05:39.335
+Then as we can see, we'll
+zigzag over to chlorine.
+
+00:05:39.355 --> 00:05:40.695
+We see that we have two of them now.
+
+00:05:41.025 --> 00:05:42.635
+How many do we have on
+the right hand side?
+
+00:05:42.955 --> 00:05:44.215
+We can see we have two over there.
+
+00:05:44.645 --> 00:05:48.044
+So everything is now balanced and happy.
+
+00:05:48.104 --> 00:05:49.935
+This is a balanced chemical equation.
+
+00:05:50.594 --> 00:05:50.934
+All right.
+
+00:05:51.234 --> 00:05:55.244
+Now our next step of what we're going
+to be doing is we need to write down the
+
+00:05:55.264 --> 00:06:01.674
+given information and include all mole
+ratios that are important in the problem.
+
+00:06:02.215 --> 00:06:06.104
+So when we do that, what we got to
+do is read carefully what we have.
+
+00:06:06.105 --> 00:06:06.119
+Okay.
+
+00:06:06.760 --> 00:06:07.549
+we see that we have 0.
+
+00:06:07.550 --> 00:06:11.600
+10 moles of HCl.
+
+00:06:12.170 --> 00:06:16.510
+So with that, what we're going to do is
+write that down, and the thing that's
+
+00:06:16.520 --> 00:06:20.400
+really always important is trying
+to make sure we We write everything
+
+00:06:20.400 --> 00:06:23.900
+down underneath of the different
+parts of our chemical equation.
+
+00:06:24.040 --> 00:06:28.170
+Then what we are going to do now is we
+are going to re copy all of the pieces
+
+00:06:28.170 --> 00:06:29.780
+of information that are really important.
+
+00:06:30.150 --> 00:06:31.670
+The first part was 0.
+
+00:06:31.709 --> 00:06:33.599
+1 molar HCl.
+
+00:06:33.599 --> 00:06:38.119
+We're going to write that under
+HCl so that way it stays with it.
+
+00:06:38.300 --> 00:06:41.110
+Now the next part of information that
+was really important was how many
+
+00:06:41.170 --> 00:06:44.340
+grams of magnesium hydroxide we have.
+
+00:06:44.750 --> 00:06:46.860
+Right, as we can see that we had 0.
+
+00:06:46.900 --> 00:06:52.960
+10 grams, so we're going to write that
+underneath of our magnesium hydroxide.
+
+00:06:53.490 --> 00:06:56.879
+And what it's asking is how
+much volume of HCl you have.
+
+00:06:57.150 --> 00:07:01.120
+So what we'll do is we'll put a
+V is equal to a question mark.
+
+00:07:01.400 --> 00:07:06.370
+Right underneath that and that will
+help guide our thinking now from there
+
+00:07:06.370 --> 00:07:10.410
+What we'll now do is we need to try
+to let the units guide your thinking
+
+00:07:10.410 --> 00:07:14.310
+and thinking Okay, well, where do I
+start do I start with the molarity
+
+00:07:14.410 --> 00:07:16.719
+which is a conversion factor, right?
+
+00:07:16.719 --> 00:07:22.480
+You have to remember that molarity
+M is e is moles over liters, right?
+
+00:07:22.750 --> 00:07:25.050
+Meaning you can flip
+it one way or another.
+
+00:07:25.060 --> 00:07:27.090
+How do you decide which way it goes?
+
+00:07:27.669 --> 00:07:33.950
+Versus, grams is a term by itself, so
+there's no possible way for you to.
+
+00:07:34.420 --> 00:07:38.820
+Flip that fractionally when it comes
+to this math here, um, because if you
+
+00:07:38.820 --> 00:07:41.880
+do flip it, it's going to lead to the
+units being in the denominator and
+
+00:07:41.880 --> 00:07:43.420
+it's not going to make a lot of sense.
+
+00:07:44.120 --> 00:07:47.129
+So what we're going to start
+with then first is our mass.
+
+00:07:47.470 --> 00:07:49.670
+And well, what can we
+always convert these to?
+
+00:07:49.670 --> 00:07:53.550
+Well, if you kind of can remember, what
+is your goal in terms of conversions?
+
+00:07:53.930 --> 00:07:54.940
+It's always the mole.
+
+00:07:55.080 --> 00:07:57.170
+Can you convert mass to moles?
+
+00:07:57.600 --> 00:08:01.220
+And one way that you can always
+do that as well, let's use.
+
+00:08:01.510 --> 00:08:02.430
+molar mass.
+
+00:08:02.440 --> 00:08:03.960
+So what we're going to do is take 0.
+
+00:08:03.960 --> 00:08:10.509
+10 grams of magnesium
+hydroxide and convert that to
+
+00:08:10.730 --> 00:08:13.270
+moles using our molar mass.
+
+00:08:13.719 --> 00:08:16.939
+So what we'll do is we'll look up
+our value in our, from our periodic
+
+00:08:16.939 --> 00:08:20.789
+table, and this is going to allow
+us to calculate what that is.
+
+00:08:20.800 --> 00:08:25.380
+So you'll take one magnesium
+added to two, into two hydroxides.
+
+00:08:25.919 --> 00:08:28.239
+And you'll get about 58.
+
+00:08:28.240 --> 00:08:34.799
+306 grams for every one mole
+of hydroxyl, or of, of MgOH.
+
+00:08:35.789 --> 00:08:38.719
+All right, so now that we have
+that, what's the most important
+
+00:08:38.719 --> 00:08:42.239
+part of that is now that we see
+that our units are going to cancel.
+
+00:08:42.649 --> 00:08:46.439
+Grams is going to cancel grams,
+and now we have it in moles.
+
+00:08:47.055 --> 00:08:49.945
+But the thing is that we really
+want is we want to figure out
+
+00:08:49.945 --> 00:08:52.905
+what the volume is of HCl.
+
+00:08:52.905 --> 00:08:55.855
+So how do we go to that next step?
+
+00:08:56.445 --> 00:08:59.894
+Well, we have to convert
+it to moles of HCl.
+
+00:09:00.384 --> 00:09:02.804
+So what we're now going to do
+is we're going to take this
+
+00:09:02.804 --> 00:09:04.135
+conversion, kind of bring it down.
+
+00:09:04.165 --> 00:09:05.854
+We'll make it a little
+smaller for ourselves.
+
+00:09:06.535 --> 00:09:07.845
+Um, if it wants to cooperate.
+
+00:09:08.365 --> 00:09:12.035
+And how can we convert
+this to moles of HCl?
+
+00:09:12.605 --> 00:09:15.914
+Well this is where the chemical
+equation is really important.
+
+00:09:16.394 --> 00:09:20.525
+As we can see here by reading
+it, we have one mole of magnesium
+
+00:09:20.525 --> 00:09:24.084
+hydroxide to every two moles of HCl.
+
+00:09:24.614 --> 00:09:27.925
+So what we're going to do
+is do that one to two ratio.
+
+00:09:27.935 --> 00:09:30.055
+We're going to use the chemical equation.
+
+00:09:31.765 --> 00:09:38.115
+One mole of MgOH is equivalent
+to two moles of HCl.
+
+00:09:38.685 --> 00:09:42.975
+Now what that's going to give us is
+how many moles of HCl are in this
+
+00:09:42.985 --> 00:09:47.464
+particular reaction, which is one
+of the, the most important parts.
+
+00:09:48.305 --> 00:09:49.824
+Now, are we done?
+
+00:09:50.215 --> 00:09:51.444
+Well, we want liters.
+
+00:09:51.735 --> 00:09:53.915
+So how do we get to liters from here?
+
+00:09:54.354 --> 00:09:57.015
+Well, in order to get to the
+volume, which is the last step,
+
+00:09:57.344 --> 00:09:59.435
+we can use the molarity, right?
+
+00:09:59.435 --> 00:10:04.015
+So we can, what we can essentially do
+is take that answer from the top here,
+
+00:10:04.610 --> 00:10:10.160
+And we are going to essentially multiply
+that by, or sorry, divide that by the
+
+00:10:10.160 --> 00:10:12.760
+molarity to cancel out our numbers.
+
+00:10:13.230 --> 00:10:15.990
+From earlier we had 0.
+
+00:10:15.990 --> 00:10:16.729
+10 molarity.
+
+00:10:17.310 --> 00:10:20.840
+Well, what we're going
+to be doing is taking 0.
+
+00:10:20.900 --> 00:10:26.385
+10 moles over one liter because
+that's equivalent to molarity, right?
+
+00:10:26.385 --> 00:10:27.059
+0.
+
+00:10:27.060 --> 00:10:32.090
+10 big M is the same thing
+as saying one point or 0.
+
+00:10:32.130 --> 00:10:33.140
+10 moles.
+
+00:10:33.650 --> 00:10:34.900
+all over one liter.
+
+00:10:34.959 --> 00:10:35.520
+They're equivalent.
+
+00:10:36.219 --> 00:10:39.400
+So as a result, what we can do is
+try to follow our numbers so that
+
+00:10:39.400 --> 00:10:41.020
+we can see moles, cancelled moles.
+
+00:10:41.875 --> 00:10:48.725
+And then our moles of HCl cancelled
+moles of HCl, okay, so that all
+
+00:10:48.845 --> 00:10:51.735
+cancels, leading us with only liters.
+
+00:10:52.285 --> 00:10:54.535
+So just to kind of clean up
+the math here, how would this
+
+00:10:54.535 --> 00:10:55.855
+all work in your calculator?
+
+00:10:56.285 --> 00:10:56.754
+We would take 0.
+
+00:10:56.755 --> 00:11:03.655
+1, times it by 1, times by 2 moles, then
+times by 1 liter, and then we would divide
+
+00:11:03.655 --> 00:11:06.045
+it by what's on bottom, which is 58.
+
+00:11:06.095 --> 00:11:09.825
+306, it equals, and then divide it by 0.
+
+00:11:09.895 --> 00:11:10.415
+1.
+
+00:11:11.015 --> 00:11:15.535
+So what we would get for our final
+answer in the end is gonna be
+
+00:11:15.535 --> 00:11:21.675
+0.0343 liters, which we can then
+convert to milliliters, right?
+
+00:11:21.675 --> 00:11:25.255
+So Dev, so essentially multiply
+that number by a thousand, and
+
+00:11:25.260 --> 00:11:28.045
+we would get 34.3 milliliters.
+
+00:11:28.045 --> 00:11:32.055
+So that would be how much volume it
+takes to neutralize, which is about
+
+00:11:32.055 --> 00:11:33.194
+how much it makes sense, right?
+
+00:11:33.194 --> 00:11:35.954
+Because something that's being able to be
+done in the lab, something you measure.
+
+00:11:36.910 --> 00:11:39.350
+So as you can see with these problems,
+they're a little bit more involved, they
+
+00:11:39.350 --> 00:11:43.300
+take a little bit more time, but it's
+something that you can guide your way
+
+00:11:43.310 --> 00:11:45.240
+through, through your units cancelling.
+
+00:11:45.699 --> 00:11:47.290
+Let's take a look at another example.
+
+00:11:47.320 --> 00:11:48.989
+Even though gasoline in the U.
+
+00:11:48.989 --> 00:11:49.219
+S.
+
+00:11:49.220 --> 00:11:54.060
+no longer contains lead, this metal still
+persists in the environment as a toxin.
+
+00:11:54.704 --> 00:11:58.615
+Despite its toxicity, many paint
+pigments still contain lead.
+
+00:11:59.065 --> 00:12:01.765
+What volume of 1.
+
+00:12:01.765 --> 00:12:05.935
+50 molar lead 2 acetate contains 0.
+
+00:12:06.014 --> 00:12:09.015
+400 moles of lead 2 plus one?
+
+00:12:10.354 --> 00:12:15.015
+Well, a lot of times when we're dealing
+with solutions, we have to actually
+
+00:12:15.275 --> 00:12:18.194
+understand dissociation equations.
+
+00:12:18.525 --> 00:12:23.004
+So with this particular one, we
+have lead to acetate, which means
+
+00:12:23.005 --> 00:12:25.125
+that you have lead to plus, right?
+
+00:12:25.135 --> 00:12:30.295
+That Roman numeral, numeral two
+means two plus, not the subscript.
+
+00:12:30.625 --> 00:12:38.215
+And we have that with the acetate
+anion, which is C2H3O2 minus.
+
+00:12:38.814 --> 00:12:42.944
+Now with this we gotta swap drop, so
+what we'll do is we'll put parentheses
+
+00:12:42.944 --> 00:12:48.464
+around our ion and bring the two
+down outside of the parentheses.
+
+00:12:49.065 --> 00:12:50.565
+Alright, so now we have this.
+
+00:12:51.045 --> 00:12:54.344
+What we have to do is talk about
+how, what's gonna happen when this
+
+00:12:54.385 --> 00:12:56.995
+dissociates when you put it into water.
+
+00:12:57.524 --> 00:12:59.295
+How is it going to fall apart?
+
+00:12:59.694 --> 00:13:04.655
+Well this is where it breaks down
+into it's ions, which are lead 2 plus.
+
+00:13:05.225 --> 00:13:08.905
+And then we have the two acetate anions.
+
+00:13:09.375 --> 00:13:12.375
+So we'd write C2H3, 2
+and there's two of them.
+
+00:13:14.035 --> 00:13:16.725
+The problem, what is being
+given here, is we have a couple
+
+00:13:16.725 --> 00:13:18.005
+important pieces of information.
+
+00:13:18.145 --> 00:13:20.055
+One, we have that we started with 0.
+
+00:13:20.145 --> 00:13:22.635
+400 moles of lead.
+
+00:13:23.154 --> 00:13:27.405
+And then it's asking us,
+what is the volume of that 0.
+
+00:13:27.455 --> 00:13:31.680
+150 molarity or molar led to acetate.
+
+00:13:31.680 --> 00:13:33.380
+So what exactly should we start with?
+
+00:13:33.819 --> 00:13:35.890
+What is the term by itself?
+
+00:13:36.280 --> 00:13:38.309
+So if you remember, molarity
+is a conversion term.
+
+00:13:38.690 --> 00:13:40.600
+Moles is something that's by itself.
+
+00:13:41.039 --> 00:13:44.630
+So probably the thing that's going to
+make the most sense is starting with
+
+00:13:44.689 --> 00:13:50.130
+moles because it's a number that you
+can leave in the numeral and we can
+
+00:13:50.130 --> 00:13:53.079
+use to can, we can easily flip it.
+
+00:13:53.640 --> 00:13:54.530
+So let's start with that.
+
+00:13:55.255 --> 00:13:59.055
+Alright, so if I have moles of
+lead 2 plus ion, what we want to do
+
+00:13:59.055 --> 00:14:00.535
+is figure out what our volume is.
+
+00:14:00.535 --> 00:14:05.885
+So how can we convert it to molarity,
+which is your other term here, right?
+
+00:14:05.885 --> 00:14:07.384
+Molarity is moles over liters.
+
+00:14:07.395 --> 00:14:12.125
+So in order to bridge that gap, we
+can use our chemical, our dissociation
+
+00:14:12.125 --> 00:14:13.354
+equation that we wrote here.
+
+00:14:13.845 --> 00:14:15.284
+And that's that one mole.
+
+00:14:15.745 --> 00:14:20.725
+of lead 2 plus is
+equivalent to one mole of
+
+00:14:24.325 --> 00:14:24.945
+PbC2H3O2.
+
+00:14:26.414 --> 00:14:27.504
+It's a very big formula.
+
+00:14:28.225 --> 00:14:32.125
+Alright, so now when we do that, well,
+how can we bridge the gap to liters?
+
+00:14:32.135 --> 00:14:33.664
+So that gives us moles to moles.
+
+00:14:34.100 --> 00:14:37.660
+Now, we can use our molarity for the
+last little bit to get the liters,
+
+00:14:38.190 --> 00:14:42.050
+which as we kind of pointed out
+in the problem, is that we have 0.
+
+00:14:42.090 --> 00:14:47.899
+150 molar or moles, and that's
+equivalent to every one liter.
+
+00:14:48.410 --> 00:14:49.919
+So what we'll do here is do 0.
+
+00:14:49.920 --> 00:14:52.360
+4 divided by 0.
+
+00:14:52.360 --> 00:14:55.020
+150, and we will get our final number.
+
+00:14:55.420 --> 00:14:57.630
+And we will have that, we'll have about 0.
+
+00:14:57.680 --> 00:15:02.829
+267 liters or about 267 moles.
+
+00:15:03.130 --> 00:15:07.380
+milliliters of our, of our solution here.
+
+00:15:07.500 --> 00:15:10.060
+That's going to have this
+much lead inside of it.
+
+00:15:10.080 --> 00:15:10.480
+Okay.
+
+00:15:11.120 --> 00:15:14.349
+So being that the problem did not specify
+which units we would leave it in the
+
+00:15:14.390 --> 00:15:17.420
+SI unit, but if you had to convert it
+to milliliters, you could do that too.
+
+00:15:18.069 --> 00:15:21.260
+Let's look at our next problem, which
+is a continuation of what we have here.
+
+00:15:21.319 --> 00:15:23.940
+So with this following problem,
+we're going to be doing a limiting
+
+00:15:23.940 --> 00:15:28.130
+reactant or a limiting reagent
+problem, focusing around precipitation.
+
+00:15:28.630 --> 00:15:32.340
+So when you have two solutions mixed
+together, it's a very realistic
+
+00:15:32.340 --> 00:15:37.400
+possibility that you will have a solid
+or maybe even a gas that results as one
+
+00:15:37.400 --> 00:15:40.819
+of the products, meaning you have to
+combine it with the different parts of
+
+00:15:40.820 --> 00:15:45.839
+stoichiometry, whether it's mass to mass
+stoichiometry or gas law stoichiometry.
+
+00:15:47.280 --> 00:15:49.920
+So with this one is when the volume of 1.
+
+00:15:49.960 --> 00:15:54.920
+50 molar lead acetate, and meaning that
+it says this volume, it's referring to
+
+00:15:54.920 --> 00:16:00.459
+the one that we solved in the previous
+problem, reacts with 125 milliliters of 3.
+
+00:16:00.500 --> 00:16:02.480
+40 molar NaCl.
+
+00:16:03.330 --> 00:16:08.810
+How many grams of solid lead to acid, lead
+to chloride are made from the reaction?
+
+00:16:09.150 --> 00:16:13.440
+And I have the reaction shown
+here that is balanced to save us a
+
+00:16:13.440 --> 00:16:14.910
+little bit of time in this video.
+
+00:16:15.539 --> 00:16:18.480
+So when we have this, what
+are we going to start with?
+
+00:16:18.819 --> 00:16:20.959
+Well, the first thing is you
+want to stay organized with
+
+00:16:20.969 --> 00:16:22.469
+all your pieces of information.
+
+00:16:22.819 --> 00:16:25.740
+So the very first thing is that
+being that it is a limiting reagent
+
+00:16:25.740 --> 00:16:28.100
+problem, how do we know that it is?
+
+00:16:28.635 --> 00:16:33.305
+Well, generally the telltale sign is
+when you are given both the volume
+
+00:16:33.415 --> 00:16:36.255
+and molarity for each solution.
+
+00:16:36.624 --> 00:16:40.315
+So we were given a volume of 0.
+
+00:16:40.315 --> 00:16:41.489
+267 liters with 1.
+
+00:16:41.489 --> 00:16:49.049
+50 molar, and then on the other hand
+we were given 125 milliliters of NaCl.
+
+00:16:49.390 --> 00:16:50.470
+With 3.
+
+00:16:50.520 --> 00:16:52.670
+40 molar NaCl.
+
+00:16:52.670 --> 00:16:56.560
+So we were given both starting
+volumes and concentrations.
+
+00:16:56.830 --> 00:17:00.899
+You need both in order to
+be able to solve for moles.
+
+00:17:01.130 --> 00:17:03.210
+You need to be able to cancel
+out the liters component.
+
+00:17:03.989 --> 00:17:08.589
+So with that, what we are going
+to do first as well, we need to
+
+00:17:08.589 --> 00:17:12.230
+solve for the number of moles
+of each individual ingredient.
+
+00:17:12.665 --> 00:17:18.365
+Because we want to know how much lead
+chloride was made in the problem.
+
+00:17:18.905 --> 00:17:22.615
+So we're going to convert both of
+these guys, essentially starting
+
+00:17:22.615 --> 00:17:23.875
+with their volume for both.
+
+00:17:24.345 --> 00:17:28.894
+Convert them to moles for each of
+them, so go from liters to moles.
+
+00:17:29.494 --> 00:17:33.015
+Then what we will do is go
+to moles of the product.
+
+00:17:33.385 --> 00:17:35.035
+We're going to compare both of them.
+
+00:17:35.225 --> 00:17:39.905
+Whichever one makes less
+is our limiting reactant.
+
+00:17:40.220 --> 00:17:46.030
+So, the first one that we'll start with is
+we will do it with, um, our lead acetate.
+
+00:17:46.040 --> 00:17:47.980
+So what did we have to begin with?
+
+00:17:48.389 --> 00:17:50.670
+We had 0.
+
+00:17:50.670 --> 00:17:56.110
+267 liters, and we're going to cancel
+that out with the molarity, which
+
+00:17:56.110 --> 00:17:59.580
+was 1 liter is equivalent to 1.
+
+00:17:59.620 --> 00:18:02.939
+50 molar lead acetate.
+
+00:18:02.939 --> 00:18:05.070
+So let's kind of copy and paste that down.
+
+00:18:05.620 --> 00:18:07.819
+Okay, so we're going to
+just put that above here.
+
+00:18:07.920 --> 00:18:09.549
+So that's of lead acetate.
+
+00:18:10.514 --> 00:18:12.885
+All right, now what we will then
+do is we're going to convert
+
+00:18:12.915 --> 00:18:15.975
+that to moles of lead chloride.
+
+00:18:16.405 --> 00:18:19.674
+So by reading our chemical
+equation, we see that for every
+
+00:18:19.675 --> 00:18:26.084
+one mole of lead acetate, we also
+have one mole of lead chloride.
+
+00:18:26.095 --> 00:18:31.525
+And that's using the coefficients to help
+guide where that conversion came from.
+
+00:18:32.035 --> 00:18:36.165
+So when we look at our chemical equation,
+we see we have a one to one ratio.
+
+00:18:36.820 --> 00:18:41.909
+Now when I solve that, what I am
+going to end up getting is about 0.
+
+00:18:42.420 --> 00:18:47.800
+04005 moles of lead fluoride made.
+
+00:18:48.299 --> 00:18:52.509
+Now what that tells you is that
+if you use every single milliliter
+
+00:18:52.540 --> 00:18:54.375
+of lead fluoride, acetate.
+
+00:18:54.884 --> 00:18:58.274
+And this is how much you're going to make
+if you use up everything, if it runs out.
+
+00:18:58.675 --> 00:19:01.465
+So this is your theoretical yield
+if you run out, use everything.
+
+00:19:01.785 --> 00:19:03.664
+However, we don't know if
+that's going to be the answer.
+
+00:19:03.665 --> 00:19:05.745
+So we got to do the same thing for NACL.
+
+00:19:06.274 --> 00:19:11.585
+So in this case, we have 125
+milliliters of NACL, and we're going
+
+00:19:11.585 --> 00:19:13.455
+to first convert that to liters.
+
+00:19:13.774 --> 00:19:16.365
+So we have a thousand mls is one liter.
+
+00:19:17.215 --> 00:19:19.665
+Then we are going to use the
+molarity to convert that.
+
+00:19:19.675 --> 00:19:22.635
+So one liter is 3.
+
+00:19:22.635 --> 00:19:22.769
+40 milliliters.
+
+00:19:23.150 --> 00:19:30.169
+Moles of NaCl, then we'll use our
+chemical formula, which is 2 moles of
+
+00:19:30.169 --> 00:19:34.190
+NaCl is equivalent to 1 mole of lead.
+
+00:19:35.990 --> 00:19:38.909
+Alright, so when we do the math
+for this one, what we will do
+
+00:19:38.910 --> 00:19:43.290
+is 125 divided by 1000 times 3.
+
+00:19:43.290 --> 00:19:47.900
+40 divided by 2, and
+what you will get is 0.
+
+00:19:49.540 --> 00:19:51.690
+02125 moles of lead.
+
+00:19:53.450 --> 00:19:55.669
+So now what we're going to do
+is we're going to compare the
+
+00:19:55.669 --> 00:19:57.270
+top value with the bottom one.
+
+00:19:57.620 --> 00:19:59.780
+Which one is a smaller number?
+
+00:20:00.110 --> 00:20:03.419
+That's going to be your answer because
+that's going to denote your limiting
+
+00:20:03.419 --> 00:20:10.230
+reagent So what you can see here is the
+bottom one So using NaCl ran out first and
+
+00:20:10.230 --> 00:20:16.139
+made a lot smaller of an amount Notice how
+it's about approximately half the size.
+
+00:20:16.640 --> 00:20:20.425
+So this is going to be your
+limiting reagent Now are we done?
+
+00:20:20.605 --> 00:20:21.095
+I wish.
+
+00:20:21.465 --> 00:20:24.245
+So what we have to do is
+now convert this to grams.
+
+00:20:24.615 --> 00:20:26.475
+So, which is our final step.
+
+00:20:26.925 --> 00:20:29.794
+So we're going to use our 0.
+
+00:20:31.004 --> 00:20:33.235
+02125 moles of lead chloride.
+
+00:20:33.274 --> 00:20:35.375
+And then how do we convert that to mass?
+
+00:20:35.664 --> 00:20:37.934
+Is we're going to use the molar mass.
+
+00:20:38.345 --> 00:20:41.754
+So we need to use our Piroc table to
+find the molar mass of lead chloride.
+
+00:20:42.435 --> 00:20:43.955
+Um, I already did that for us.
+
+00:20:43.995 --> 00:20:46.504
+Which is about 278.
+
+00:20:46.875 --> 00:20:48.125
+1 grams.
+
+00:20:48.569 --> 00:20:53.070
+of lead chloride, and that's equivalent
+to every one mole of lead chloride.
+
+00:20:53.930 --> 00:20:56.220
+And once we do that, we'll
+multiply those two numbers
+
+00:20:56.220 --> 00:20:58.470
+together, and we will get about 5.
+
+00:20:58.510 --> 00:21:02.740
+91 grams of lead chloride as our answer.
+
+00:21:03.449 --> 00:21:08.079
+Okay, so that's how much precipitate
+or solid should form if both of
+
+00:21:08.080 --> 00:21:09.850
+these two chemicals mix together.
+
+00:21:10.509 --> 00:21:12.789
+Let's go take a look at our next example.
+
+00:21:12.850 --> 00:21:14.269
+42 milliliters of 0.
+
+00:21:14.269 --> 00:21:20.149
+35 molar Ki solutions required to
+completely react with 50 chloride.
+
+00:21:20.489 --> 00:21:22.389
+of lead nitrate solution.
+
+00:21:22.909 --> 00:21:26.459
+What is the original
+concentration of lead nitrate?
+
+00:21:26.909 --> 00:21:30.779
+So whenever you see what is the
+concentration, this tends to
+
+00:21:30.779 --> 00:21:33.399
+sometimes confuse students because
+they're not sure what to look for.
+
+00:21:33.899 --> 00:21:35.589
+Now, is it, that's what we're thinking?
+
+00:21:35.619 --> 00:21:40.020
+Well, concentration usually
+refers to molarity in chemistry.
+
+00:21:40.504 --> 00:21:46.825
+It can refer to percent concentrations
+as well as molality as well, but nine
+
+00:21:46.835 --> 00:21:51.785
+times out of ten it's referring to
+molarity unless it's specified otherwise.
+
+00:21:52.284 --> 00:21:56.784
+So the first thing we need to do is define
+our chemical equation, uh, and balance it.
+
+00:21:57.175 --> 00:22:01.274
+So what we have is Ki is going to react
+with lead nitrate, meaning that we'll
+
+00:22:01.274 --> 00:22:03.745
+have inside reacting with outside.
+
+00:22:04.645 --> 00:22:08.905
+So the first thing we're going to do
+is being that we have lead to nitrate.
+
+00:22:09.235 --> 00:22:13.825
+is that we will take lead as our
+inside and we're going to bond it
+
+00:22:13.945 --> 00:22:20.045
+with, with I, which there are two
+iodines to help balance that, right?
+
+00:22:20.045 --> 00:22:22.485
+So we swap drop both those charges.
+
+00:22:23.165 --> 00:22:28.424
+Now potassium, which is a plus one charge
+is going to bond with nitrate, which is
+
+00:22:28.425 --> 00:22:32.025
+a negative one charge of K and O three.
+
+00:22:32.820 --> 00:22:36.420
+Now when we are balancing these,
+one of the easiest tricks is
+
+00:22:36.420 --> 00:22:41.100
+balance the Polyatomics first,
+meaning that if you see on the left
+
+00:22:41.100 --> 00:22:43.350
+hand side, I have two nitrates.
+
+00:22:43.709 --> 00:22:47.399
+Now on the right hand side
+right here, I have one nitrate.
+
+00:22:47.970 --> 00:22:52.290
+So what I'm going to do is I'm going
+to put a two in front of KNO three.
+
+00:22:52.800 --> 00:22:54.360
+The nitrates are now balanced.
+
+00:22:54.720 --> 00:22:57.690
+I'm now gonna take a
+look at the potassiums.
+
+00:22:58.129 --> 00:22:59.570
+I'll put a two over here.
+
+00:23:00.240 --> 00:23:03.460
+And now the entire problem
+is now balanced as a result.
+
+00:23:03.480 --> 00:23:06.270
+All we have to do is kind
+of zigzag back and forth.
+
+00:23:06.660 --> 00:23:07.970
+Make it easy to balance.
+
+00:23:08.570 --> 00:23:09.499
+Start with the polyatomics.
+
+00:23:11.370 --> 00:23:14.760
+What we now have to do is write
+down whatever our important piece
+
+00:23:14.770 --> 00:23:18.479
+of information, and we want to
+try to include all mole ratios.
+
+00:23:18.490 --> 00:23:20.874
+So what I'm going to do is I'm
+going to move this little step down.
+
+00:23:21.165 --> 00:23:24.445
+And we're going to write all this
+down below our chemical reaction
+
+00:23:24.445 --> 00:23:26.305
+to help us stay organized.
+
+00:23:26.755 --> 00:23:30.874
+The first thing is, is that
+we had 42 milliliters of Ki
+
+00:23:30.955 --> 00:23:34.175
+with a concentration of 0.
+
+00:23:34.175 --> 00:23:35.099
+35 molar.
+
+00:23:35.719 --> 00:23:39.860
+Now, the other part that we were
+given is that we have 50 milliliters
+
+00:23:39.939 --> 00:23:44.899
+of lead nitrate, but we don't know
+what the concentration is, which
+
+00:23:44.899 --> 00:23:46.399
+is the missing part that we have.
+
+00:23:47.070 --> 00:23:48.360
+So and that's what we're
+trying to figure out.
+
+00:23:48.879 --> 00:23:51.969
+So where exactly should
+we start this problem?
+
+00:23:51.969 --> 00:23:56.879
+Well, we want to let the units guide our
+process now, but there's a little trick to
+
+00:23:56.879 --> 00:24:02.329
+knowing this is that the side you always
+start with is the one that contains.
+
+00:24:02.750 --> 00:24:06.230
+both the volume and the molarity.
+
+00:24:06.230 --> 00:24:12.260
+It has to have both of those pieces
+because you need to convert two moles.
+
+00:24:12.789 --> 00:24:15.939
+And the only way you can do that
+is if you have molarity and you
+
+00:24:15.949 --> 00:24:19.609
+have the volume to cancel out
+the liters component of molarity.
+
+00:24:19.960 --> 00:24:23.569
+So we're going to start
+right here on the KI side.
+
+00:24:23.865 --> 00:24:28.515
+when we are doing these different,
+different, different, uh, conversions.
+
+00:24:28.545 --> 00:24:31.755
+And we always want to start with
+the term by itself, which in
+
+00:24:31.755 --> 00:24:33.755
+this case is the volume, right?
+
+00:24:33.755 --> 00:24:38.155
+So we'll start with the 42 milliliters
+when we convert this problem.
+
+00:24:38.685 --> 00:24:42.774
+So we'll take 42 milliliters and
+we'll convert that to liters.
+
+00:24:43.240 --> 00:24:49.080
+So that way we can get to using our
+molarity, which is our next term.
+
+00:24:49.670 --> 00:24:53.030
+So if you remember, 1, 000 mLs
+is equivalent to one liter.
+
+00:24:53.799 --> 00:24:57.269
+And then what we're then going to do
+is use, convert that to moles using
+
+00:24:57.270 --> 00:25:01.090
+molarity, which as you can remember, if
+you see in the top left of your screen,
+
+00:25:01.119 --> 00:25:05.049
+is that one liter is equivalent to 0.
+
+00:25:05.049 --> 00:25:05.669
+35 moles.
+
+00:25:06.334 --> 00:25:08.705
+of our Ki solution.
+
+00:25:08.905 --> 00:25:11.845
+So we want to label what the
+solution is so we don't get mixed up.
+
+00:25:12.805 --> 00:25:16.114
+Now what we're going to use is the
+chemical equation here, and what
+
+00:25:16.114 --> 00:25:21.534
+we can see is that 2 is equivalent
+to 1 mole of lead nitrate.
+
+00:25:21.845 --> 00:25:24.065
+That is from your chemical formula.
+
+00:25:24.374 --> 00:25:30.575
+So we have 2 moles of Ki, and that's
+equivalent to 1 mole of lead nitrate.
+
+00:25:31.604 --> 00:25:33.395
+Alright, so that gets us to moles, right?
+
+00:25:33.405 --> 00:25:34.915
+Our goal is always the mole.
+
+00:25:35.495 --> 00:25:38.575
+Now, what we'll do is we're going
+to calculate how many moles there
+
+00:25:38.575 --> 00:25:42.824
+are, and then in order to get this
+into molarity, so if you remember,
+
+00:25:42.844 --> 00:25:45.524
+molarity is moles over liters.
+
+00:25:46.125 --> 00:25:49.764
+This first portion will give
+us how many moles there are.
+
+00:25:50.354 --> 00:25:54.124
+The liter component is, if you remember,
+we started with 50 milliliters, which
+
+00:25:54.124 --> 00:25:56.514
+is how much the problem told us we have.
+
+00:25:56.990 --> 00:25:59.730
+We'll divide that, uh, we'll
+convert that to liters and then
+
+00:25:59.730 --> 00:26:01.080
+divide this number by that.
+
+00:26:02.230 --> 00:26:04.750
+When we do the math here, what
+we are going to be getting,
+
+00:26:04.750 --> 00:26:07.170
+so we'll take 42 times 0.
+
+00:26:07.170 --> 00:26:11.010
+35, divide it by 1, 000, divide
+it by 2, and we will get 0.
+
+00:26:11.010 --> 00:26:16.529
+00735 moles of lead nitrate.
+
+00:26:18.930 --> 00:26:22.580
+And what we are going to then do is we're
+going to take that number and divide it
+
+00:26:22.590 --> 00:26:26.929
+by 50 milliliters converted to liters.
+
+00:26:27.480 --> 00:26:29.940
+So it's going to be 0.
+
+00:26:29.940 --> 00:26:30.074
+0735.
+
+00:26:30.425 --> 00:26:31.915
+Divided by 0.
+
+00:26:31.975 --> 00:26:33.975
+05 liters.
+
+00:26:34.024 --> 00:26:36.625
+Okay, so that 50 ml gets converted.
+
+00:26:37.435 --> 00:26:42.554
+Now once we solve that, what we'll
+get for our final answer is 0.
+
+00:26:42.555 --> 00:26:46.114
+147 liters as our final answer.
+
+00:26:46.115 --> 00:26:49.694
+And we have three sig figs because
+we started with three sig figs.
+
+00:26:50.670 --> 00:26:55.580
+And that's how you would solve essentially
+going through the entire process, how
+
+00:26:55.580 --> 00:26:57.460
+to figure out how much volume there is.
+
+00:26:57.470 --> 00:26:59.020
+So what did this video show you?
+
+00:26:59.330 --> 00:27:03.559
+We went through how to find volume, we
+went to find mass, how to find molarity.
+
+00:27:03.930 --> 00:27:06.879
+And the biggest thing was how to
+use molarity as a conversion term,
+
+00:27:07.270 --> 00:27:10.890
+using balanced chemical equations
+and how to use mole maps to
+
+00:27:10.890 --> 00:27:12.430
+help guide your thinking, right?
+
+00:27:13.445 --> 00:27:17.175
+This whole process is a long one, but
+it's something that it, the more you
+
+00:27:17.175 --> 00:27:18.485
+practice it, the easier it's going to get.
+
+00:27:18.835 --> 00:27:21.415
+And you can see stoichiometry
+is all about how can you really
+
+00:27:21.595 --> 00:27:23.675
+make those units cancel, right?
+
+00:27:23.735 --> 00:27:24.624
+As you go through them.
+
+00:27:26.094 --> 00:27:28.195
+If this video helped you, I appreciate it.
+
+00:27:28.195 --> 00:27:32.095
+And if it didn't make, if it made it as
+a little confusing, please ask questions
+
+00:27:32.105 --> 00:27:33.455
+and let me know if you need help.
+
+00:27:33.764 --> 00:27:34.785
+I'm always here for you.
+
+00:27:34.795 --> 00:27:36.525
+Please either send me a message.
+
+00:27:36.925 --> 00:27:41.015
+Email me or reach out to me, or if
+you want to, you can even comment
+
+00:27:41.015 --> 00:27:43.455
+in the videos below and let me know
+what you thought, or if you have a
+
+00:27:43.455 --> 00:27:47.644
+question in particular, or if you can
+find an error, that's always okay too.
+
+00:27:48.224 --> 00:27:51.824
+Uh, and, and if this is your first
+time here, please like this video
+
+00:27:51.864 --> 00:27:55.604
+and subscribe to the channel for
+more introductory chemistry content
+
+00:27:55.954 --> 00:27:57.545
+to help you guys pass chemistry.
+
+00:27:57.945 --> 00:27:58.235
+All right.
+
+00:27:58.275 --> 00:27:59.085
+Thank you so much.
+
+00:27:59.095 --> 00:28:00.545
+And I hope to see you all next time.
+
+00:28:00.875 --> 00:28:01.305
+Bye now.
+

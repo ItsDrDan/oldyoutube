@@ -1,0 +1,1056 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.150 --> 00:00:09.360
+Hello and welcome back to another
+episode with ItsDrDan, and today we're
+
+00:00:09.360 --> 00:00:14.070
+going to be looking at phase changes,
+specifically how to calculate and
+
+00:00:14.070 --> 00:00:19.130
+use the heat of vaporization and the
+heat of fusion to calculate heat.
+
+00:00:19.450 --> 00:00:23.940
+So whenever we have a phase change,
+what, what are we talking about?
+
+00:00:24.460 --> 00:00:28.229
+So let's say if I have a solid ice
+cube here in the middle, and it's
+
+00:00:28.229 --> 00:00:32.089
+made of all these little waters,
+all oriented in a very crystalline
+
+00:00:32.090 --> 00:00:35.790
+structure, you can see all the little
+solids, all really close together.
+
+00:00:35.820 --> 00:00:40.970
+Now, as they start absorbing heat,
+And start gaining, um, energy
+
+00:00:40.970 --> 00:00:44.089
+as a result, it will start to
+move a little bit farther apart.
+
+00:00:44.470 --> 00:00:48.359
+The intermolecular forces will
+start to drift farther and
+
+00:00:48.360 --> 00:00:50.709
+farther apart as they gain energy.
+
+00:00:51.239 --> 00:00:54.359
+And it's going to start
+making a liquid as a result.
+
+00:00:54.930 --> 00:00:59.069
+Now when that happens, right, going
+from a solid to a liquid, right, that is
+
+00:00:59.069 --> 00:01:01.309
+when we're referring to melting, right?
+
+00:01:01.570 --> 00:01:03.690
+And the opposite is all about freezing.
+
+00:01:04.310 --> 00:01:07.670
+So when we first melt, right, those
+intermolecular forces are really far
+
+00:01:07.670 --> 00:01:10.490
+apart, it goes through a phase change.
+
+00:01:11.070 --> 00:01:14.479
+That is when we have to use
+the heat of fusion to calculate
+
+00:01:14.509 --> 00:01:15.770
+that, the numbers behind that.
+
+00:01:16.409 --> 00:01:19.890
+Now, if that liquid is sitting there
+for a long time and it keeps absorbing
+
+00:01:19.920 --> 00:01:24.220
+energy, eventually what will happen is
+a lot of those little water molecules,
+
+00:01:24.260 --> 00:01:28.480
+they'll eventually break into the gas
+phase, making a big gas cloud where all
+
+00:01:28.480 --> 00:01:30.480
+of them are little, are vapor particles.
+
+00:01:30.875 --> 00:01:34.585
+Um, that can eventually ricochet and
+bounce off the different walls of
+
+00:01:34.585 --> 00:01:36.035
+the container that they might be in.
+
+00:01:36.545 --> 00:01:39.705
+And we would have to use the
+heat of vaporization to talk
+
+00:01:39.715 --> 00:01:41.134
+about that phase change.
+
+00:01:41.574 --> 00:01:46.985
+Which, whenever we are either going
+through boiling or vaporization.
+
+00:01:47.515 --> 00:01:50.525
+That is when it goes
+from a liquid to a gas.
+
+00:01:50.985 --> 00:01:54.585
+So, we are going to be looking at
+that and trying to understand that
+
+00:01:54.585 --> 00:01:56.124
+complete picture in this video.
+
+00:01:56.755 --> 00:02:01.184
+So, this is for introductory chem,
+um, and, and slightly for gen chem
+
+00:02:01.195 --> 00:02:02.795
+one for a lot of students out there.
+
+00:02:03.054 --> 00:02:07.664
+But it's just the basics on how to
+use delta H and use that with moles
+
+00:02:07.664 --> 00:02:09.164
+to go through different calculations.
+
+00:02:09.505 --> 00:02:12.005
+So let's take a look, and if this is
+something that's really interesting
+
+00:02:12.005 --> 00:02:13.515
+to you, please hit that like button.
+
+00:02:14.114 --> 00:02:17.424
+Sub to the channel and you can see
+more videos on topics like these.
+
+00:02:17.715 --> 00:02:18.905
+All right, let's go into it.
+
+00:02:28.305 --> 00:02:31.584
+All right, let's start with the
+fundamentals, start with the basics.
+
+00:02:31.914 --> 00:02:36.235
+So let's first review of what I just
+said before, which is if you are
+
+00:02:36.235 --> 00:02:41.295
+having a change of state or or a phase
+change, both these words are generally
+
+00:02:41.295 --> 00:02:45.815
+used interchangeably depending on
+who your professor is and who and
+
+00:02:45.815 --> 00:02:47.284
+where you are learning chemistry.
+
+00:02:47.740 --> 00:02:51.700
+So, whenever we talk about a phase,
+we have a solid, liquid, or a gas.
+
+00:02:51.720 --> 00:02:53.010
+Same idea as states.
+
+00:02:53.260 --> 00:02:54.760
+We have a solid, liquid, or a gas.
+
+00:02:55.220 --> 00:02:59.710
+So if I'm going from a solid to a
+liquid, that is whenever if I take an
+
+00:02:59.730 --> 00:03:03.779
+ice cube and you were to have it in your
+hand, what is going to happen to it?
+
+00:03:04.099 --> 00:03:07.390
+Well, that ice cube is going
+to eventually melt, right?
+
+00:03:07.940 --> 00:03:11.570
+Now if you take your melted water and
+stick it back in the freezer, well
+
+00:03:11.570 --> 00:03:13.570
+that liquid, if you go backwards.
+
+00:03:14.040 --> 00:03:15.119
+Is going to freeze.
+
+00:03:15.879 --> 00:03:20.319
+Now, when we have these phase
+changes, this is where the heat of
+
+00:03:20.329 --> 00:03:25.059
+fusion is going to be used, okay,
+and we'll go over what formula.
+
+00:03:25.460 --> 00:03:27.720
+that will be required during that point.
+
+00:03:28.630 --> 00:03:33.820
+Now when you have the other phase change,
+let's say if I go from a liquid to a
+
+00:03:33.820 --> 00:03:37.870
+gas, meaning that these liquid particles,
+these intermolecular forces are going
+
+00:03:37.870 --> 00:03:41.859
+to drift so far apart that eventually
+we're able to break the intermolecular
+
+00:03:41.870 --> 00:03:44.360
+forces, taking a lot of energy to do that.
+
+00:03:44.920 --> 00:03:49.510
+This is whenever we have, uh, it's either
+it's going to be considered to be boiling
+
+00:03:50.220 --> 00:03:54.170
+or vaporization to go into the gas phase.
+
+00:03:55.275 --> 00:03:58.845
+Now, if you were to take those gases,
+you were to cool them back down, right?
+
+00:03:58.845 --> 00:04:00.145
+They have a lot of kinetic energy.
+
+00:04:00.145 --> 00:04:03.585
+They're moving around very, because
+you put so much heat into them.
+
+00:04:04.125 --> 00:04:08.175
+If you were to cool them back
+down, well, that is now going to
+
+00:04:08.175 --> 00:04:10.624
+be referred to as condensation.
+
+00:04:11.074 --> 00:04:12.325
+It's the cooling, right?
+
+00:04:12.345 --> 00:04:13.484
+Bringing it down.
+
+00:04:14.335 --> 00:04:16.205
+So we, we go through condensation.
+
+00:04:16.205 --> 00:04:19.245
+If you think of like, uh, if you wake
+up really early in the morning when
+
+00:04:19.245 --> 00:04:23.784
+it's cold outside, you'll see dew on
+the grass, on everything that's outside.
+
+00:04:24.075 --> 00:04:25.715
+This is condensation.
+
+00:04:26.250 --> 00:04:31.660
+Now when that happens, this is going to be
+referred to as the heat of vaporization.
+
+00:04:32.815 --> 00:04:35.145
+to how to calculate
+these different values.
+
+00:04:35.985 --> 00:04:41.535
+Now when it comes to heat, so usually what
+we'll use is the letter Q to denote heat.
+
+00:04:42.225 --> 00:04:45.844
+Now when it comes to anything
+that's energetic related, we have
+
+00:04:45.844 --> 00:04:50.075
+to realize that there are signs
+behind these because there's
+
+00:04:50.084 --> 00:04:53.355
+endothermic and exothermic processes.
+
+00:04:54.315 --> 00:04:57.455
+So with this, if you were to
+have an ice cube in your hand and
+
+00:04:57.455 --> 00:05:02.370
+you were to hold it there, Is it
+absorbing heat or releasing heat?
+
+00:05:02.650 --> 00:05:03.900
+And think about it for a second.
+
+00:05:03.980 --> 00:05:06.780
+Is what's happening to that
+ice cube, is it getting hotter?
+
+00:05:07.219 --> 00:05:08.750
+Well, that means it's yes, right?
+
+00:05:08.760 --> 00:05:10.219
+It's absorbing heat.
+
+00:05:10.520 --> 00:05:12.500
+So absorbing is a positive value.
+
+00:05:13.020 --> 00:05:16.350
+So if you're melting, you're
+going to have a positive value.
+
+00:05:16.680 --> 00:05:19.860
+And if you're boiling, you're
+going to have a positive Q value.
+
+00:05:20.735 --> 00:05:26.015
+Versus, let's say if you want to
+freeze it or to condense it, the
+
+00:05:26.085 --> 00:05:30.154
+ice or the water, whatever phase it
+is, needs to lose heat, it needs to
+
+00:05:30.154 --> 00:05:32.135
+release it in order to get colder.
+
+00:05:32.505 --> 00:05:38.324
+So whenever we are going into the opposite
+process of condensation and freezing, that
+
+00:05:38.324 --> 00:05:41.384
+is going to be a negative Q value, okay?
+
+00:05:41.824 --> 00:05:45.365
+So it all depends on whether
+or not you are going one way or
+
+00:05:45.365 --> 00:05:48.455
+the other will reflect what you
+will see in your calculation.
+
+00:05:49.235 --> 00:05:52.195
+Let's take a look at the different
+formulas you will be using.
+
+00:05:52.195 --> 00:05:59.915
+So these are both of them here, so that
+for Q, both of these are, depends on
+
+00:05:59.924 --> 00:06:04.245
+delta H fusion, delta H vaporization,
+usually they have a little subscript
+
+00:06:04.254 --> 00:06:09.434
+that tells you which one you're going
+to use, so Q is our heat value when
+
+00:06:09.434 --> 00:06:16.440
+we are looking at this, N is always
+referred to as moles, and And delta H is
+
+00:06:16.440 --> 00:06:22.270
+something that we call as enthalpy, but
+for most intensive purposes it's just
+
+00:06:22.270 --> 00:06:26.530
+delta H effusion just to keep it a little
+easier for most introductory students.
+
+00:06:27.050 --> 00:06:31.290
+So we're multiplying these two concepts
+together in order to calculate our heat.
+
+00:06:31.799 --> 00:06:35.020
+Let's take a look at some different
+examples of the kinds of problems
+
+00:06:35.029 --> 00:06:38.270
+that you will see and how to solve
+for this portion, how to plug in
+
+00:06:38.270 --> 00:06:39.230
+our different values for this.
+
+00:06:39.280 --> 00:06:42.889
+Our first example, calculate
+the heat when 36 grams of
+
+00:06:42.900 --> 00:06:45.669
+water is melted at 0 degrees C.
+
+00:06:46.410 --> 00:06:48.850
+Okay, so how exactly do we do this?
+
+00:06:48.870 --> 00:06:54.990
+Well, it's going to require us to use
+our, our Q equation for a phase change.
+
+00:06:55.340 --> 00:06:59.689
+So this is going to be N times
+delta H, and being that it's
+
+00:06:59.689 --> 00:07:05.429
+referring to fusion, usually it's
+abbreviated as F U S, or fusion,
+
+00:07:05.459 --> 00:07:07.089
+when we are seeing these equations.
+
+00:07:07.630 --> 00:07:10.950
+So the first thing you need to do
+is we have, what were we given?
+
+00:07:10.950 --> 00:07:13.000
+We need to stay organized
+with these things.
+
+00:07:13.465 --> 00:07:16.545
+We were given a mass value, which is 36.
+
+00:07:16.855 --> 00:07:19.525
+0 grams, that is not a mole value.
+
+00:07:20.115 --> 00:07:23.245
+And we were given a delta H of fusion.
+
+00:07:23.865 --> 00:07:26.275
+So what exactly do we have to do first?
+
+00:07:26.275 --> 00:07:29.124
+Well, if you can think of all of
+our different calculations when
+
+00:07:29.124 --> 00:07:33.635
+it comes to masses and moles,
+our goal is always the mole.
+
+00:07:34.205 --> 00:07:37.585
+So the first thing that we need
+to do is convert grams to moles.
+
+00:07:38.040 --> 00:07:41.280
+So, one thing that I did here
+is include the values for how
+
+00:07:41.280 --> 00:07:42.620
+to get to molar mass, right?
+
+00:07:42.630 --> 00:07:46.120
+And if you need help with molar
+mass, refer to my videos on molar
+
+00:07:46.120 --> 00:07:48.180
+mass and using mole equations.
+
+00:07:49.050 --> 00:07:53.230
+So, for this one, right, we have
+water is what's being used, so we
+
+00:07:53.230 --> 00:07:58.950
+need to add up one oxygen atom and
+two hydrogen atoms to convert this.
+
+00:07:59.840 --> 00:08:04.000
+So, when we are doing this little
+calculation here for ourselves, and
+
+00:08:04.000 --> 00:08:05.879
+here let's make some room for ourselves.
+
+00:08:06.824 --> 00:08:12.114
+This is going to be 18 grams for water,
+and this is just rounded just to make
+
+00:08:12.114 --> 00:08:13.884
+it a little easier math on ourselves.
+
+00:08:14.604 --> 00:08:17.244
+And that's equivalent to
+every 1 mole of water.
+
+00:08:17.854 --> 00:08:22.544
+So that's going to be
+equal to 2 moles of H2O.
+
+00:08:24.835 --> 00:08:27.604
+We have our mole value, and what we're
+going to do is we're going to plug
+
+00:08:27.604 --> 00:08:32.865
+both the delta H of fusion and the mole
+value into this equation up here, right?
+
+00:08:32.865 --> 00:08:34.575
+So we're going to plug both parts in.
+
+00:08:35.204 --> 00:08:37.345
+So 2 moles is going to go in for N.
+
+00:08:37.829 --> 00:08:38.970
+And then the 6.
+
+00:08:39.030 --> 00:08:41.900
+02 kilojoules is going to
+go in for delta fusion.
+
+00:08:42.659 --> 00:08:44.049
+So let's solve.
+
+00:08:44.459 --> 00:08:46.569
+If we have Q that's going to be times 2.
+
+00:08:46.600 --> 00:08:49.990
+00 moles times 6.
+
+00:08:50.050 --> 00:08:52.860
+02 kilojoules per mole.
+
+00:08:53.800 --> 00:08:58.020
+And what we are going to quickly see
+is that moles cancels moles and what
+
+00:08:58.020 --> 00:09:01.390
+we will be left with is, um, 12.
+
+00:09:01.469 --> 00:09:07.839
+04 kilojoules for our answer, and we
+will round that to the same number as
+
+00:09:07.849 --> 00:09:13.359
+sig figs that we had in our, in our
+original problem, so this would be 12.
+
+00:09:13.800 --> 00:09:14.759
+0 kilojoules.
+
+00:09:15.240 --> 00:09:17.590
+Now, is this positive or is it negative?
+
+00:09:18.039 --> 00:09:22.319
+Well, being that it was melting, it
+needed to absorb heat, so this would
+
+00:09:22.319 --> 00:09:24.959
+stay as a positive value, so 12.
+
+00:09:25.000 --> 00:09:25.329
+0.
+
+00:09:26.030 --> 00:09:28.970
+Now the follow up question is,
+how much heat is required to
+
+00:09:29.060 --> 00:09:31.149
+freeze the exact same sample?
+
+00:09:31.499 --> 00:09:33.910
+So instead of melting it,
+how would you freeze it?
+
+00:09:34.489 --> 00:09:35.439
+Well, think about it.
+
+00:09:36.020 --> 00:09:38.630
+One way is, it's just all
+about the sign changes.
+
+00:09:38.969 --> 00:09:42.439
+So before, it was a positive 12.
+
+00:09:42.669 --> 00:09:46.170
+0 kilojoules to melt it, right?
+
+00:09:46.949 --> 00:09:48.999
+So what would it be in order to freeze it?
+
+00:09:49.020 --> 00:09:50.420
+Well, it's going to be the opposite.
+
+00:09:50.459 --> 00:09:52.339
+So it'd be negative 12.
+
+00:09:52.400 --> 00:09:55.860
+0 kilojoules in order to freeze it.
+
+00:09:56.230 --> 00:10:00.020
+It's all about how that
+delta H's sign changes.
+
+00:10:00.490 --> 00:10:05.449
+So when it comes to delta H of
+fusion for freezing, instead
+
+00:10:05.460 --> 00:10:06.840
+that would have been a 6.
+
+00:10:06.910 --> 00:10:10.069
+02, and it's negative
+for kilojoules per mole.
+
+00:10:10.669 --> 00:10:15.239
+Alright, so the sign of our
+delta H changes depending on
+
+00:10:15.239 --> 00:10:16.930
+if it's positive or negative.
+
+00:10:17.255 --> 00:10:19.605
+Whether we're freezing it or melting it.
+
+00:10:21.145 --> 00:10:23.045
+Let's go on to our next problem.
+
+00:10:23.415 --> 00:10:28.224
+To reduce swelling, a 237 gram
+ice pack is placed on the body.
+
+00:10:28.875 --> 00:10:33.165
+How much heat in joules will it
+take to melt the ice and warm up
+
+00:10:33.175 --> 00:10:36.634
+the liquid water to 37 degrees C?
+
+00:10:37.325 --> 00:10:40.675
+Okay, this is something that
+combines different concepts.
+
+00:10:41.145 --> 00:10:43.844
+So there's another video that was
+released at the same time as this
+
+00:10:43.844 --> 00:10:45.474
+one, which is all about specific heat.
+
+00:10:45.930 --> 00:10:49.340
+And there was a video released a few
+months ago on how to do heat as well.
+
+00:10:49.970 --> 00:10:53.690
+So this is something that it
+requires us to understand how do
+
+00:10:53.700 --> 00:10:55.510
+these energy diagrams look like.
+
+00:10:56.200 --> 00:11:00.570
+So at first, it talks about a phase,
+it talks about a phase change, right?
+
+00:11:00.570 --> 00:11:03.260
+We have an ice pack, the ice is melting.
+
+00:11:03.829 --> 00:11:08.859
+So whenever we have these diagrams, we
+got to refer to what the temperatures are.
+
+00:11:09.269 --> 00:11:11.839
+So in order for something to
+freeze, it's at zero degrees C.
+
+00:11:12.529 --> 00:11:17.990
+So when, in order to convert that,
+It is a straight line that you see.
+
+00:11:18.390 --> 00:11:23.630
+This is referring to the ice pack
+melting because it takes so much
+
+00:11:23.670 --> 00:11:28.389
+energy for those intermolecular forces
+to get far enough apart so that way
+
+00:11:28.389 --> 00:11:29.839
+it can actually become a liquid.
+
+00:11:30.569 --> 00:11:36.640
+Now afterwards what was happening
+is it was heated up to 37 degrees.
+
+00:11:37.200 --> 00:11:43.130
+So usually what we'll see is,
+is a slope referring to heating.
+
+00:11:43.794 --> 00:11:46.855
+Now, if the slope was going the opposite
+direction, that would be cooling.
+
+00:11:47.465 --> 00:11:48.785
+Now, why do we care about this?
+
+00:11:49.224 --> 00:11:53.274
+This is because there are, there are
+multiple heat equations that work here.
+
+00:11:53.915 --> 00:12:00.014
+We have what I refer to as Q1 and
+Q2, being that we're going to be
+
+00:12:00.015 --> 00:12:02.619
+doing two separate equations here.
+
+00:12:03.300 --> 00:12:05.230
+So now, why do we care?
+
+00:12:05.230 --> 00:12:06.730
+It's because we want to stay organized.
+
+00:12:07.480 --> 00:12:11.200
+So Q1 is what we just did in
+our previous problem, right?
+
+00:12:11.560 --> 00:12:14.429
+N times delta H fusion.
+
+00:12:14.520 --> 00:12:18.729
+Because it's all about how is this
+ice cube melting in your ice pack.
+
+00:12:19.610 --> 00:12:24.250
+Q2 is all about the MCAT equation, right?
+
+00:12:24.380 --> 00:12:27.260
+Um, so it's MC delta T.
+
+00:12:27.910 --> 00:12:30.520
+Something else that's covered
+in this type of chapter.
+
+00:12:31.250 --> 00:12:34.580
+And what we are trying to do is we're
+trying to figure out what the total
+
+00:12:34.580 --> 00:12:37.550
+heat that is required to cool this down.
+
+00:12:38.220 --> 00:12:43.570
+So in order to do the very last
+part, to find the Q total, we
+
+00:12:43.570 --> 00:12:50.260
+gotta add up Q one plus Q two
+in order to get our final value.
+
+00:12:50.989 --> 00:12:54.400
+So we got to do a little bit of
+work here, but let's first take
+
+00:12:54.400 --> 00:12:56.699
+a look at what we did last time.
+
+00:12:57.140 --> 00:12:59.519
+So the first thing we
+need is our mass, right?
+
+00:12:59.540 --> 00:13:05.470
+It was 237 grams is what is
+being given to us in the problem.
+
+00:13:05.470 --> 00:13:08.270
+237 grams of water to be exact.
+
+00:13:08.959 --> 00:13:13.260
+So when we go through that, we
+need to convert that to moles in
+
+00:13:13.329 --> 00:13:15.540
+order to use our first equation.
+
+00:13:16.120 --> 00:13:18.799
+So 237 grams of water.
+
+00:13:19.470 --> 00:13:22.569
+In order to convert that to moles,
+we have to once again use our
+
+00:13:22.569 --> 00:13:29.260
+molar mass, which is 18 grams of
+water is equivalent to one mole.
+
+00:13:29.745 --> 00:13:30.425
+of water.
+
+00:13:32.395 --> 00:13:38.285
+Grams cancels grams, and what we
+are going to get is once we do 237
+
+00:13:38.615 --> 00:13:45.365
+divided by 18, we are going to get
+about, and after rounding, is 13.
+
+00:13:45.755 --> 00:13:47.445
+2 moles of water.
+
+00:13:47.735 --> 00:13:52.935
+Okay, now what we can do is with
+that value is plug it in to our
+
+00:13:52.935 --> 00:13:56.015
+equation from earlier, so that 13.
+
+00:13:56.045 --> 00:13:58.395
+2 moles can get plugged in for n.
+
+00:13:59.305 --> 00:14:04.135
+And being that I, that we have the
+delta H value as well, which was 6.
+
+00:14:04.194 --> 00:14:07.285
+02 times, uh, 6.
+
+00:14:07.285 --> 00:14:10.305
+02 kilojoules, that can get
+plugged in for delta H effusion.
+
+00:14:11.214 --> 00:14:12.584
+So let's solve Q1.
+
+00:14:13.854 --> 00:14:19.214
+So Q1 is, after getting
+all of our values, is 13.
+
+00:14:19.215 --> 00:14:21.885
+2 moles times 6.
+
+00:14:21.955 --> 00:14:25.735
+02 kilojoules for every mole.
+
+00:14:27.095 --> 00:14:30.064
+We can now see that the
+moles will cancel moles.
+
+00:14:30.394 --> 00:14:33.124
+So that's another thing, you can
+always let the units kind of guide
+
+00:14:33.124 --> 00:14:34.854
+your thinking and your process here.
+
+00:14:35.755 --> 00:14:43.155
+Um, and what we will have after
+doing the math is about, um, 79.
+
+00:14:43.355 --> 00:14:46.315
+5 kilojoules for Q1.
+
+00:14:48.655 --> 00:14:49.145
+Q2.
+
+00:14:49.145 --> 00:14:52.385
+So Q2 is using the MCAT equation.
+
+00:14:52.875 --> 00:14:55.235
+So what exactly is happening here?
+
+00:14:55.665 --> 00:14:56.845
+Well, we have our mass, right?
+
+00:14:56.845 --> 00:14:58.125
+That's a 237.
+
+00:14:58.604 --> 00:15:00.155
+What about delta T?
+
+00:15:00.235 --> 00:15:04.195
+So delta T, for those of you
+who might not realize, that is
+
+00:15:04.195 --> 00:15:07.295
+the TF, so final minus initial.
+
+00:15:07.985 --> 00:15:10.215
+Now what was our initial value?
+
+00:15:10.215 --> 00:15:14.125
+Well, looking at our curve, that
+was about 0 degrees Celsius.
+
+00:15:14.780 --> 00:15:17.970
+And end it at about 37 degrees C.
+
+00:15:18.550 --> 00:15:25.069
+So this is our TF and our TI in our
+original equations that we have here.
+
+00:15:25.640 --> 00:15:29.140
+So this is why we want to make sure
+we're organized, labeling what we have,
+
+00:15:29.430 --> 00:15:33.440
+so that way we can see, all right,
+what exactly is going to be happening.
+
+00:15:34.200 --> 00:15:37.100
+So let's kind of write down our Q2 here.
+
+00:15:37.580 --> 00:15:40.460
+So this is MC delta T.
+
+00:15:41.630 --> 00:15:51.379
+M was 237 grams, uh, delta T is going
+to be final, which is 37 degrees C,
+
+00:15:51.920 --> 00:15:57.789
+minus 0 degrees C, which is just 37
+degrees C, um, once we subtract those,
+
+00:15:58.310 --> 00:16:02.469
+and then our C value is another value
+that is given to us, which is 4.
+
+00:16:02.680 --> 00:16:06.490
+186 joules over grams times Celsius.
+
+00:16:07.344 --> 00:16:08.415
+We have all the parts.
+
+00:16:08.785 --> 00:16:09.515
+Let's plug it in.
+
+00:16:11.835 --> 00:16:15.525
+Once we do that, we have our 237 grams.
+
+00:16:15.565 --> 00:16:18.775
+We're going to multiply
+that times our C value.
+
+00:16:19.894 --> 00:16:23.574
+Then we're going to multiply that
+times our change in temperature.
+
+00:16:24.414 --> 00:16:28.454
+And what we are going to end up
+getting for Q, for this Q value,
+
+00:16:29.099 --> 00:16:35.520
+is being that this is in joules,
+this is going to be 36, 707 joules.
+
+00:16:36.170 --> 00:16:39.430
+Now, can I just add the
+two values together?
+
+00:16:39.880 --> 00:16:43.100
+Well, if you notice from
+Q1, this is in kilojoules.
+
+00:16:43.780 --> 00:16:45.620
+Q2 is in joules.
+
+00:16:46.280 --> 00:16:48.990
+So what do we have to do is we have
+to convert them to the same unit.
+
+00:16:49.540 --> 00:16:53.420
+So, it's pretty easy to convert
+to kilojoules, so maybe we'll
+
+00:16:53.420 --> 00:16:54.760
+just do that real quick.
+
+00:16:55.379 --> 00:16:59.980
+So if we divide 36, 707 by
+1000, that will give you your
+
+00:16:59.990 --> 00:17:02.420
+joules, uh, sorry, kilojoules.
+
+00:17:02.430 --> 00:17:03.130
+So that will be 36.
+
+00:17:03.130 --> 00:17:09.940
+7 kilojoules for one number, and then
+we have the other one from earlier.
+
+00:17:10.369 --> 00:17:12.029
+Let's now add them together.
+
+00:17:13.139 --> 00:17:14.319
+So Qtotal.
+
+00:17:15.805 --> 00:17:16.570
+It's going to be 36.
+
+00:17:16.570 --> 00:17:22.444
+7 kilojoules plus our 79.
+
+00:17:22.545 --> 00:17:24.855
+5 kilojoules from earlier.
+
+00:17:25.565 --> 00:17:28.655
+This was Q2 and Q1.
+
+00:17:29.564 --> 00:17:32.464
+So in the very end, what
+you will get is 116.
+
+00:17:32.715 --> 00:17:40.625
+2 kilojoules of total energy that's
+required to melt an ice pack and to heat
+
+00:17:40.645 --> 00:17:43.495
+an ice pack from zero to 37 degrees.
+
+00:17:43.985 --> 00:17:46.365
+So these heat of fusion, heat
+of vaporization problems can
+
+00:17:46.365 --> 00:17:48.845
+get a little involved and they
+can involve a lot of steps.
+
+00:17:49.254 --> 00:17:52.855
+So if you have a multi step heating
+and cooling and phase change, you've
+
+00:17:52.874 --> 00:17:54.795
+got to add up every single part.
+
+00:17:55.574 --> 00:17:58.215
+I hope this video helped you
+try to learn a little bit more
+
+00:17:58.215 --> 00:18:01.174
+about fusion vaporization, going
+through the problem walkthroughs.
+
+00:18:01.614 --> 00:18:02.675
+More videos to come.
+
+00:18:02.675 --> 00:18:05.885
+Please hit that like and subscribe
+button if it has been helping you and
+
+00:18:05.885 --> 00:18:07.115
+thank you so much for your support.
+
+00:18:07.115 --> 00:18:10.075
+Please let me know what you
+thought down below and I hope to
+
+00:18:10.075 --> 00:18:11.575
+see you around for future videos.
+
+00:18:11.905 --> 00:18:12.494
+Bye now.
+
